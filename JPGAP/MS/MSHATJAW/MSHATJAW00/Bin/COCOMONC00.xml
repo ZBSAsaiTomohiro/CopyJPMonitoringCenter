@@ -1,0 +1,73 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+COCOMONC00
+</name>
+</assembly>
+<members>
+<member name="T:COCOMONC00CSQL.CSQL">
+<remarks/>
+</member>
+<member name="M:COCOMONC00CSQL.CSQL.#ctor">
+<remarks/>
+</member>
+<member name="E:COCOMONC00CSQL.CSQL.mGetDataClearRowCompleted">
+<remarks/>
+</member>
+<member name="E:COCOMONC00CSQL.CSQL.mGetDataCompleted">
+<remarks/>
+</member>
+<member name="M:COCOMONC00CSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:COCOMONC00CSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:COCOMONC00CSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:COCOMONC00CSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:COCOMONC00CSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:COCOMONC00CSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:COCOMONC00CSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:COCOMONC00CSQL.CSQL.EndmGetData(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:COCOMONC00CSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:COCOMONC00CSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:COCOMONC00CSQL.CSQL.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:COCOMONC00CSQL.mGetDataClearRowCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:COCOMONC00CSQL.mGetDataClearRowCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:COCOMONC00CSQL.mGetDataClearRowCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:COCOMONC00CSQL.mGetDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:COCOMONC00CSQL.mGetDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:COCOMONC00CSQL.mGetDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

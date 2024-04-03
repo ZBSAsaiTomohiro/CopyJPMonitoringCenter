@@ -1,0 +1,235 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SYBATJAG00
+</name>
+</assembly>
+<members>
+<member name="F:JPG.SYBATJAG00.SYBATJAG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJAG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJAG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJAG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJAG00._rdoKBN1">
+<summary>
+rdoKBN1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJAG00._rdoKBN2">
+<summary>
+rdoKBN2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJAG00._rdoKBN3">
+<summary>
+rdoKBN3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJAG00._cboPROC_ID">
+<summary>
+cboPROC_ID コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJAG00._txtTRGDATE_From">
+<summary>
+txtTRGDATE_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJAG00._txtTRGDATE_To">
+<summary>
+txtTRGDATE_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJAG00._btnSelect">
+<summary>
+btnSelect コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJAG00._hdnKenSaku">
+<summary>
+hdnKenSaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJAG00._hdnSelectClick">
+<summary>
+hdnSelectClick コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJFG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJFG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJFG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJFG00._rptData">
+<summary>
+rptData コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYBATJAG00.SYBATJFG00._Hidden1">
+<summary>
+Hidden1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL">
+<remarks/>
+</member>
+<member name="M:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.mGetDataClearRowCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.mGetDataCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.EndmGetData(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SYBATJAG00.SYBATJAG00CCSQL.CSQL.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.SYBATJAG00.SYBATJAG00CCSQL.mGetDataClearRowCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SYBATJAG00.SYBATJAG00CCSQL.mGetDataClearRowCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SYBATJAG00.SYBATJAG00CCSQL.mGetDataClearRowCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.SYBATJAG00.SYBATJAG00CCSQL.mGetDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SYBATJAG00.SYBATJAG00CCSQL.mGetDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SYBATJAG00.SYBATJAG00CCSQL.mGetDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

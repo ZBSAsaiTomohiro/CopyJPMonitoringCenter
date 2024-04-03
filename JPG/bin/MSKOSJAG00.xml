@@ -1,0 +1,991 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MSKOSJAG00
+</name>
+</assembly>
+<members>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnSelectClick">
+<summary>
+hdnSelectClick コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnPopcrtl">
+<summary>
+hdnPopcrtl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnTaiouClick">
+<summary>
+hdnTaiouClick コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnKEY_CLI_CD">
+<summary>
+hdnKEY_CLI_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnKEY_HAN_CD">
+<summary>
+hdnKEY_HAN_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnKEY_USER_CD">
+<summary>
+hdnKEY_USER_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnMOVE_MITOKBN">
+<summary>
+hdnMOVE_MITOKBN コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnKEY_CLI_CD_TO">
+<summary>
+hdnKEY_CLI_CD_TO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnKEY_JA_CD">
+<summary>
+hdnKEY_JA_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnKEY_HAN_GRP">
+<summary>
+hdnKEY_HAN_GRP コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnScrollTop">
+<summary>
+hdnScrollTop コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._cboKANSCD">
+<summary>
+cboKANSCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._chkHANBAI_KBN1">
+<summary>
+chkHANBAI_KBN1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._chkHANBAI_KBN2">
+<summary>
+chkHANBAI_KBN2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._chkHANBAI_KBN3">
+<summary>
+chkHANBAI_KBN3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._chkHANBAI_KBN4">
+<summary>
+chkHANBAI_KBN4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._chkHANBAI_KBN5">
+<summary>
+chkHANBAI_KBN5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._chkHANBAI_KBN6">
+<summary>
+chkHANBAI_KBN6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._txtTEL">
+<summary>
+txtTEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._chkUSER_FLG0">
+<summary>
+chkUSER_FLG0 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._chkUSER_FLG1">
+<summary>
+chkUSER_FLG1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._chkUSER_FLG2">
+<summary>
+chkUSER_FLG2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._txtNAME">
+<summary>
+txtNAME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._txtUSER_CD">
+<summary>
+txtUSER_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._txtADDR">
+<summary>
+txtADDR コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._txtCLI_CD">
+<summary>
+txtCLI_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._btnCLI_CD">
+<summary>
+btnCLI_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnCLI_CD">
+<summary>
+hdnCLI_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._txtCLI_CD_TO">
+<summary>
+txtCLI_CD_TO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._btnCLI_CD_TO">
+<summary>
+btnCLI_CD_TO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnCLI_CD_TO">
+<summary>
+hdnCLI_CD_TO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._txtHANGRP">
+<summary>
+txtHANGRP コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._btnHANGRP">
+<summary>
+btnHANGRP コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnHANGRP">
+<summary>
+hdnHANGRP コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._txtJA_CD">
+<summary>
+txtJA_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._btnJA_CD">
+<summary>
+btnJA_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnJA_CD">
+<summary>
+hdnJA_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnJA_CD_CLI">
+<summary>
+hdnJA_CD_CLI コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._txtHAN_CD">
+<summary>
+txtHAN_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._btnHAN_CD">
+<summary>
+btnHAN_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnHAN_CD">
+<summary>
+hdnHAN_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnHAN_CD_CLI">
+<summary>
+hdnHAN_CD_CLI コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._txtHAN_CD_TO">
+<summary>
+txtHAN_CD_TO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._btnHAN_CD_TO">
+<summary>
+btnHAN_CD_TO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnHAN_CD_TO">
+<summary>
+hdnHAN_CD_TO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._hdnHAN_CD_TO_CLI">
+<summary>
+hdnHAN_CD_TO_CLI コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJAG00._btnExcel">
+<summary>
+btnExcel コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._rptData">
+<summary>
+rptData コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnJUMP">
+<summary>
+hdnJUMP コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnKEY_CLI_CD">
+<summary>
+hdnKEY_CLI_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnKEY_HAN_CD">
+<summary>
+hdnKEY_HAN_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnKEY_USER_CD">
+<summary>
+hdnKEY_USER_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_NAME">
+<summary>
+hdnMOVE_NAME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_KANAD">
+<summary>
+hdnMOVE_KANAD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_CLI_CD">
+<summary>
+hdnMOVE_CLI_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_CLI_CD_NAME">
+<summary>
+hdnMOVE_CLI_CD_NAME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HAN_CD">
+<summary>
+hdnMOVE_HAN_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HAN_CD_NAME">
+<summary>
+hdnMOVE_HAN_CD_NAME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HAN_CD_TO">
+<summary>
+hdnMOVE_HAN_CD_TO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HAN_CD_NAME_TO">
+<summary>
+hdnMOVE_HAN_CD_NAME_TO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_USER_CD">
+<summary>
+hdnMOVE_USER_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_KANSCD">
+<summary>
+hdnMOVE_KANSCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_TEL">
+<summary>
+hdnMOVE_TEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_MITOKBN">
+<summary>
+hdnMOVE_MITOKBN コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_NCUTEL">
+<summary>
+hdnMOVE_NCUTEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnKEY_JA_CD">
+<summary>
+hdnKEY_JA_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_ADDR">
+<summary>
+hdnMOVE_ADDR コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_JA_CD">
+<summary>
+hdnMOVE_JA_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_JA_CD_NAME">
+<summary>
+hdnMOVE_JA_CD_NAME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnKEY_HAN_GRP">
+<summary>
+hdnKEY_HAN_GRP コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HAN_GRP">
+<summary>
+hdnMOVE_HAN_GRP コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HAN_GRP_NAME">
+<summary>
+hdnMOVE_HAN_GRP_NAME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnScrollTop">
+<summary>
+hdnScrollTop コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_USER_FLG0">
+<summary>
+hdnMOVE_USER_FLG0 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_USER_FLG1">
+<summary>
+hdnMOVE_USER_FLG1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_USER_FLG2">
+<summary>
+hdnMOVE_USER_FLG2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HANBAI_KBN1">
+<summary>
+hdnMOVE_HANBAI_KBN1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HANBAI_KBN2">
+<summary>
+hdnMOVE_HANBAI_KBN2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HANBAI_KBN3">
+<summary>
+hdnMOVE_HANBAI_KBN3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HANBAI_KBN4">
+<summary>
+hdnMOVE_HANBAI_KBN4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HANBAI_KBN5">
+<summary>
+hdnMOVE_HANBAI_KBN5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HANBAI_KBN6">
+<summary>
+hdnMOVE_HANBAI_KBN6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnKEY_KINREN_GRP">
+<summary>
+hdnKEY_KINREN_GRP コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_KINREN_GRP">
+<summary>
+hdnMOVE_KINREN_GRP コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_KINREN_GRP_NAME">
+<summary>
+hdnMOVE_KINREN_GRP_NAME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_CLI_CD_TO">
+<summary>
+hdnMOVE_CLI_CD_TO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_CLI_CD_TO_NAME">
+<summary>
+hdnMOVE_CLI_CD_TO_NAME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_JA_CD_CLI">
+<summary>
+hdnMOVE_JA_CD_CLI コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HAN_CD_CLI">
+<summary>
+hdnMOVE_HAN_CD_CLI コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSKOSJAG00.MSKOSJFG00._hdnMOVE_HAN_CD_TO_CLI">
+<summary>
+hdnMOVE_HAN_CD_TO_CLI コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.mGetDataClearRowCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.mGetDataCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.EndmGetData(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.CSQL.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.mGetDataClearRowCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.mGetDataClearRowCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.mGetDataClearRowCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.mGetDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.mGetDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.MSKOSJAG00.MSKOSJAG00CCSQL.mGetDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.MSKOSJAG00.MSKOSJAG00MSKOSJAW00.MSKOSJAW00">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00MSKOSJAW00.MSKOSJAW00.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.MSKOSJAG00.MSKOSJAG00MSKOSJAW00.MSKOSJAW00.mExcelCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00MSKOSJAW00.MSKOSJAW00.mExcel(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00MSKOSJAW00.MSKOSJAW00.BeginmExcel(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00MSKOSJAW00.MSKOSJAW00.EndmExcel(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00MSKOSJAW00.MSKOSJAW00.mExcelAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00MSKOSJAW00.MSKOSJAW00.mExcelAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSKOSJAG00.MSKOSJAG00MSKOSJAW00.MSKOSJAW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.MSKOSJAG00.MSKOSJAG00MSKOSJAW00.mExcelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.MSKOSJAG00.MSKOSJAG00MSKOSJAW00.mExcelCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.MSKOSJAG00.MSKOSJAG00MSKOSJAW00.mExcelCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

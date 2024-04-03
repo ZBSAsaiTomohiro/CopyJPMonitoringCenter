@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\bin\SYDIKJAW00.dll
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\bin\SYDIKJAW00.pdb
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\bin\SYDIKJAW00.xml
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\bin\CODATABC00.dll
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\bin\CODATABC00.pdb
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\bin\CODATABC00.xml
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\obj\Debug\JPGAP.SYDIKJAW00.SYDIKJAW00.resources
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\obj\Debug\SYDIKJAW00.dll
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\obj\Debug\SYDIKJAW00.xml
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\obj\Debug\SYDIKJAW00.pdb
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\bin\Oracle.DataAccess.dll
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\obj\Debug\SYDIKJAW00.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\obj\Debug\SYDIKJAW00.vbprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\obj\Debug\SYDIKJAW00.vbproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\JPGAP\SY\SYDIKJAW\SYDIKJAW00\bin\SYDIKJAW00.dll.config

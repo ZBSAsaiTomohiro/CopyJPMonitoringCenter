@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/MSRUIJAW00/Service1" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/MSRUIJAW00/Service1" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/MSRUIJAW00/Service1">
+      <s:element name="mSet">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pintMODE" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrID" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKYOKYUCD" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCDFR" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCDTO" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAX1" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAX2" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMAIL1" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMAIL2" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrNXSEND" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrLSSEND" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSENDSTR" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSENDEND" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMAILPASS" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrZIPFILE" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBIKOU" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHASSEI" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKAIPAGE" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKIKAN" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrZEROSEND" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSD_PRT" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSNDSTOP" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDEL" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrADD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrEDT_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrADD_DT" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrEDT_DT" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="mSetResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetEx">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pintMODE" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrID" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKYOKYUCD" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCDFR" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCDTO" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAX1" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAX2" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMAIL1" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMAIL2" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrNXSEND" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrLSSEND" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSENDSTR" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSENDEND" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMAILPASS" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrZIPFILE" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBIKOU" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHASSEI" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKAIPAGE" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKIKAN" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrZEROSEND" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSD_PRT" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSNDSTOP" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDEL" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrADD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrEDT_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrADD_DT" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrEDT_DT" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetExResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetExResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetRuiauto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cdb" type="tns:CDB" />
+            <s:element minOccurs="1" maxOccurs="1" name="pintMODE" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKYOKYUCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCDFR" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCDTO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAX1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAX2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMAIL1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMAIL2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrNXSEND" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrLSSEND" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSENDSTR" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSENDEND" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMAILPASS" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrZIPFILE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBIKOU" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHASSEI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKAIPAGE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKIKAN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrZEROSEND" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSD_PRT" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSNDSTOP" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDEL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrADD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrEDT_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrADD_DT" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrEDT_DT" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="CDB" />
+      <s:element name="mSetRuiautoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetRuiautoResult" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cdb" type="tns:CDB" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mCSV">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSessionID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mCSVResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mCSVResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="mSetSoapIn">
+    <wsdl:part name="parameters" element="tns:mSet" />
+  </wsdl:message>
+  <wsdl:message name="mSetSoapOut">
+    <wsdl:part name="parameters" element="tns:mSetResponse" />
+  </wsdl:message>
+  <wsdl:message name="mSetExSoapIn">
+    <wsdl:part name="parameters" element="tns:mSetEx" />
+  </wsdl:message>
+  <wsdl:message name="mSetExSoapOut">
+    <wsdl:part name="parameters" element="tns:mSetExResponse" />
+  </wsdl:message>
+  <wsdl:message name="mSetRuiautoSoapIn">
+    <wsdl:part name="parameters" element="tns:mSetRuiauto" />
+  </wsdl:message>
+  <wsdl:message name="mSetRuiautoSoapOut">
+    <wsdl:part name="parameters" element="tns:mSetRuiautoResponse" />
+  </wsdl:message>
+  <wsdl:message name="mCSVSoapIn">
+    <wsdl:part name="parameters" element="tns:mCSV" />
+  </wsdl:message>
+  <wsdl:message name="mCSVSoapOut">
+    <wsdl:part name="parameters" element="tns:mCSVResponse" />
+  </wsdl:message>
+  <wsdl:portType name="MSRUIJAW00Soap">
+    <wsdl:operation name="mSet">
+      <wsdl:input message="tns:mSetSoapIn" />
+      <wsdl:output message="tns:mSetSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSetEx">
+      <wsdl:input message="tns:mSetExSoapIn" />
+      <wsdl:output message="tns:mSetExSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSetRuiauto">
+      <wsdl:input message="tns:mSetRuiautoSoapIn" />
+      <wsdl:output message="tns:mSetRuiautoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mCSV">
+      <wsdl:input message="tns:mCSVSoapIn" />
+      <wsdl:output message="tns:mCSVSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="MSRUIJAW00Soap" type="tns:MSRUIJAW00Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mSet">
+      <soap:operation soapAction="http://tempuri.org/MSRUIJAW00/Service1/mSet" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetEx">
+      <soap:operation soapAction="http://tempuri.org/MSRUIJAW00/Service1/mSetEx" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetRuiauto">
+      <soap:operation soapAction="http://tempuri.org/MSRUIJAW00/Service1/mSetRuiauto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mCSV">
+      <soap:operation soapAction="http://tempuri.org/MSRUIJAW00/Service1/mCSV" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="MSRUIJAW00Soap12" type="tns:MSRUIJAW00Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mSet">
+      <soap12:operation soapAction="http://tempuri.org/MSRUIJAW00/Service1/mSet" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetEx">
+      <soap12:operation soapAction="http://tempuri.org/MSRUIJAW00/Service1/mSetEx" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetRuiauto">
+      <soap12:operation soapAction="http://tempuri.org/MSRUIJAW00/Service1/mSetRuiauto" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mCSV">
+      <soap12:operation soapAction="http://tempuri.org/MSRUIJAW00/Service1/mCSV" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MSRUIJAW00">
+    <wsdl:port name="MSRUIJAW00Soap" binding="tns:MSRUIJAW00Soap">
+      <soap:address location="http://knapsv/JPGAP/MS/MSRUIJAW/MSRUIJAW00/MSRUIJAW00.asmx" />
+    </wsdl:port>
+    <wsdl:port name="MSRUIJAW00Soap12" binding="tns:MSRUIJAW00Soap12">
+      <soap12:address location="http://knapsv/JPGAP/MS/MSRUIJAW/MSRUIJAW00/MSRUIJAW00.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

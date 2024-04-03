@@ -1,0 +1,640 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JPG
+</name>
+</assembly>
+<members>
+<member name="F:JPG.AUTHERR._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.AUTHERR._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGBASEG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGBASEG00._hdnSVFLG">
+<summary>
+hdnSVFLG コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGBASEG00._hdnMNFLG">
+<summary>
+hdnMNFLG コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMENUG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNCTG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNCTG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNCTG00._lblTitle">
+<summary>
+lblTitle コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNEGG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNEGG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNKHG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNKHG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNMEG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNMEG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNMLG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNMLG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNMSG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNMSG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNSSG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COGMNSSG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COINDEXG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COINDEXG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COCALDRG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COCALDRG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COCALDRG00._hdnBackDate">
+<summary>
+hdnBackDate コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COCALDRG00._hbdBackFocs">
+<summary>
+hbdBackFocs コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COCALDRG00._calender">
+<summary>
+calender コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUFG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUFG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUFG00._rptIframe">
+<summary>
+rptIframe コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._lblListName">
+<summary>
+lblListName コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnListCd">
+<summary>
+hdnListCd コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnBackCode">
+<summary>
+hdnBackCode コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnBackName">
+<summary>
+hdnBackName コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hbdBackFocs">
+<summary>
+hbdBackFocs コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hbdBackScript">
+<summary>
+hbdBackScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnPopType">
+<summary>
+hdnPopType コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnCode1">
+<summary>
+hdnCode1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnCode2">
+<summary>
+hdnCode2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear1">
+<summary>
+hdnClear1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear2">
+<summary>
+hdnClear2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear3">
+<summary>
+hdnClear3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear4">
+<summary>
+hdnClear4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear5">
+<summary>
+hdnClear5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear6">
+<summary>
+hdnClear6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear7">
+<summary>
+hdnClear7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear8">
+<summary>
+hdnClear8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear9">
+<summary>
+hdnClear9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear10">
+<summary>
+hdnClear10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear11">
+<summary>
+hdnClear11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear12">
+<summary>
+hdnClear12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear13">
+<summary>
+hdnClear13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnClear14">
+<summary>
+hdnClear14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnCode3">
+<summary>
+hdnCode3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnCode4">
+<summary>
+hdnCode4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnCode5">
+<summary>
+hdnCode5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnBackCode2">
+<summary>
+hdnBackCode2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnBackName2">
+<summary>
+hdnBackName2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.COPOPUPG00._hdnBackMode">
+<summary>
+hdnBackMode コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:JPG.JPGCSQL.CSQL">
+<remarks/>
+</member>
+<member name="M:JPG.JPGCSQL.CSQL.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.JPGCSQL.CSQL.mGetDataClearRowCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.JPGCSQL.CSQL.mGetDataCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.JPGCSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.JPGCSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.JPGCSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.JPGCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.JPGCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.JPGCSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.JPGCSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.JPGCSQL.CSQL.EndmGetData(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.JPGCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.JPGCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.JPGCSQL.CSQL.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.JPGCSQL.mGetDataClearRowCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.JPGCSQL.mGetDataClearRowCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.JPGCSQL.mGetDataClearRowCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.JPGCSQL.mGetDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.JPGCSQL.mGetDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.JPGCSQL.mGetDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

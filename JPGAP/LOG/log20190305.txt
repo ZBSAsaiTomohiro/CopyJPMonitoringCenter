@@ -1,0 +1,49 @@
+2019/03/05 11:46:23|mReadkisofile：スタート：20190305114623
+2019/03/05 11:46:55|ERROR：3320行目:販売事業者コード・名称が登録されていません。3330:027101:000027700
+2019/03/05 11:54:25|mReadkisofile：スタート：20190305115425
+2019/03/05 11:54:50|ERROR：3332行目:System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1083
+2019/03/05 11:59:19|mReadkisofile：スタート：20190305115919
+2019/03/05 11:59:45|ERROR：3332行目:System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1083
+2019/03/05 13:12:17|お客様氏名桁数１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０
+2019/03/05 13:18:22|宮古島法人代表者氏名１１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０
+2019/03/05 13:18:35|１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０
+2019/03/05 13:18:46|１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０
+2019/03/05 13:25:40|宮古島法人代表者氏名１１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０
+2019/03/05 13:26:11|宮古島市平良久貝２１２　エコビエント１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０
+2019/03/05 13:26:33|宮古島市平良久貝２１２　エコビエント１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０
+2019/03/05 13:40:46|mReadkisofile：スタート：20190305134046
+2019/03/05 13:41:14|ERROR：3332行目:System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1083
+2019/03/05 14:05:49|mReadkisofile：スタート：20190305140549
+2019/03/05 14:05:49|ERROR：23行目:System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1083
+2019/03/05 14:22:05|mReadkisofile：スタート：20190305142205
+2019/03/05 14:22:09|ERROR：492行目:販売事業者コード・名称が登録されていません。3330:027102:006000800
+2019/03/05 15:29:10|mReadkisofile：スタート：20190305152910
+2019/03/05 15:29:40|ERROR：3801行目:販売事業者コード・名称が登録されていません。3330:027102:006000800
+2019/03/05 15:33:56|mReadkisofile：スタート：20190305153356
+2019/03/05 15:37:27|ERROR：23869行目:販売店コード・名称が登録されていません。3330:352900:011191100
+2019/03/05 15:55:06|mReadkisofile：スタート：20190305155506
+2019/03/05 15:58:19|ERROR：23869行目:販売店コード・名称が登録されていません。3330:352900:011191100
+2019/03/05 16:04:57|mReadkisofile：スタート：20190305160457
+2019/03/05 16:08:11|ERROR：23869行目:販売店コード・名称が登録されていません。3330:352900:011191100
+2019/03/05 16:29:40|mReadkisofile：スタート：20190305162940
+2019/03/05 16:34:35|ERROR：36102行目:販売店コード・名称が登録されていません。3330:605900:000000040
+2019/03/05 16:43:29|mReadkisofile：スタート：20190305164329
+2019/03/05 16:48:13|ERROR：36102行目:販売店コード・名称が登録されていません。3330:605900:000000040
+2019/03/05 17:03:49|mReadkisofile：スタート：20190305170349
+2019/03/05 17:08:31|ERROR：36102行目:販売事業者コード・名称が登録されていません。3330:605900:000000040
+2019/03/05 17:11:11|mReadkisofile：スタート：20190305171111
+2019/03/05 17:16:02|ERROR：37241行目:販売店コード・名称が登録されていません。3330:616030:000500600
+2019/03/05 17:20:33|mReadkisofile：スタート：20190305172033
+2019/03/05 17:25:59|ERROR：42266行目:販売店コード・名称が登録されていません。3330:879800:000000010
+2019/03/05 17:52:20|mReadkisofile：スタート：20190305175220
+2019/03/05 17:58:04|ERROR：42266行目:販売店コード・名称が登録されていません。3330:879800:000000010
+2019/03/05 18:14:38|mReadkisofile：スタート：20190305181438
+2019/03/05 18:20:27|ERROR：42735行目:販売事業者コード・名称が登録されていません。3330:882508:000002200
+2019/03/05 18:23:05|mReadkisofile：スタート：20190305182305
+2019/03/05 18:28:51|mReadkisofile：エンド　：20190305182851
+2019/03/05 18:29:46|mReadkisofile：スタート：20190305182946
+2019/03/05 18:35:31|mReadkisofile：エンド　：20190305183531

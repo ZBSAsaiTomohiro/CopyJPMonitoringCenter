@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://tempuri.org/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="mGetDataClearRow">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pSQL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pDs">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+            <s:element minOccurs="1" maxOccurs="1" name="pNoDatRec" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="pClearRow" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mGetDataClearRowResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mGetDataClearRowResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mGetData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pSQL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pDs">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+            <s:element minOccurs="1" maxOccurs="1" name="pNoDatRec" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mGetDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mGetDataResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </types>
+  <message name="mGetDataClearRowSoapIn">
+    <part name="parameters" element="s0:mGetDataClearRow" />
+  </message>
+  <message name="mGetDataClearRowSoapOut">
+    <part name="parameters" element="s0:mGetDataClearRowResponse" />
+  </message>
+  <message name="mGetDataSoapIn">
+    <part name="parameters" element="s0:mGetData" />
+  </message>
+  <message name="mGetDataSoapOut">
+    <part name="parameters" element="s0:mGetDataResponse" />
+  </message>
+  <portType name="CSQLSoap">
+    <operation name="mGetDataClearRow">
+      <input message="s0:mGetDataClearRowSoapIn" />
+      <output message="s0:mGetDataClearRowSoapOut" />
+    </operation>
+    <operation name="mGetData">
+      <input message="s0:mGetDataSoapIn" />
+      <output message="s0:mGetDataSoapOut" />
+    </operation>
+  </portType>
+  <binding name="CSQLSoap" type="s0:CSQLSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="mGetDataClearRow">
+      <soap:operation soapAction="http://tempuri.org/mGetDataClearRow" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="mGetData">
+      <soap:operation soapAction="http://tempuri.org/mGetData" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="CSQL">
+    <port name="CSQLSoap" binding="s0:CSQLSoap">
+      <soap:address location="http://knapsv/jpgap/CO/COCOMONW/COCOMONW00/CSQL.asmx" />
+    </port>
+  </service>
+</definitions>

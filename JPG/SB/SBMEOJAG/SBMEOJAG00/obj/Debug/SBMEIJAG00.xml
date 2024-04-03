@@ -1,0 +1,163 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SBMEIJAG00
+</name>
+</assembly>
+<members>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._hdnPopcrtl">
+<summary>
+hdnPopcrtl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._txtNENDO">
+<summary>
+txtNENDO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._rdoDATA1">
+<summary>
+rdoDATA1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._rdoDATA2">
+<summary>
+rdoDATA2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._btnSelect">
+<summary>
+btnSelect コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mOpenCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mExcelCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mOpen(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.BeginmOpen(System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.EndmOpen(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mOpenAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mOpenAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mExcel(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.BeginmExcel(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.EndmExcel(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mExcelAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mExcelAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mOpenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mOpenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mOpenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mExcelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mExcelCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mExcelCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

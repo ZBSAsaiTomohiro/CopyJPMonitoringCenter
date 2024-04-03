@@ -1,0 +1,5704 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MSJINJAG00
+</name>
+</assembly>
+<members>
+<member name="F:MSJINJAG00.MSJINJAG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnPopcrtl">
+<summary>
+hdnPopcrtl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._btnSelect">
+<summary>
+btnSelect コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._btnUpdate">
+<summary>
+btnUpdate コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._btnDelete">
+<summary>
+btnDelete コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._btnClear">
+<summary>
+btnClear コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnKBN">
+<summary>
+hdnKBN コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_1">
+<summary>
+hdnINS_DATE_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_2">
+<summary>
+hdnINS_DATE_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_3">
+<summary>
+hdnINS_DATE_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_4">
+<summary>
+hdnINS_DATE_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_5">
+<summary>
+hdnINS_DATE_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_6">
+<summary>
+hdnINS_DATE_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_7">
+<summary>
+hdnINS_DATE_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_8">
+<summary>
+hdnINS_DATE_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_9">
+<summary>
+hdnINS_DATE_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_10">
+<summary>
+hdnINS_DATE_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_11">
+<summary>
+hdnINS_DATE_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_12">
+<summary>
+hdnINS_DATE_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_13">
+<summary>
+hdnINS_DATE_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_14">
+<summary>
+hdnINS_DATE_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_15">
+<summary>
+hdnINS_DATE_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_16">
+<summary>
+hdnINS_DATE_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_17">
+<summary>
+hdnINS_DATE_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_18">
+<summary>
+hdnINS_DATE_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_19">
+<summary>
+hdnINS_DATE_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_20">
+<summary>
+hdnINS_DATE_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_21">
+<summary>
+hdnINS_DATE_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_22">
+<summary>
+hdnINS_DATE_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_23">
+<summary>
+hdnINS_DATE_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_24">
+<summary>
+hdnINS_DATE_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_25">
+<summary>
+hdnINS_DATE_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_26">
+<summary>
+hdnINS_DATE_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_27">
+<summary>
+hdnINS_DATE_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_28">
+<summary>
+hdnINS_DATE_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_29">
+<summary>
+hdnINS_DATE_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnINS_DATE_30">
+<summary>
+hdnINS_DATE_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_1">
+<summary>
+hdnUPD_DATE_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_2">
+<summary>
+hdnUPD_DATE_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_3">
+<summary>
+hdnUPD_DATE_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_4">
+<summary>
+hdnUPD_DATE_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_5">
+<summary>
+hdnUPD_DATE_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_6">
+<summary>
+hdnUPD_DATE_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_7">
+<summary>
+hdnUPD_DATE_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_8">
+<summary>
+hdnUPD_DATE_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_9">
+<summary>
+hdnUPD_DATE_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_10">
+<summary>
+hdnUPD_DATE_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_11">
+<summary>
+hdnUPD_DATE_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_12">
+<summary>
+hdnUPD_DATE_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_13">
+<summary>
+hdnUPD_DATE_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_14">
+<summary>
+hdnUPD_DATE_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_15">
+<summary>
+hdnUPD_DATE_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_16">
+<summary>
+hdnUPD_DATE_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_17">
+<summary>
+hdnUPD_DATE_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_18">
+<summary>
+hdnUPD_DATE_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_19">
+<summary>
+hdnUPD_DATE_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_20">
+<summary>
+hdnUPD_DATE_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_21">
+<summary>
+hdnUPD_DATE_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_22">
+<summary>
+hdnUPD_DATE_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_23">
+<summary>
+hdnUPD_DATE_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_24">
+<summary>
+hdnUPD_DATE_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_25">
+<summary>
+hdnUPD_DATE_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_26">
+<summary>
+hdnUPD_DATE_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_27">
+<summary>
+hdnUPD_DATE_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_28">
+<summary>
+hdnUPD_DATE_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_29">
+<summary>
+hdnUPD_DATE_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnUPD_DATE_30">
+<summary>
+hdnUPD_DATE_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtGROUPCD">
+<summary>
+txtGROUPCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._btnGROUPCD">
+<summary>
+btnGROUPCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnGROUPCD">
+<summary>
+hdnGROUPCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnGROUPCD_MOTO">
+<summary>
+hdnGROUPCD_MOTO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtGROUPCD_NEW">
+<summary>
+txtGROUPCD_NEW コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._btnKEIHOList">
+<summary>
+btnKEIHOList コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._btnCSVout">
+<summary>
+btnCSVout コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtGROUPNM">
+<summary>
+txtGROUPNM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_1">
+<summary>
+txtNo_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_1">
+<summary>
+chkDEL_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_1">
+<summary>
+hdnDEL_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_1">
+<summary>
+txtKMCD_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_1">
+<summary>
+txtKMNM_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_1">
+<summary>
+cboPROCKBN_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_1">
+<summary>
+cboTAIOKBN_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_1">
+<summary>
+cboTMSKB_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_1">
+<summary>
+txtTKTANCD_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_1">
+<summary>
+cboTAITCD_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_1">
+<summary>
+cboTFKICD_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_1">
+<summary>
+cboTKIGCD_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_1">
+<summary>
+cboTSADCD_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_1">
+<summary>
+cboTELRCD_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_1">
+<summary>
+txtTEL_MEMO1_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_1">
+<summary>
+cboUSE_FLG_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_1">
+<summary>
+txtBIKO_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_2">
+<summary>
+txtNo_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_2">
+<summary>
+chkDEL_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_2">
+<summary>
+hdnDEL_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_2">
+<summary>
+txtKMCD_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_2">
+<summary>
+txtKMNM_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_2">
+<summary>
+cboPROCKBN_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_2">
+<summary>
+cboTAIOKBN_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_2">
+<summary>
+cboTMSKB_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_2">
+<summary>
+txtTKTANCD_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_2">
+<summary>
+cboTAITCD_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_2">
+<summary>
+cboTFKICD_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_2">
+<summary>
+cboTKIGCD_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_2">
+<summary>
+cboTSADCD_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_2">
+<summary>
+cboTELRCD_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_2">
+<summary>
+txtTEL_MEMO1_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_2">
+<summary>
+cboUSE_FLG_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_2">
+<summary>
+txtBIKO_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_3">
+<summary>
+txtNo_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_3">
+<summary>
+chkDEL_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_3">
+<summary>
+hdnDEL_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_3">
+<summary>
+txtKMCD_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_3">
+<summary>
+txtKMNM_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_3">
+<summary>
+cboPROCKBN_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_3">
+<summary>
+cboTAIOKBN_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_3">
+<summary>
+cboTMSKB_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_3">
+<summary>
+txtTKTANCD_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_3">
+<summary>
+cboTAITCD_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_3">
+<summary>
+cboTFKICD_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_3">
+<summary>
+cboTKIGCD_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_3">
+<summary>
+cboTSADCD_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_3">
+<summary>
+cboTELRCD_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_3">
+<summary>
+txtTEL_MEMO1_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_3">
+<summary>
+cboUSE_FLG_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_3">
+<summary>
+txtBIKO_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_4">
+<summary>
+txtNo_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_4">
+<summary>
+chkDEL_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_4">
+<summary>
+hdnDEL_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_4">
+<summary>
+txtKMCD_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_4">
+<summary>
+txtKMNM_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_4">
+<summary>
+cboPROCKBN_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_4">
+<summary>
+cboTAIOKBN_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_4">
+<summary>
+cboTMSKB_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_4">
+<summary>
+txtTKTANCD_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_4">
+<summary>
+cboTAITCD_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_4">
+<summary>
+cboTFKICD_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_4">
+<summary>
+cboTKIGCD_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_4">
+<summary>
+cboTSADCD_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_4">
+<summary>
+cboTELRCD_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_4">
+<summary>
+txtTEL_MEMO1_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_4">
+<summary>
+cboUSE_FLG_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_4">
+<summary>
+txtBIKO_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_5">
+<summary>
+txtNo_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_5">
+<summary>
+chkDEL_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_5">
+<summary>
+hdnDEL_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_5">
+<summary>
+txtKMCD_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_5">
+<summary>
+txtKMNM_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_5">
+<summary>
+cboPROCKBN_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_5">
+<summary>
+cboTAIOKBN_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_5">
+<summary>
+cboTMSKB_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_5">
+<summary>
+txtTKTANCD_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_5">
+<summary>
+cboTAITCD_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_5">
+<summary>
+cboTFKICD_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_5">
+<summary>
+cboTKIGCD_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_5">
+<summary>
+cboTSADCD_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_5">
+<summary>
+cboTELRCD_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_5">
+<summary>
+txtTEL_MEMO1_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_5">
+<summary>
+cboUSE_FLG_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_5">
+<summary>
+txtBIKO_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_6">
+<summary>
+txtNo_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_6">
+<summary>
+chkDEL_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_6">
+<summary>
+hdnDEL_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_6">
+<summary>
+txtKMCD_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_6">
+<summary>
+txtKMNM_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_6">
+<summary>
+cboPROCKBN_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_6">
+<summary>
+cboTAIOKBN_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_6">
+<summary>
+cboTMSKB_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_6">
+<summary>
+txtTKTANCD_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_6">
+<summary>
+cboTAITCD_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_6">
+<summary>
+cboTFKICD_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_6">
+<summary>
+cboTKIGCD_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_6">
+<summary>
+cboTSADCD_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_6">
+<summary>
+cboTELRCD_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_6">
+<summary>
+txtTEL_MEMO1_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_6">
+<summary>
+cboUSE_FLG_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_6">
+<summary>
+txtBIKO_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_7">
+<summary>
+txtNo_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_7">
+<summary>
+chkDEL_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_7">
+<summary>
+hdnDEL_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_7">
+<summary>
+txtKMCD_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_7">
+<summary>
+txtKMNM_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_7">
+<summary>
+cboPROCKBN_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_7">
+<summary>
+cboTAIOKBN_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_7">
+<summary>
+cboTMSKB_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_7">
+<summary>
+txtTKTANCD_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_7">
+<summary>
+cboTAITCD_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_7">
+<summary>
+cboTFKICD_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_7">
+<summary>
+cboTKIGCD_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_7">
+<summary>
+cboTSADCD_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_7">
+<summary>
+cboTELRCD_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_7">
+<summary>
+txtTEL_MEMO1_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_7">
+<summary>
+cboUSE_FLG_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_7">
+<summary>
+txtBIKO_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_8">
+<summary>
+txtNo_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_8">
+<summary>
+chkDEL_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_8">
+<summary>
+hdnDEL_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_8">
+<summary>
+txtKMCD_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_8">
+<summary>
+txtKMNM_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_8">
+<summary>
+cboPROCKBN_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_8">
+<summary>
+cboTAIOKBN_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_8">
+<summary>
+cboTMSKB_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_8">
+<summary>
+txtTKTANCD_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_8">
+<summary>
+cboTAITCD_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_8">
+<summary>
+cboTFKICD_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_8">
+<summary>
+cboTKIGCD_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_8">
+<summary>
+cboTSADCD_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_8">
+<summary>
+cboTELRCD_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_8">
+<summary>
+txtTEL_MEMO1_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_8">
+<summary>
+cboUSE_FLG_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_8">
+<summary>
+txtBIKO_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_9">
+<summary>
+txtNo_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_9">
+<summary>
+chkDEL_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_9">
+<summary>
+hdnDEL_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_9">
+<summary>
+txtKMCD_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_9">
+<summary>
+txtKMNM_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_9">
+<summary>
+cboPROCKBN_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_9">
+<summary>
+cboTAIOKBN_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_9">
+<summary>
+cboTMSKB_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_9">
+<summary>
+txtTKTANCD_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_9">
+<summary>
+cboTAITCD_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_9">
+<summary>
+cboTFKICD_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_9">
+<summary>
+cboTKIGCD_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_9">
+<summary>
+cboTSADCD_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_9">
+<summary>
+cboTELRCD_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_9">
+<summary>
+txtTEL_MEMO1_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_9">
+<summary>
+cboUSE_FLG_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_9">
+<summary>
+txtBIKO_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_10">
+<summary>
+txtNo_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_10">
+<summary>
+chkDEL_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_10">
+<summary>
+hdnDEL_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_10">
+<summary>
+txtKMCD_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_10">
+<summary>
+txtKMNM_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_10">
+<summary>
+cboPROCKBN_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_10">
+<summary>
+cboTAIOKBN_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_10">
+<summary>
+cboTMSKB_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_10">
+<summary>
+txtTKTANCD_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_10">
+<summary>
+cboTAITCD_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_10">
+<summary>
+cboTFKICD_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_10">
+<summary>
+cboTKIGCD_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_10">
+<summary>
+cboTSADCD_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_10">
+<summary>
+cboTELRCD_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_10">
+<summary>
+txtTEL_MEMO1_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_10">
+<summary>
+cboUSE_FLG_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_10">
+<summary>
+txtBIKO_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_11">
+<summary>
+txtNo_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_11">
+<summary>
+chkDEL_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_11">
+<summary>
+hdnDEL_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_11">
+<summary>
+txtKMCD_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_11">
+<summary>
+txtKMNM_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_11">
+<summary>
+cboPROCKBN_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_11">
+<summary>
+cboTAIOKBN_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_11">
+<summary>
+cboTMSKB_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_11">
+<summary>
+txtTKTANCD_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_11">
+<summary>
+cboTAITCD_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_11">
+<summary>
+cboTFKICD_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_11">
+<summary>
+cboTKIGCD_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_11">
+<summary>
+cboTSADCD_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_11">
+<summary>
+cboTELRCD_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_11">
+<summary>
+txtTEL_MEMO1_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_11">
+<summary>
+cboUSE_FLG_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_11">
+<summary>
+txtBIKO_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_12">
+<summary>
+txtNo_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_12">
+<summary>
+chkDEL_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_12">
+<summary>
+hdnDEL_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_12">
+<summary>
+txtKMCD_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_12">
+<summary>
+txtKMNM_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_12">
+<summary>
+cboPROCKBN_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_12">
+<summary>
+cboTAIOKBN_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_12">
+<summary>
+cboTMSKB_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_12">
+<summary>
+txtTKTANCD_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_12">
+<summary>
+cboTAITCD_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_12">
+<summary>
+cboTFKICD_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_12">
+<summary>
+cboTKIGCD_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_12">
+<summary>
+cboTSADCD_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_12">
+<summary>
+cboTELRCD_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_12">
+<summary>
+txtTEL_MEMO1_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_12">
+<summary>
+cboUSE_FLG_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_12">
+<summary>
+txtBIKO_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_13">
+<summary>
+txtNo_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_13">
+<summary>
+chkDEL_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_13">
+<summary>
+hdnDEL_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_13">
+<summary>
+txtKMCD_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_13">
+<summary>
+txtKMNM_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_13">
+<summary>
+cboPROCKBN_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_13">
+<summary>
+cboTAIOKBN_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_13">
+<summary>
+cboTMSKB_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_13">
+<summary>
+txtTKTANCD_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_13">
+<summary>
+cboTAITCD_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_13">
+<summary>
+cboTFKICD_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_13">
+<summary>
+cboTKIGCD_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_13">
+<summary>
+cboTSADCD_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_13">
+<summary>
+cboTELRCD_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_13">
+<summary>
+txtTEL_MEMO1_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_13">
+<summary>
+cboUSE_FLG_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_13">
+<summary>
+txtBIKO_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_14">
+<summary>
+txtNo_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_14">
+<summary>
+chkDEL_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_14">
+<summary>
+hdnDEL_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_14">
+<summary>
+txtKMCD_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_14">
+<summary>
+txtKMNM_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_14">
+<summary>
+cboPROCKBN_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_14">
+<summary>
+cboTAIOKBN_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_14">
+<summary>
+cboTMSKB_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_14">
+<summary>
+txtTKTANCD_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_14">
+<summary>
+cboTAITCD_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_14">
+<summary>
+cboTFKICD_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_14">
+<summary>
+cboTKIGCD_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_14">
+<summary>
+cboTSADCD_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_14">
+<summary>
+cboTELRCD_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_14">
+<summary>
+txtTEL_MEMO1_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_14">
+<summary>
+cboUSE_FLG_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_14">
+<summary>
+txtBIKO_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_15">
+<summary>
+txtNo_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_15">
+<summary>
+chkDEL_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_15">
+<summary>
+hdnDEL_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_15">
+<summary>
+txtKMCD_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_15">
+<summary>
+txtKMNM_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_15">
+<summary>
+cboPROCKBN_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_15">
+<summary>
+cboTAIOKBN_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_15">
+<summary>
+cboTMSKB_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_15">
+<summary>
+txtTKTANCD_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_15">
+<summary>
+cboTAITCD_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_15">
+<summary>
+cboTFKICD_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_15">
+<summary>
+cboTKIGCD_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_15">
+<summary>
+cboTSADCD_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_15">
+<summary>
+cboTELRCD_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_15">
+<summary>
+txtTEL_MEMO1_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_15">
+<summary>
+cboUSE_FLG_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_15">
+<summary>
+txtBIKO_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_16">
+<summary>
+txtNo_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_16">
+<summary>
+chkDEL_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_16">
+<summary>
+hdnDEL_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_16">
+<summary>
+txtKMCD_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_16">
+<summary>
+txtKMNM_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_16">
+<summary>
+cboPROCKBN_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_16">
+<summary>
+cboTAIOKBN_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_16">
+<summary>
+cboTMSKB_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_16">
+<summary>
+txtTKTANCD_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_16">
+<summary>
+cboTAITCD_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_16">
+<summary>
+cboTFKICD_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_16">
+<summary>
+cboTKIGCD_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_16">
+<summary>
+cboTSADCD_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_16">
+<summary>
+cboTELRCD_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_16">
+<summary>
+txtTEL_MEMO1_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_16">
+<summary>
+cboUSE_FLG_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_16">
+<summary>
+txtBIKO_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_17">
+<summary>
+txtNo_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_17">
+<summary>
+chkDEL_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_17">
+<summary>
+hdnDEL_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_17">
+<summary>
+txtKMCD_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_17">
+<summary>
+txtKMNM_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_17">
+<summary>
+cboPROCKBN_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_17">
+<summary>
+cboTAIOKBN_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_17">
+<summary>
+cboTMSKB_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_17">
+<summary>
+txtTKTANCD_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_17">
+<summary>
+cboTAITCD_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_17">
+<summary>
+cboTFKICD_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_17">
+<summary>
+cboTKIGCD_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_17">
+<summary>
+cboTSADCD_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_17">
+<summary>
+cboTELRCD_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_17">
+<summary>
+txtTEL_MEMO1_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_17">
+<summary>
+cboUSE_FLG_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_17">
+<summary>
+txtBIKO_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_18">
+<summary>
+txtNo_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_18">
+<summary>
+chkDEL_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_18">
+<summary>
+hdnDEL_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_18">
+<summary>
+txtKMCD_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_18">
+<summary>
+txtKMNM_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_18">
+<summary>
+cboPROCKBN_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_18">
+<summary>
+cboTAIOKBN_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_18">
+<summary>
+cboTMSKB_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_18">
+<summary>
+txtTKTANCD_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_18">
+<summary>
+cboTAITCD_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_18">
+<summary>
+cboTFKICD_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_18">
+<summary>
+cboTKIGCD_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_18">
+<summary>
+cboTSADCD_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_18">
+<summary>
+cboTELRCD_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_18">
+<summary>
+txtTEL_MEMO1_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_18">
+<summary>
+cboUSE_FLG_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_18">
+<summary>
+txtBIKO_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_19">
+<summary>
+txtNo_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_19">
+<summary>
+chkDEL_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_19">
+<summary>
+hdnDEL_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_19">
+<summary>
+txtKMCD_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_19">
+<summary>
+txtKMNM_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_19">
+<summary>
+cboPROCKBN_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_19">
+<summary>
+cboTAIOKBN_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_19">
+<summary>
+cboTMSKB_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_19">
+<summary>
+txtTKTANCD_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_19">
+<summary>
+cboTAITCD_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_19">
+<summary>
+cboTFKICD_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_19">
+<summary>
+cboTKIGCD_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_19">
+<summary>
+cboTSADCD_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_19">
+<summary>
+cboTELRCD_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_19">
+<summary>
+txtTEL_MEMO1_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_19">
+<summary>
+cboUSE_FLG_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_19">
+<summary>
+txtBIKO_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_20">
+<summary>
+txtNo_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_20">
+<summary>
+chkDEL_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_20">
+<summary>
+hdnDEL_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_20">
+<summary>
+txtKMCD_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_20">
+<summary>
+txtKMNM_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_20">
+<summary>
+cboPROCKBN_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_20">
+<summary>
+cboTAIOKBN_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_20">
+<summary>
+cboTMSKB_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_20">
+<summary>
+txtTKTANCD_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_20">
+<summary>
+cboTAITCD_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_20">
+<summary>
+cboTFKICD_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_20">
+<summary>
+cboTKIGCD_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_20">
+<summary>
+cboTSADCD_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_20">
+<summary>
+cboTELRCD_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_20">
+<summary>
+txtTEL_MEMO1_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_20">
+<summary>
+cboUSE_FLG_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_20">
+<summary>
+txtBIKO_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_21">
+<summary>
+txtNo_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_21">
+<summary>
+chkDEL_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_21">
+<summary>
+hdnDEL_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_21">
+<summary>
+txtKMCD_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_21">
+<summary>
+txtKMNM_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_21">
+<summary>
+cboPROCKBN_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_21">
+<summary>
+cboTAIOKBN_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_21">
+<summary>
+cboTMSKB_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_21">
+<summary>
+txtTKTANCD_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_21">
+<summary>
+cboTAITCD_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_21">
+<summary>
+cboTFKICD_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_21">
+<summary>
+cboTKIGCD_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_21">
+<summary>
+cboTSADCD_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_21">
+<summary>
+cboTELRCD_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_21">
+<summary>
+txtTEL_MEMO1_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_21">
+<summary>
+cboUSE_FLG_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_21">
+<summary>
+txtBIKO_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_22">
+<summary>
+txtNo_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_22">
+<summary>
+chkDEL_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_22">
+<summary>
+hdnDEL_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_22">
+<summary>
+txtKMCD_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_22">
+<summary>
+txtKMNM_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_22">
+<summary>
+cboPROCKBN_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_22">
+<summary>
+cboTAIOKBN_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_22">
+<summary>
+cboTMSKB_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_22">
+<summary>
+txtTKTANCD_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_22">
+<summary>
+cboTAITCD_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_22">
+<summary>
+cboTFKICD_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_22">
+<summary>
+cboTKIGCD_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_22">
+<summary>
+cboTSADCD_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_22">
+<summary>
+cboTELRCD_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_22">
+<summary>
+txtTEL_MEMO1_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_22">
+<summary>
+cboUSE_FLG_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_22">
+<summary>
+txtBIKO_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_23">
+<summary>
+txtNo_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_23">
+<summary>
+chkDEL_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_23">
+<summary>
+hdnDEL_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_23">
+<summary>
+txtKMCD_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_23">
+<summary>
+txtKMNM_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_23">
+<summary>
+cboPROCKBN_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_23">
+<summary>
+cboTAIOKBN_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_23">
+<summary>
+cboTMSKB_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_23">
+<summary>
+txtTKTANCD_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_23">
+<summary>
+cboTAITCD_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_23">
+<summary>
+cboTFKICD_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_23">
+<summary>
+cboTKIGCD_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_23">
+<summary>
+cboTSADCD_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_23">
+<summary>
+cboTELRCD_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_23">
+<summary>
+txtTEL_MEMO1_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_23">
+<summary>
+cboUSE_FLG_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_23">
+<summary>
+txtBIKO_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_24">
+<summary>
+txtNo_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_24">
+<summary>
+chkDEL_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_24">
+<summary>
+hdnDEL_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_24">
+<summary>
+txtKMCD_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_24">
+<summary>
+txtKMNM_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_24">
+<summary>
+cboPROCKBN_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_24">
+<summary>
+cboTAIOKBN_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_24">
+<summary>
+cboTMSKB_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_24">
+<summary>
+txtTKTANCD_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_24">
+<summary>
+cboTAITCD_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_24">
+<summary>
+cboTFKICD_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_24">
+<summary>
+cboTKIGCD_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_24">
+<summary>
+cboTSADCD_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_24">
+<summary>
+cboTELRCD_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_24">
+<summary>
+txtTEL_MEMO1_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_24">
+<summary>
+cboUSE_FLG_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_24">
+<summary>
+txtBIKO_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_25">
+<summary>
+txtNo_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_25">
+<summary>
+chkDEL_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_25">
+<summary>
+hdnDEL_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_25">
+<summary>
+txtKMCD_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_25">
+<summary>
+txtKMNM_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_25">
+<summary>
+cboPROCKBN_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_25">
+<summary>
+cboTAIOKBN_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_25">
+<summary>
+cboTMSKB_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_25">
+<summary>
+txtTKTANCD_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_25">
+<summary>
+cboTAITCD_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_25">
+<summary>
+cboTFKICD_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_25">
+<summary>
+cboTKIGCD_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_25">
+<summary>
+cboTSADCD_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_25">
+<summary>
+cboTELRCD_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_25">
+<summary>
+txtTEL_MEMO1_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_25">
+<summary>
+cboUSE_FLG_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_25">
+<summary>
+txtBIKO_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_26">
+<summary>
+txtNo_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_26">
+<summary>
+chkDEL_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_26">
+<summary>
+hdnDEL_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_26">
+<summary>
+txtKMCD_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_26">
+<summary>
+txtKMNM_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_26">
+<summary>
+cboPROCKBN_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_26">
+<summary>
+cboTAIOKBN_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_26">
+<summary>
+cboTMSKB_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_26">
+<summary>
+txtTKTANCD_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_26">
+<summary>
+cboTAITCD_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_26">
+<summary>
+cboTFKICD_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_26">
+<summary>
+cboTKIGCD_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_26">
+<summary>
+cboTSADCD_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_26">
+<summary>
+cboTELRCD_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_26">
+<summary>
+txtTEL_MEMO1_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_26">
+<summary>
+cboUSE_FLG_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_26">
+<summary>
+txtBIKO_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_27">
+<summary>
+txtNo_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_27">
+<summary>
+chkDEL_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_27">
+<summary>
+hdnDEL_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_27">
+<summary>
+txtKMCD_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_27">
+<summary>
+txtKMNM_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_27">
+<summary>
+cboPROCKBN_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_27">
+<summary>
+cboTAIOKBN_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_27">
+<summary>
+cboTMSKB_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_27">
+<summary>
+txtTKTANCD_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_27">
+<summary>
+cboTAITCD_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_27">
+<summary>
+cboTFKICD_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_27">
+<summary>
+cboTKIGCD_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_27">
+<summary>
+cboTSADCD_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_27">
+<summary>
+cboTELRCD_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_27">
+<summary>
+txtTEL_MEMO1_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_27">
+<summary>
+cboUSE_FLG_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_27">
+<summary>
+txtBIKO_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_28">
+<summary>
+txtNo_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_28">
+<summary>
+chkDEL_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_28">
+<summary>
+hdnDEL_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_28">
+<summary>
+txtKMCD_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_28">
+<summary>
+txtKMNM_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_28">
+<summary>
+cboPROCKBN_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_28">
+<summary>
+cboTAIOKBN_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_28">
+<summary>
+cboTMSKB_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_28">
+<summary>
+txtTKTANCD_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_28">
+<summary>
+cboTAITCD_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_28">
+<summary>
+cboTFKICD_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_28">
+<summary>
+cboTKIGCD_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_28">
+<summary>
+cboTSADCD_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_28">
+<summary>
+cboTELRCD_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_28">
+<summary>
+txtTEL_MEMO1_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_28">
+<summary>
+cboUSE_FLG_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_28">
+<summary>
+txtBIKO_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_29">
+<summary>
+txtNo_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_29">
+<summary>
+chkDEL_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_29">
+<summary>
+hdnDEL_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_29">
+<summary>
+txtKMCD_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_29">
+<summary>
+txtKMNM_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_29">
+<summary>
+cboPROCKBN_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_29">
+<summary>
+cboTAIOKBN_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_29">
+<summary>
+cboTMSKB_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_29">
+<summary>
+txtTKTANCD_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_29">
+<summary>
+cboTAITCD_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_29">
+<summary>
+cboTFKICD_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_29">
+<summary>
+cboTKIGCD_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_29">
+<summary>
+cboTSADCD_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_29">
+<summary>
+cboTELRCD_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_29">
+<summary>
+txtTEL_MEMO1_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_29">
+<summary>
+cboUSE_FLG_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_29">
+<summary>
+txtBIKO_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtNo_30">
+<summary>
+txtNo_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._chkDEL_30">
+<summary>
+chkDEL_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._hdnDEL_30">
+<summary>
+hdnDEL_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMCD_30">
+<summary>
+txtKMCD_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtKMNM_30">
+<summary>
+txtKMNM_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboPROCKBN_30">
+<summary>
+cboPROCKBN_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAIOKBN_30">
+<summary>
+cboTAIOKBN_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTMSKB_30">
+<summary>
+cboTMSKB_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTKTANCD_30">
+<summary>
+txtTKTANCD_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTAITCD_30">
+<summary>
+cboTAITCD_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTFKICD_30">
+<summary>
+cboTFKICD_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTKIGCD_30">
+<summary>
+cboTKIGCD_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTSADCD_30">
+<summary>
+cboTSADCD_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboTELRCD_30">
+<summary>
+cboTELRCD_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtTEL_MEMO1_30">
+<summary>
+txtTEL_MEMO1_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._cboUSE_FLG_30">
+<summary>
+cboUSE_FLG_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJAG00._txtBIKO_30">
+<summary>
+txtBIKO_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJBG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJBG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJBG00._rptIframe">
+<summary>
+rptIframe コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._lblListName">
+<summary>
+lblListName コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnListCd">
+<summary>
+hdnListCd コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnBackCode">
+<summary>
+hdnBackCode コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnBackName">
+<summary>
+hdnBackName コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hbdBackFocs">
+<summary>
+hbdBackFocs コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hbdBackScript">
+<summary>
+hbdBackScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnPopType">
+<summary>
+hdnPopType コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnCode1">
+<summary>
+hdnCode1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnCode2">
+<summary>
+hdnCode2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnClear1">
+<summary>
+hdnClear1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnClear2">
+<summary>
+hdnClear2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnClear3">
+<summary>
+hdnClear3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnClear4">
+<summary>
+hdnClear4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnClear5">
+<summary>
+hdnClear5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnClear6">
+<summary>
+hdnClear6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnBackCode2">
+<summary>
+hdnBackCode2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSJINJAG00.MSJINJCG00._hdnBackName2">
+<summary>
+hdnBackName2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00CCSQL.CSQL">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00CCSQL.CSQL.#ctor">
+<remarks/>
+</member>
+<member name="E:MSJINJAG00.MSJINJAG00CCSQL.CSQL.mGetDataClearRowCompleted">
+<remarks/>
+</member>
+<member name="E:MSJINJAG00.MSJINJAG00CCSQL.CSQL.mGetDataCompleted">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00CCSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00CCSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00CCSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00CCSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00CCSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00CCSQL.CSQL.EndmGetData(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00CCSQL.CSQL.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00CCSQL.mGetDataClearRowCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00CCSQL.mGetDataClearRowCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSJINJAG00.MSJINJAG00CCSQL.mGetDataClearRowCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00CCSQL.mGetDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00CCSQL.mGetDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSJINJAG00.MSJINJAG00CCSQL.mGetDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.#ctor">
+<remarks/>
+</member>
+<member name="E:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mSetCompleted">
+<remarks/>
+</member>
+<member name="E:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mSetExCompleted">
+<remarks/>
+</member>
+<member name="E:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mSetTantoCompleted">
+<remarks/>
+</member>
+<member name="E:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mCSVCompleted">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mSet(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[])">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.BeginmSet(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.EndmSet(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mSetAsync(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[])">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mSetAsync(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.Object)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mSetEx(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.BeginmSetEx(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.EndmSetEx(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mSetExAsync(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mSetExAsync(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mSetTanto(MSJINJAG00.MSJINJAG00MSJINJAW00.CDB@,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.BeginmSetTanto(MSJINJAG00.MSJINJAG00MSJINJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.EndmSetTanto(System.IAsyncResult,MSJINJAG00.MSJINJAG00MSJINJAW00.CDB@)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mSetTantoAsync(MSJINJAG00.MSJINJAG00MSJINJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mSetTantoAsync(MSJINJAG00.MSJINJAG00MSJINJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mCSV(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.BeginmCSV(System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.EndmCSV(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mCSVAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.mCSVAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSJINJAG00.MSJINJAG00MSJINJAW00.MSJINJAW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00MSJINJAW00.CDB">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00MSJINJAW00.mSetCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00MSJINJAW00.mSetCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSJINJAG00.MSJINJAG00MSJINJAW00.mSetCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00MSJINJAW00.mSetExCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00MSJINJAW00.mSetExCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSJINJAG00.MSJINJAG00MSJINJAW00.mSetExCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00MSJINJAW00.mSetTantoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00MSJINJAW00.mSetTantoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSJINJAG00.MSJINJAG00MSJINJAW00.mSetTantoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:MSJINJAG00.MSJINJAG00MSJINJAW00.mSetTantoCompletedEventArgs.cdb">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00MSJINJAW00.mCSVCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSJINJAG00.MSJINJAG00MSJINJAW00.mCSVCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSJINJAG00.MSJINJAG00MSJINJAW00.mCSVCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

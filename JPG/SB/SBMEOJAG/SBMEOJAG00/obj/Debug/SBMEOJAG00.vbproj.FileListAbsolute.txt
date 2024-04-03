@@ -1,0 +1,11 @@
+C:\inetpub\wwwroot\JPG\bin\SBMEOJAG00.dll.config
+C:\inetpub\wwwroot\JPG\bin\SBMEOJAG00.dll
+C:\inetpub\wwwroot\JPG\bin\SBMEOJAG00.pdb
+C:\inetpub\wwwroot\JPG\bin\SBMEOJAG00.xml
+C:\inetpub\wwwroot\JPG\SB\SBMEOJAG\SBMEOJAG00\obj\Debug\SBMEOJAG00.vbprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\JPG\SB\SBMEOJAG\SBMEOJAG00\obj\Debug\JPG.SBMEOJAG00.SBMEOJAG00.resources
+C:\inetpub\wwwroot\JPG\SB\SBMEOJAG\SBMEOJAG00\obj\Debug\SBMEOJAG00.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\JPG\SB\SBMEOJAG\SBMEOJAG00\obj\Debug\SBMEOJAG00.vbproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\JPG\SB\SBMEOJAG\SBMEOJAG00\obj\Debug\SBMEOJAG00.dll
+C:\inetpub\wwwroot\JPG\SB\SBMEOJAG\SBMEOJAG00\obj\Debug\SBMEOJAG00.xml
+C:\inetpub\wwwroot\JPG\SB\SBMEOJAG\SBMEOJAG00\obj\Debug\SBMEOJAG00.pdb

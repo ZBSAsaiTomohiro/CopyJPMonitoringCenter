@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\obj\Release\JPGAP.MSKYOJAW00.MSKYOJAW00.resources
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\obj\Release\GenerateResource.read.1.tlog
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\obj\Release\GenerateResource.write.1.tlog
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\bin\MSKYOJAW00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\bin\MSKYOJAW00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\bin\CODATABC00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\bin\CODATABC00.pdb
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\bin\CODATABC00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\obj\Release\MSKYOJAW00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\obj\Release\MSKYOJAW00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\bin\COCOMONC00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\bin\COCOMONC00.pdb
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\bin\COCOMONC00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSKYOJAW\MSKYOJAW00\bin\COCOMONC00.XmlSerializers.dll

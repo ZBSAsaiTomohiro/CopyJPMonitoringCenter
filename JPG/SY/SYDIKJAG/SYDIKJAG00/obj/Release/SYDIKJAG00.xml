@@ -1,0 +1,226 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SYDIKJAG00
+</name>
+</assembly>
+<members>
+<member name="F:JPG.SYDIKJAG00.SYDIKJAG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYDIKJAG00.SYDIKJAG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYDIKJAG00.SYDIKJAG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYDIKJAG00.SYDIKJAG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYDIKJAG00.SYDIKJAG00._hdnMODE">
+<summary>
+hdnMODE コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYDIKJAG00.SYDIKJAG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYDIKJAG00.SYDIKJAG00._cboKANSCD">
+<summary>
+cboKANSCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYDIKJAG00.SYDIKJAG00._hdnKANSICD">
+<summary>
+hdnKANSICD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYDIKJAG00.SYDIKJAG00._cboDAIKOKANSCD">
+<summary>
+cboDAIKOKANSCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYDIKJAG00.SYDIKJAG00._hdnDAI_KANSI_CD">
+<summary>
+hdnDAI_KANSI_CD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYDIKJAG00.SYDIKJAG00._btnSET">
+<summary>
+btnSET コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYDIKJAG00.SYDIKJAG00._btnCANCEL">
+<summary>
+btnCANCEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SYDIKJAG00.SYDIKJJG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.mGetDataClearRowCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.mGetDataCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.EndmGetData(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.CSQL.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.mGetDataClearRowCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.mGetDataClearRowCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.mGetDataClearRowCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.mGetDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.mGetDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SYDIKJAG00.SYDIKJAG00CCSQL.mGetDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.SYDIKJAG00.SYDIKJAG00SYDIKJAW00.SYDIKJAW00">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00SYDIKJAW00.SYDIKJAW00.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.SYDIKJAG00.SYDIKJAG00SYDIKJAW00.SYDIKJAW00.mSetCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00SYDIKJAW00.SYDIKJAW00.mSet(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00SYDIKJAW00.SYDIKJAW00.BeginmSet(System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00SYDIKJAW00.SYDIKJAW00.EndmSet(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00SYDIKJAW00.SYDIKJAW00.mSetAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00SYDIKJAW00.SYDIKJAW00.mSetAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SYDIKJAG00.SYDIKJAG00SYDIKJAW00.SYDIKJAW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.SYDIKJAG00.SYDIKJAG00SYDIKJAW00.mSetCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SYDIKJAG00.SYDIKJAG00SYDIKJAW00.mSetCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SYDIKJAG00.SYDIKJAG00SYDIKJAW00.mSetCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

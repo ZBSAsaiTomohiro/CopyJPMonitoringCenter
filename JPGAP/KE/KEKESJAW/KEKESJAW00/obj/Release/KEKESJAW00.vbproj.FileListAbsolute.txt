@@ -1,0 +1,13 @@
+C:\inetpub\wwwroot\JPGAP\KE\KEKESJAW\KEKESJAW00\bin\KEKESJAW00.dll
+C:\inetpub\wwwroot\JPGAP\KE\KEKESJAW\KEKESJAW00\bin\KEKESJAW00.xml
+C:\inetpub\wwwroot\JPGAP\KE\KEKESJAW\KEKESJAW00\bin\CODATABC00.dll
+C:\inetpub\wwwroot\JPGAP\KE\KEKESJAW\KEKESJAW00\bin\CODATABC00.pdb
+C:\inetpub\wwwroot\JPGAP\KE\KEKESJAW\KEKESJAW00\bin\CODATABC00.xml
+C:\inetpub\wwwroot\JPGAP\KE\KEKESJAW\KEKESJAW00\obj\Release\JPGAP.KEKESJAW00.KEKESJAW00.resources
+C:\inetpub\wwwroot\JPGAP\KE\KEKESJAW\KEKESJAW00\obj\Release\KEKESJAW00.dll
+C:\inetpub\wwwroot\JPGAP\KE\KEKESJAW\KEKESJAW00\obj\Release\KEKESJAW00.xml
+C:\inetpub\wwwroot\JPGAP\KE\KEKESJAW\KEKESJAW00\bin\KEKESJAW00.dll.config
+C:\inetpub\wwwroot\JPGAP\KE\KEKESJAW\KEKESJAW00\bin\Oracle.DataAccess.dll
+C:\inetpub\wwwroot\JPGAP\KE\KEKESJAW\KEKESJAW00\obj\Release\KEKESJAW00.vbprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\JPGAP\KE\KEKESJAW\KEKESJAW00\obj\Release\KEKESJAW00.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\JPGAP\KE\KEKESJAW\KEKESJAW00\obj\Release\KEKESJAW00.vbproj.CoreCompileInputs.cache

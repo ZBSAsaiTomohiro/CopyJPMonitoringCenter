@@ -1,0 +1,1594 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KEJUKJAG00
+</name>
+</assembly>
+<members>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txtCOUNT">
+<summary>
+txtCOUNT コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnKEY_SERIAL">
+<summary>
+hdnKEY_SERIAL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnINDEX">
+<summary>
+hdnINDEX コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnNoReactionCOUNT">
+<summary>
+hdnNoReactionCOUNT コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnDoReactionCOUNT">
+<summary>
+hdnDoReactionCOUNT コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnTaiTmskbCOUNT">
+<summary>
+hdnTaiTmskbCOUNT コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txtTAICNT">
+<summary>
+txtTAICNT コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txtTOTALCNT">
+<summary>
+txtTOTALCNT コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnRownum">
+<summary>
+hdnRownum コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnDataCount">
+<summary>
+hdnDataCount コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnCtlFlg">
+<summary>
+hdnCtlFlg コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnSYORI_SERIAL1">
+<summary>
+hdnSYORI_SERIAL1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnSYORI_SERIAL2">
+<summary>
+hdnSYORI_SERIAL2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnSYORI_SERIAL3">
+<summary>
+hdnSYORI_SERIAL3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnSYORI_SERIAL4">
+<summary>
+hdnSYORI_SERIAL4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnSYORI_SERIAL5">
+<summary>
+hdnSYORI_SERIAL5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnSYORI_SERIAL6">
+<summary>
+hdnSYORI_SERIAL6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1KMYMD">
+<summary>
+txt1KMYMD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1KMTIME">
+<summary>
+txt1KMTIME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1KURACD">
+<summary>
+txt1KURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1KENNM">
+<summary>
+txt1KENNM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1ROC">
+<summary>
+txt1ROC コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1KMCNT">
+<summary>
+txt1KMCNT コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1RYURYO">
+<summary>
+txt1RYURYO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdn1SERIAL">
+<summary>
+hdn1SERIAL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1JANM">
+<summary>
+txt1JANM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1KMMESSAGE1">
+<summary>
+txt1KMMESSAGE1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1JUYONM">
+<summary>
+txt1JUYONM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1KMMESSAGE2">
+<summary>
+txt1KMMESSAGE2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1JUTEL">
+<summary>
+txt1JUTEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1KMMESSAGE3">
+<summary>
+txt1KMMESSAGE3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1ADDR">
+<summary>
+txt1ADDR コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btn1TAIOU">
+<summary>
+btn1TAIOU コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1META">
+<summary>
+txt1META コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt1ROCUSER">
+<summary>
+txt1ROCUSER コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btn1ROC">
+<summary>
+btn1ROC コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4KMYMD">
+<summary>
+txt4KMYMD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4KMTIME">
+<summary>
+txt4KMTIME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4KURACD">
+<summary>
+txt4KURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4KENNM">
+<summary>
+txt4KENNM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4ROC">
+<summary>
+txt4ROC コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4KMCNT">
+<summary>
+txt4KMCNT コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4RYURYO">
+<summary>
+txt4RYURYO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdn4SERIAL">
+<summary>
+hdn4SERIAL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4JANM">
+<summary>
+txt4JANM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4KMMESSAGE1">
+<summary>
+txt4KMMESSAGE1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4JUYONM">
+<summary>
+txt4JUYONM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4KMMESSAGE2">
+<summary>
+txt4KMMESSAGE2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4JUTEL">
+<summary>
+txt4JUTEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4KMMESSAGE3">
+<summary>
+txt4KMMESSAGE3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4ADDR">
+<summary>
+txt4ADDR コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btn4TAIOU">
+<summary>
+btn4TAIOU コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4META">
+<summary>
+txt4META コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt4ROCUSER">
+<summary>
+txt4ROCUSER コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btn4ROC">
+<summary>
+btn4ROC コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2KMYMD">
+<summary>
+txt2KMYMD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2KMTIME">
+<summary>
+txt2KMTIME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2KURACD">
+<summary>
+txt2KURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2KENNM">
+<summary>
+txt2KENNM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2ROC">
+<summary>
+txt2ROC コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2KMCNT">
+<summary>
+txt2KMCNT コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2RYURYO">
+<summary>
+txt2RYURYO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdn2SERIAL">
+<summary>
+hdn2SERIAL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2JANM">
+<summary>
+txt2JANM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2KMMESSAGE1">
+<summary>
+txt2KMMESSAGE1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2JUYONM">
+<summary>
+txt2JUYONM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2KMMESSAGE2">
+<summary>
+txt2KMMESSAGE2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2JUTEL">
+<summary>
+txt2JUTEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2KMMESSAGE3">
+<summary>
+txt2KMMESSAGE3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2ADDR">
+<summary>
+txt2ADDR コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btn2TAIOU">
+<summary>
+btn2TAIOU コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2META">
+<summary>
+txt2META コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt2ROCUSER">
+<summary>
+txt2ROCUSER コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btn2ROC">
+<summary>
+btn2ROC コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5KMYMD">
+<summary>
+txt5KMYMD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5KMTIME">
+<summary>
+txt5KMTIME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5KURACD">
+<summary>
+txt5KURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5KENNM">
+<summary>
+txt5KENNM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5ROC">
+<summary>
+txt5ROC コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5KMCNT">
+<summary>
+txt5KMCNT コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5RYURYO">
+<summary>
+txt5RYURYO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdn5SERIAL">
+<summary>
+hdn5SERIAL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5JANM">
+<summary>
+txt5JANM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5KMMESSAGE1">
+<summary>
+txt5KMMESSAGE1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5JUYONM">
+<summary>
+txt5JUYONM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5KMMESSAGE2">
+<summary>
+txt5KMMESSAGE2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5JUTEL">
+<summary>
+txt5JUTEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5KMMESSAGE3">
+<summary>
+txt5KMMESSAGE3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5ADDR">
+<summary>
+txt5ADDR コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btn5TAIOU">
+<summary>
+btn5TAIOU コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5META">
+<summary>
+txt5META コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt5ROCUSER">
+<summary>
+txt5ROCUSER コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btn5ROC">
+<summary>
+btn5ROC コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3KMYMD">
+<summary>
+txt3KMYMD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3KMTIME">
+<summary>
+txt3KMTIME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3KURACD">
+<summary>
+txt3KURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3KENNM">
+<summary>
+txt3KENNM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3ROC">
+<summary>
+txt3ROC コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3KMCNT">
+<summary>
+txt3KMCNT コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3RYURYO">
+<summary>
+txt3RYURYO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdn3SERIAL">
+<summary>
+hdn3SERIAL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3JANM">
+<summary>
+txt3JANM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3KMMESSAGE1">
+<summary>
+txt3KMMESSAGE1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3JUYONM">
+<summary>
+txt3JUYONM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3KMMESSAGE2">
+<summary>
+txt3KMMESSAGE2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3JUTEL">
+<summary>
+txt3JUTEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3KMMESSAGE3">
+<summary>
+txt3KMMESSAGE3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3ADDR">
+<summary>
+txt3ADDR コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btn3TAIOU">
+<summary>
+btn3TAIOU コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3META">
+<summary>
+txt3META コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt3ROCUSER">
+<summary>
+txt3ROCUSER コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btn3ROC">
+<summary>
+btn3ROC コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6KMYMD">
+<summary>
+txt6KMYMD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6KMTIME">
+<summary>
+txt6KMTIME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6KURACD">
+<summary>
+txt6KURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6KENNM">
+<summary>
+txt6KENNM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6ROC">
+<summary>
+txt6ROC コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6KMCNT">
+<summary>
+txt6KMCNT コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6RYURYO">
+<summary>
+txt6RYURYO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdn6SERIAL">
+<summary>
+hdn6SERIAL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6JANM">
+<summary>
+txt6JANM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6KMMESSAGE1">
+<summary>
+txt6KMMESSAGE1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6JUYONM">
+<summary>
+txt6JUYONM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6KMMESSAGE2">
+<summary>
+txt6KMMESSAGE2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6JUTEL">
+<summary>
+txt6JUTEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6KMMESSAGE3">
+<summary>
+txt6KMMESSAGE3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6ADDR">
+<summary>
+txt6ADDR コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btn6TAIOU">
+<summary>
+btn6TAIOU コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6META">
+<summary>
+txt6META コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._txt6ROCUSER">
+<summary>
+txt6ROCUSER コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btn6ROC">
+<summary>
+btn6ROC コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._chkJido">
+<summary>
+chkJido コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._chkMishori">
+<summary>
+chkMishori コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btnTanto">
+<summary>
+btnTanto コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btnFirst">
+<summary>
+btnFirst コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btnPre">
+<summary>
+btnPre コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btnNex">
+<summary>
+btnNex コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btnEnd">
+<summary>
+btnEnd コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btnRenew">
+<summary>
+btnRenew コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._btnKeson">
+<summary>
+btnKeson コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnJido">
+<summary>
+hdnJido コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnMishori">
+<summary>
+hdnMishori コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJAG00._hdnBtmOukaFlg">
+<summary>
+hdnBtmOukaFlg コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJKG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KEJUKJAG00.KEJUKJOG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.mGetDataClearRowCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.mGetDataCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.EndmGetData(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.CSQL.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.mGetDataClearRowCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.mGetDataClearRowCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.mGetDataClearRowCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.mGetDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.mGetDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KEJUKJAG00.KEJUKJAG00CCSQL.mGetDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_NoRocCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_RocCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_KessonCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mKesson_DelCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_DuplicateKeihoCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_AutoTaiouCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_NoRoc(System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.BeginmSet_NoRoc(System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.EndmSet_NoRoc(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_NoRocAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_NoRocAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_Roc(System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.BeginmSet_Roc(System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.EndmSet_Roc(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_RocAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_RocAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_Kesson(System.Int32,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.BeginmSet_Kesson(System.Int32,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.EndmSet_Kesson(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_KessonAsync(System.Int32,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_KessonAsync(System.Int32,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mKesson_Del(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.BeginmKesson_Del(System.Int32,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.EndmKesson_Del(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mKesson_DelAsync(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mKesson_DelAsync(System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_DuplicateKeiho(System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.BeginmSet_DuplicateKeiho(System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.EndmSet_DuplicateKeiho(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_DuplicateKeihoAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_DuplicateKeihoAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_AutoTaiou(System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.BeginmSet_AutoTaiou(System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.EndmSet_AutoTaiou(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_AutoTaiouAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.mSet_AutoTaiouAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.KEJUKJAW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_NoRocCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_NoRocCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_NoRocCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_RocCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_RocCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_RocCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_KessonCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_KessonCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_KessonCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mKesson_DelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mKesson_DelCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mKesson_DelCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_DuplicateKeihoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_DuplicateKeihoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_DuplicateKeihoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_AutoTaiouCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_AutoTaiouCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KEJUKJAG00.KEJUKJAG00KEJUKJAW00.mSet_AutoTaiouCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

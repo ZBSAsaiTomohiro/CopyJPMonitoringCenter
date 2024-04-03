@@ -1,0 +1,79 @@
+2018/12/20 10:55:36|OK
+2018/12/20 10:55:36|OK
+2018/12/20 10:55:36|OK
+2018/12/20 10:57:22|OK
+2018/12/20 10:57:22|OK
+2018/12/20 10:57:23|OK
+2018/12/20 11:14:07|System.ArgumentOutOfRangeException: インデックスおよび長さは文字列内の場所を参照しなければなりません。
+パラメーター名:length
+   場所 System.String.Substring(Int32 startIndex, Int32 length)
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.fncmakeADD(String strADD1, String strADD2, String strADD3) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 2960
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1109
+2018/12/20 11:14:07|OK
+2018/12/20 11:14:07|OK
+2018/12/20 11:16:08|System.ArgumentOutOfRangeException: インデックスおよび長さは文字列内の場所を参照しなければなりません。
+パラメーター名:length
+   場所 System.String.Substring(Int32 startIndex, Int32 length)
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.fncmakeADD(String strADD1, String strADD2, String strADD3) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 2961
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1109
+2018/12/20 11:16:10|OK
+2018/12/20 11:16:12|OK
+2018/12/20 11:22:02|System.ArgumentOutOfRangeException: インデックスおよび長さは文字列内の場所を参照しなければなりません。
+パラメーター名:length
+   場所 System.String.Substring(Int32 startIndex, Int32 length)
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.fncmakeADD(String strADD1, String strADD2, String strADD3) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 2961
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1109
+2018/12/20 11:22:02|OK
+2018/12/20 11:22:02|OK
+2018/12/20 11:22:39|OK
+2018/12/20 11:22:39|OK
+2018/12/20 11:22:39|OK
+2018/12/20 13:11:50|OK
+2018/12/20 13:11:50|OK
+2018/12/20 13:11:50|OK
+2018/12/20 13:12:55|OK
+2018/12/20 13:12:55|OK
+2018/12/20 13:12:55|OK
+2018/12/20 13:38:23|OK
+2018/12/20 13:38:23|OK
+2018/12/20 13:38:23|OK
+2018/12/20 13:41:01|OK
+2018/12/20 13:41:01|OK
+2018/12/20 13:41:01|OK
+2018/12/20 13:43:05|OK
+2018/12/20 13:43:05|OK
+2018/12/20 13:43:06|OK
+2018/12/20 13:53:04|OK
+2018/12/20 13:53:04|OK
+2018/12/20 13:53:04|OK
+2018/12/20 17:32:42|System.Exception: ORA-00936: 式がありません。
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1319
+2018/12/20 17:32:42|System.Exception: ORA-00936: 式がありません。
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1319
+2018/12/20 17:32:42|System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1252
+2018/12/20 17:39:26|System.Exception: ORA-00904: "A"."USER_CD": 無効な識別子です。
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1319
+2018/12/20 17:39:26|System.Exception: ORA-00904: "A"."USER_CD": 無効な識別子です。
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1319
+2018/12/20 17:39:26|System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1252
+2018/12/20 17:45:11|OK
+2018/12/20 17:45:11|OK
+2018/12/20 17:45:11|System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1252
+2018/12/20 17:54:46|OK
+2018/12/20 17:54:53|OK
+2018/12/20 17:55:33|System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1252
+2018/12/20 18:01:46|OK
+2018/12/20 18:01:46|OK
+2018/12/20 18:01:46|OK

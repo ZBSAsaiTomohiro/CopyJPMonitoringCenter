@@ -1,0 +1,343 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SYGETJAG00
+</name>
+</assembly>
+<members>
+<member name="F:SYGETJAG00.SYGETJAG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._btnJikkou">
+<summary>
+btnJikkou コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._hdnTRGDATEM">
+<summary>
+hdnTRGDATEM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._hdnDELMONTH_APLOG">
+<summary>
+hdnDELMONTH_APLOG コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._hdnDELMONTH_BATLOG">
+<summary>
+hdnDELMONTH_BATLOG コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._hdnDELMONTH_TELLOG">
+<summary>
+hdnDELMONTH_TELLOG コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._hdnDELMONTH_FILE">
+<summary>
+hdnDELMONTH_FILE コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._hdnDELMONTH_BACKFILE">
+<summary>
+hdnDELMONTH_BACKFILE コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._hdnDELMONTH_AUTOFAXLOGDB">
+<summary>
+hdnDELMONTH_AUTOFAXLOGDB コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._hdnDELMONTH_AUTOFAXTAIDB">
+<summary>
+hdnDELMONTH_AUTOFAXTAIDB コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._hdnDELMONTH_FAXOUTBOXLOG">
+<summary>
+hdnDELMONTH_FAXOUTBOXLOG コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._txtTRGDATE1">
+<summary>
+txtTRGDATE1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._txtTRGDATE2">
+<summary>
+txtTRGDATE2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._txtTRGDATE3">
+<summary>
+txtTRGDATE3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._txtTRGDATE4">
+<summary>
+txtTRGDATE4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._txtTRGDATE5">
+<summary>
+txtTRGDATE5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._txtTRGDATE6">
+<summary>
+txtTRGDATE6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._txtTRGDATE7">
+<summary>
+txtTRGDATE7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._txtTRGDATE8">
+<summary>
+txtTRGDATE8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._txtTRGDATE9">
+<summary>
+txtTRGDATE9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._txtTRGDATE10">
+<summary>
+txtTRGDATE10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJAG00._txtTRGDATE11">
+<summary>
+txtTRGDATE11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:SYGETJAG00.SYGETJJG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:SYGETJAG00.SYGETJAG00CSQL.CSQL">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00CSQL.CSQL.#ctor">
+<remarks/>
+</member>
+<member name="E:SYGETJAG00.SYGETJAG00CSQL.CSQL.mGetDataClearRowCompleted">
+<remarks/>
+</member>
+<member name="E:SYGETJAG00.SYGETJAG00CSQL.CSQL.mGetDataCompleted">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00CSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00CSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00CSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00CSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00CSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00CSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00CSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00CSQL.CSQL.EndmGetData(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00CSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00CSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00CSQL.CSQL.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:SYGETJAG00.SYGETJAG00CSQL.mGetDataClearRowCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SYGETJAG00.SYGETJAG00CSQL.mGetDataClearRowCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SYGETJAG00.SYGETJAG00CSQL.mGetDataClearRowCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:SYGETJAG00.SYGETJAG00CSQL.mGetDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SYGETJAG00.SYGETJAG00CSQL.mGetDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SYGETJAG00.SYGETJAG00CSQL.mGetDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:SYGETJAG00.SYGETJAG00SYGETJAW00.SYGETJAW00">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00SYGETJAW00.SYGETJAW00.#ctor">
+<remarks/>
+</member>
+<member name="E:SYGETJAG00.SYGETJAG00SYGETJAW00.SYGETJAW00.mExecCompleted">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00SYGETJAW00.SYGETJAW00.mExec(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00SYGETJAW00.SYGETJAW00.BeginmExec(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00SYGETJAW00.SYGETJAW00.EndmExec(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00SYGETJAW00.SYGETJAW00.mExecAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00SYGETJAW00.SYGETJAW00.mExecAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:SYGETJAG00.SYGETJAG00SYGETJAW00.SYGETJAW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:SYGETJAG00.SYGETJAG00SYGETJAW00.mExecCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:SYGETJAG00.SYGETJAG00SYGETJAW00.mExecCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:SYGETJAG00.SYGETJAG00SYGETJAW00.mExecCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

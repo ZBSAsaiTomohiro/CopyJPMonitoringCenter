@@ -1,0 +1,36 @@
+/* BODY部 *************************** */
+BODY { FONT-SIZE: 12px; BACKGROUND-COLOR: cornsilk ; margin-top:0px }
+
+/* TABLEの行部 ********************** */
+TR { BORDER-STYLE:none }
+
+/* TABLEのセル部 ******************** */
+TD { FONT-SIZE: 10px; border-style:none }
+.F { FONT-SIZE: 11px;}								//通常IFRAME文字サイズ
+
+.TITLE { FONT-SIZE: 30px; FONT-STYLE: oblique }		//画面タイトル設定
+.COMMT { FONT-SIZE: 15px;  FONT-WEIGHT: bold }		//コメント文字列 (ブレイクキー【県】)
+.BREAK { page-break-before: always; }				//印刷時の改ページを行う
+.WW    { BORDER: Solid 1px Black; BACKGROUND-COLOR: #6699FF; MARGIN: 0px; PADDING: 0px; VERTICAL-ALIGN: baseline }	//枠線
+
+/* 罫線の設定(タイトル) ************* */
+.TITL{ background-color:DFA894;  FONT-SIZE: 10pt; BORDER-top: Solid 1px Black; BORDER-bottom: Solid 1px Black; BORDER-left: Solid 1px Black; }
+.TITR{ background-color:DFA894;  FONT-SIZE: 10pt; BORDER-top: Solid 1px Black; BORDER-bottom: Solid 1px Black; BORDER-left: Solid 1px Black; BORDER-right: Solid 1px Black; }
+.TITTL{ background-color:DFA894; FONT-SIZE: 10pt; BORDER-top: Solid 1px Black; BORDER-left: Solid 1px Black; }
+.TITTR{ background-color:DFA894; FONT-SIZE: 10pt; BORDER-top: Solid 1px Black; BORDER-left: Solid 1px Black; BORDER-right: Solid 1px Black; }
+.TITBL{ background-color:DFA894; FONT-SIZE: 10pt; BORDER-top: Solid 1px Black; BORDER-bottom: Solid 1px Black; BORDER-left: Solid 1px Black; }
+.TITBR{ background-color:DFA894; FONT-SIZE: 10pt; BORDER-top: Solid 1px Black; BORDER-bottom: Solid 1px Black; BORDER-left: Solid 1px Black; BORDER-right: Solid 1px Black; }
+
+/* 改行の高さ *********************** */
+BR { font-size: 5px}
+
+/* 実行・クリアボタン *************** */
+.bt-JIK { WIDTH: 60px; HEIGHT: 25px;background-color:ButtonFace }
+
+.****W     { BORDER: Solid 1px Black; BACKGROUND-COLOR: cornsilk; MARGIN: 0px; PADDING: 0px; VERTICAL-ALIGN: baseline }	//枠線
+.****TITL{ background-color:DFA894; FONT-SIZE: 10pt; BORDER: Solid 1px Black; }
+.****LINK{ background-color:skyblue; FONT-SIZE: 11pt }					//ノーマルレコード
+.****LINE{ background-color:DFA894;  FONT-SIZE: 11px; HEIGHT: 5pt }		//行間の区切りに色をつける
+.****OTHRs{ background-color:skyblue; FONT-SIZE: 10pt; HEIGHT: 15pt }					//
+.****T{ FONT-SIZE: 14pt; BACKGROUND-COLOR: cornsilk }
+.****B{ FONT-SIZE: 12pt }

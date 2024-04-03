@@ -1,0 +1,253 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SBMEOJAG00
+</name>
+</assembly>
+<members>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._hdnPopcrtl">
+<summary>
+hdnPopcrtl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._txtNENDO">
+<summary>
+txtNENDO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._txtKENCD">
+<summary>
+txtKENCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._txtKURACD_From">
+<summary>
+txtKURACD_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._btnKURACD_From">
+<summary>
+btnKURACD_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._txtKURACD_To">
+<summary>
+txtKURACD_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._btnKURACD_To">
+<summary>
+btnKURACD_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._hdnKURACD_From">
+<summary>
+hdnKURACD_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._hdnKURACD_To">
+<summary>
+hdnKURACD_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._txtHANTENCD_From">
+<summary>
+txtHANTENCD_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._btnHANTENCD_From">
+<summary>
+btnHANTENCD_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._txtHANTENCD_To">
+<summary>
+txtHANTENCD_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._btnHANTENCD_To">
+<summary>
+btnHANTENCD_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._hdnHANTENCD_From">
+<summary>
+hdnHANTENCD_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._hdnHANTENCD_To">
+<summary>
+hdnHANTENCD_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._listfiletype">
+<summary>
+listfiletype コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._btnSelect">
+<summary>
+btnSelect コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEOJAG00.SBMEOJAG00._lblStatus">
+<summary>
+lblStatus コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:JPG.SBMEOJAG00.SBMEOJAG00SBMEOJAW00.SBMEOJAW00">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEOJAG00.SBMEOJAG00SBMEOJAW00.SBMEOJAW00.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.SBMEOJAG00.SBMEOJAG00SBMEOJAW00.SBMEOJAW00.mExcelCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEOJAG00.SBMEOJAG00SBMEOJAW00.SBMEOJAW00.mExcel(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEOJAG00.SBMEOJAG00SBMEOJAW00.SBMEOJAW00.BeginmExcel(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEOJAG00.SBMEOJAG00SBMEOJAW00.SBMEOJAW00.EndmExcel(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEOJAG00.SBMEOJAG00SBMEOJAW00.SBMEOJAW00.mExcelAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEOJAG00.SBMEOJAG00SBMEOJAW00.SBMEOJAW00.mExcelAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEOJAG00.SBMEOJAG00SBMEOJAW00.SBMEOJAW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEOJAG00.SBMEOJAG00SBMEOJAW00.mExcelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEOJAG00.SBMEOJAG00SBMEOJAW00.mExcelCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SBMEOJAG00.SBMEOJAG00SBMEOJAW00.mExcelCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

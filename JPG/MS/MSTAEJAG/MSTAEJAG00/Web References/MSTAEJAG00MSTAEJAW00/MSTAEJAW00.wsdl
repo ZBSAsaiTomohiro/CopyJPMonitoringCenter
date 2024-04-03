@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/MSTAEJAW00/Service1" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/MSTAEJAW00/Service1" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/MSTAEJAW00/Service1">
+      <s:element name="mCheck">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKuracd" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJacd" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="pdecPageMax" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mCheckResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mCheckResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mExcel">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSessionID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKuracd" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJacd" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrPgkbn" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKuraNm" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJaNm" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="pdecPageMax" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrCentcd" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mExcelResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mExcelResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="mCheckSoapIn">
+    <wsdl:part name="parameters" element="tns:mCheck" />
+  </wsdl:message>
+  <wsdl:message name="mCheckSoapOut">
+    <wsdl:part name="parameters" element="tns:mCheckResponse" />
+  </wsdl:message>
+  <wsdl:message name="mExcelSoapIn">
+    <wsdl:part name="parameters" element="tns:mExcel" />
+  </wsdl:message>
+  <wsdl:message name="mExcelSoapOut">
+    <wsdl:part name="parameters" element="tns:mExcelResponse" />
+  </wsdl:message>
+  <wsdl:portType name="MSTAEJAW00Soap">
+    <wsdl:operation name="mCheck">
+      <wsdl:input message="tns:mCheckSoapIn" />
+      <wsdl:output message="tns:mCheckSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mExcel">
+      <wsdl:input message="tns:mExcelSoapIn" />
+      <wsdl:output message="tns:mExcelSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="MSTAEJAW00Soap" type="tns:MSTAEJAW00Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="mCheck">
+      <soap:operation soapAction="http://tempuri.org/MSTAEJAW00/Service1/mCheck" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mExcel">
+      <soap:operation soapAction="http://tempuri.org/MSTAEJAW00/Service1/mExcel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MSTAEJAW00">
+    <documentation xmlns="http://schemas.xmlsoap.org/wsdl/" />
+    <wsdl:port name="MSTAEJAW00Soap" binding="tns:MSTAEJAW00Soap">
+      <soap:address location="http://knapsv/JPGAP/MS/MSTAEJAW/MSTAEJAW00/MSTAEJAW00.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

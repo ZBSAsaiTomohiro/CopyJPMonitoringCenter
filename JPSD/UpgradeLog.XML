@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="JPSD">
+</Property><Property Name="ソリューション ファイル" Value="C:\Inetpub\wwwroot\JPSD\JPSD.sln">
+</Property><Property Name="Date" Value="2012年2月15日">
+</Property><Property Name="Time" Value="11:12">
+</Property></Properties><Event ErrorLevel="0" Project="COCNTRLL00" Source="..\..\..\監視あんしん\共通部品\jpgcommon\COCNTRLL00\COCNTRLL00.vbproj" Description="プロジェクト ファイルは変換する必要がありません。">
+</Event><Event ErrorLevel="3" Project="COCNTRLL00" Source="..\..\..\監視あんしん\共通部品\jpgcommon\COCNTRLL00\COCNTRLL00.vbproj" Description="変換の必要なし">
+</Event><Event ErrorLevel="0" Project="COCOLOGC00" Source="..\..\..\監視あんしん\共通部品\jpgcommon\COCOLOGC00\COCOLOGC00.vbproj" Description="プロジェクト ファイルは変換する必要がありません。">
+</Event><Event ErrorLevel="3" Project="COCOLOGC00" Source="..\..\..\監視あんしん\共通部品\jpgcommon\COCOLOGC00\COCOLOGC00.vbproj" Description="変換の必要なし">
+</Event><Event ErrorLevel="0" Project="COCONSTC00" Source="..\..\..\監視あんしん\共通部品\jpgcommon\COCONSTC00\COCONSTC00.vbproj" Description="プロジェクト ファイルは変換する必要がありません。">
+</Event><Event ErrorLevel="3" Project="COCONSTC00" Source="..\..\..\監視あんしん\共通部品\jpgcommon\COCONSTC00\COCONSTC00.vbproj" Description="変換の必要なし">
+</Event><Event ErrorLevel="0" Project="COCOMONC00" Source="..\..\..\監視あんしん\共通部品\common\COCOMONC00\COCOMONC00.vbproj" Description="プロジェクト ファイルは変換する必要がありません。">
+</Event><Event ErrorLevel="3" Project="COCOMONC00" Source="..\..\..\監視あんしん\共通部品\common\COCOMONC00\COCOMONC00.vbproj" Description="変換の必要なし">
+</Event><Event ErrorLevel="0" Project="" Source="JPSD.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="JPSD.sln" Description="Converted">
+</Event><Event ErrorLevel="1" Project="JPSD" Source="Web References\JPSDCSQL\Reference.vb" Description="ファイルが見つかりません。ファイルにアップグレードが必要かどうかを確認できません。">
+</Event><Event ErrorLevel="3" Project="JPSD" Source="Web References\JPSDCSQL\Reference.vb" Description="変換されませんでした。">
+</Event><Event ErrorLevel="0" Project="JPSD" Source="JPSD.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event><Event ErrorLevel="3" Project="JPSD" Source="JPSD.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="JPSD" Source="JPSD.vbproj" Description="Visual Studio .NET 2003 Web プロジェクトを変換するための最初のステップが完了しました。変換を完了するには、ソリューション エクスプローラーでプロジェクトを選択し、コンテキスト メニューの [Web アプリケーションに変換] をクリックします。">
+</Event><Event ErrorLevel="1" Project="SDLSTJAG00" Source="SD\SDLSTJAG\SDLSTJAG00\Web References\SDLSTJAG00CCSQL\Reference.vb" Description="ファイルが見つかりません。ファイルにアップグレードが必要かどうかを確認できません。">
+</Event><Event ErrorLevel="3" Project="SDLSTJAG00" Source="SD\SDLSTJAG\SDLSTJAG00\Web References\SDLSTJAG00CCSQL\Reference.vb" Description="変換されませんでした。">
+</Event><Event ErrorLevel="0" Project="SDLSTJAG00" Source="SD\SDLSTJAG\SDLSTJAG00\SDLSTJAG00.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event><Event ErrorLevel="0" Project="SDLSTJAG00.vbproj" Source="SDLSTJAG00.vbproj" Description="Visual Studio は、この仮想ルートが ASP.NET 4.0 で使用できるように構成されているかどうかを検出できません。IIS メタベースにアクセスするのに十分な特権がない可能性があります。このサイトが正しく動作するためには、ASP.NET 4.0 用にこのサイトを手動で構成する必要がある可能性があります。">
+</Event><Event ErrorLevel="3" Project="SDLSTJAG00" Source="SDLSTJAG00.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SDLSTJAG00" Source="SDLSTJAG00.vbproj" Description="Visual Studio .NET 2003 Web プロジェクトを変換するための最初のステップが完了しました。変換を完了するには、ソリューション エクスプローラーでプロジェクトを選択し、コンテキスト メニューの [Web アプリケーションに変換] をクリックします。">
+</Event><Event ErrorLevel="1" Project="SDSYUJAG00" Source="SD\SDSYUJAG\SDSYUJAG00\Web References\SDSYUJAG00CSQL\Reference.vb" Description="ファイルが見つかりません。ファイルにアップグレードが必要かどうかを確認できません。">
+</Event><Event ErrorLevel="3" Project="SDSYUJAG00" Source="SD\SDSYUJAG\SDSYUJAG00\Web References\SDSYUJAG00CSQL\Reference.vb" Description="変換されませんでした。">
+</Event><Event ErrorLevel="1" Project="SDSYUJAG00" Source="SD\SDSYUJAG\SDSYUJAG00\Web References\SDSYUJAG00SDSYUJAW00\Reference.vb" Description="ファイルが見つかりません。ファイルにアップグレードが必要かどうかを確認できません。">
+</Event><Event ErrorLevel="3" Project="SDSYUJAG00" Source="SD\SDSYUJAG\SDSYUJAG00\Web References\SDSYUJAG00SDSYUJAW00\Reference.vb" Description="変換されませんでした。">
+</Event><Event ErrorLevel="0" Project="SDSYUJAG00" Source="SD\SDSYUJAG\SDSYUJAG00\SDSYUJAG00.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event><Event ErrorLevel="0" Project="SDSYUJAG00.vbproj" Source="SDSYUJAG00.vbproj" Description="Visual Studio は、この仮想ルートが ASP.NET 4.0 で使用できるように構成されているかどうかを検出できません。IIS メタベースにアクセスするのに十分な特権がない可能性があります。このサイトが正しく動作するためには、ASP.NET 4.0 用にこのサイトを手動で構成する必要がある可能性があります。">
+</Event><Event ErrorLevel="3" Project="SDSYUJAG00" Source="SDSYUJAG00.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SDSYUJAG00" Source="SDSYUJAG00.vbproj" Description="Visual Studio .NET 2003 Web プロジェクトを変換するための最初のステップが完了しました。変換を完了するには、ソリューション エクスプローラーでプロジェクトを選択し、コンテキスト メニューの [Web アプリケーションに変換] をクリックします。">
+</Event></UpgradeLog>

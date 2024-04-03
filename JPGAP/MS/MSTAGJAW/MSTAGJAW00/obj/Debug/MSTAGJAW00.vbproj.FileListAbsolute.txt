@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\bin\MSTAGJAW00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\bin\MSTAGJAW00.pdb
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\bin\MSTAGJAW00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\bin\CODATABC00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\bin\CODATABC00.pdb
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\bin\CODATABC00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\obj\Debug\JPGAP.MSTAGJAW00.MSTAGJAW00.resources
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\obj\Debug\MSTAGJAW00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\obj\Debug\MSTAGJAW00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\obj\Debug\MSTAGJAW00.pdb
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\bin\Oracle.DataAccess.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\obj\Debug\MSTAGJAW00.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\obj\Debug\MSTAGJAW00.vbproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\bin\MSTAGJAW00.dll.config
+C:\inetpub\wwwroot\JPGAP\MS\MSTAGJAW\MSTAGJAW00\obj\Debug\MSTAGJAW00.vbprojResolveAssemblyReference.cache

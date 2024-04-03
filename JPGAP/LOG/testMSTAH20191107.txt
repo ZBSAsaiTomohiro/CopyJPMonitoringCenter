@@ -1,0 +1,2 @@
+2019/11/07 13:28:46:[mExcel pstrKuracd: pstrGroupcd:jm21080a pstrCentcd:32020,34020,36020,10004,10001]
+2019/11/07 14:32:48:[mExcel pstrKuracd: pstrGroupcd: pstrCentcd:32020,34020,36020,10004,10001]

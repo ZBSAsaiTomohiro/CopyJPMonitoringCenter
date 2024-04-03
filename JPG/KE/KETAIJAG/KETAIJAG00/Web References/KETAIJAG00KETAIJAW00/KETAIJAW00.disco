@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://knapsv/JPGAP/KE/KETAIJAW/KETAIJAW00/KETAIJAW00.asmx?wsdl" docRef="http://knapsv/JPGAP/KE/KETAIJAW/KETAIJAW00/KETAIJAW00.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://knapsv/JPGAP/KE/KETAIJAW/KETAIJAW00/KETAIJAW00.asmx" xmlns:q1="http://tempuri.org/KETAIJAW00/Service1" binding="q1:KETAIJAW00Soap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://knapsv/JPGAP/KE/KETAIJAW/KETAIJAW00/KETAIJAW00.asmx" xmlns:q2="http://tempuri.org/KETAIJAW00/Service1" binding="q2:KETAIJAW00Soap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

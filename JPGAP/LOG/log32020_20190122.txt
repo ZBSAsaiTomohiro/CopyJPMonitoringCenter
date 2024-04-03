@@ -1,0 +1,301 @@
+2019/01/22 11:09:42:20190122110942705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：1]
+2019/01/22 11:09:42:20190122110942705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：2]
+2019/01/22 11:09:43:20190122110942705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2019/01/22 11:17:47:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：1]
+2019/01/22 11:17:47:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：2]
+2019/01/22 11:17:47:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2019/01/22 11:17:47:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：4 Count：1]
+2019/01/22 11:17:47:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2019/01/22 11:17:47:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0]
+2019/01/22 11:17:47:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：1]
+2019/01/22 11:17:47:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2019/01/22 11:17:47:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：3]
+2019/01/22 11:17:47:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：4]
+2019/01/22 11:17:47:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：5 count:0]
+2019/01/22 11:17:47:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：6（ゼロ件）]
+2019/01/22 11:17:47:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：7]
+2019/01/22 11:17:48:20190122111747533424020\32020\1000\1000:[[ＪＡ－ＬＰ][System.IO.FileLoadException: ファイルまたはアセンブリ 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'、またはその依存関係の 1 つが読み込めませんでした。見つかったアセンブリのマニフェスト定義はアセンブリ参照に一致しません。 (HRESULT からの例外:0x80131040)
+ファイル名 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73' です。'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.fncMakeZipWithPass(String sXlsFilePath, String sZipFilePath, String sPass)
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcelOut(CDB cdb, String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrWHERE_TAIOU, String pstrWHERE_CLI, String pstrAUTO, String pstrFAXNO, String pstrMAILAD, Int32 pintCNT, String pstrCreateFilePath, String pstrFlg, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintLoopNo, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 3475
+
+警告: アセンブリ バインドのログ記録がオフにされています。
+アセンブリ バインドのエラー ログを有効にするには、レジストリ値 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) を 1 に設定してください。
+注意: アセンブリ バインドのエラー ログに関連するパフォーマンス ペナルティがあります。
+この機能をオフにするには、レジストリ値 [HKLM\Software\Microsoft\Fusion!EnableLog] を削除します。
+][BTFAXJEW00][ファイルまたはアセンブリ 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'、またはその依存関係の 1 つが読み込めませんでした。見つかったアセンブリのマニフェスト定義はアセンブリ参照に一致しません。 (HRESULT からの例外:0x80131040)]   場所 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   場所 System.Environment.get_StackTrace()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcelOut(CDB cdb, String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrWHERE_TAIOU, String pstrWHERE_CLI, String pstrAUTO, String pstrFAXNO, String pstrMAILAD, Int32 pintCNT, String pstrCreateFilePath, String pstrFlg, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintLoopNo, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 3475
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 929
+   場所 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   場所 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   場所 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   場所 System.Web.Services.Protocols.LogicalMethodInfo.Invoke(Object target, Object[] values)
+   場所 System.Web.Services.Protocols.WebServiceHandler.Invoke()
+   場所 System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()
+   場所 System.Web.Services.Protocols.SyncSessionlessHandler.ProcessRequest(HttpContext context)
+   場所 System.Web.Script.Services.ScriptHandlerFactory.HandlerWrapper.ProcessRequest(HttpContext context)
+   場所 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   場所 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   場所 System.Web.HttpApplication.PipelineStepManager.ResumeSteps(Exception error)
+   場所 System.Web.HttpApplication.BeginProcessRequestNotification(HttpContext context, AsyncCallback cb)
+   場所 System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：1]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：2]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：4 Count：1]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：1]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：3]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：4]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：5 count:0]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：6（ゼロ件）]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：7]
+2019/01/22 11:17:51:20190122111747533424020\32020\1000\1000:[[ＪＡ－ＬＰ][System.IO.FileLoadException: ファイルまたはアセンブリ 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'、またはその依存関係の 1 つが読み込めませんでした。見つかったアセンブリのマニフェスト定義はアセンブリ参照に一致しません。 (HRESULT からの例外:0x80131040)
+ファイル名 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73' です。'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.fncMakeZipWithPass(String sXlsFilePath, String sZipFilePath, String sPass)
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcelOut(CDB cdb, String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrWHERE_TAIOU, String pstrWHERE_CLI, String pstrAUTO, String pstrFAXNO, String pstrMAILAD, Int32 pintCNT, String pstrCreateFilePath, String pstrFlg, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintLoopNo, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 3475
+
+警告: アセンブリ バインドのログ記録がオフにされています。
+アセンブリ バインドのエラー ログを有効にするには、レジストリ値 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) を 1 に設定してください。
+注意: アセンブリ バインドのエラー ログに関連するパフォーマンス ペナルティがあります。
+この機能をオフにするには、レジストリ値 [HKLM\Software\Microsoft\Fusion!EnableLog] を削除します。
+][BTFAXJEW00][ファイルまたはアセンブリ 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'、またはその依存関係の 1 つが読み込めませんでした。見つかったアセンブリのマニフェスト定義はアセンブリ参照に一致しません。 (HRESULT からの例外:0x80131040)]   場所 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   場所 System.Environment.get_StackTrace()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcelOut(CDB cdb, String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrWHERE_TAIOU, String pstrWHERE_CLI, String pstrAUTO, String pstrFAXNO, String pstrMAILAD, Int32 pintCNT, String pstrCreateFilePath, String pstrFlg, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintLoopNo, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 3475
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 929
+   場所 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   場所 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   場所 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   場所 System.Web.Services.Protocols.LogicalMethodInfo.Invoke(Object target, Object[] values)
+   場所 System.Web.Services.Protocols.WebServiceHandler.Invoke()
+   場所 System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()
+   場所 System.Web.Services.Protocols.SyncSessionlessHandler.ProcessRequest(HttpContext context)
+   場所 System.Web.Script.Services.ScriptHandlerFactory.HandlerWrapper.ProcessRequest(HttpContext context)
+   場所 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   場所 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   場所 System.Web.HttpApplication.PipelineStepManager.ResumeSteps(Exception error)
+   場所 System.Web.HttpApplication.BeginProcessRequestNotification(HttpContext context, AsyncCallback cb)
+   場所 System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：1]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：2]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：4 Count：1]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：1]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：3]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：4]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：5 count:0]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：6（ゼロ件）]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：7]
+2019/01/22 11:17:54:20190122111747533424020\32020\1000\1000:[[ＪＡ－ＬＰ][System.IO.FileLoadException: ファイルまたはアセンブリ 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'、またはその依存関係の 1 つが読み込めませんでした。見つかったアセンブリのマニフェスト定義はアセンブリ参照に一致しません。 (HRESULT からの例外:0x80131040)
+ファイル名 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73' です。'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.fncMakeZipWithPass(String sXlsFilePath, String sZipFilePath, String sPass)
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcelOut(CDB cdb, String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrWHERE_TAIOU, String pstrWHERE_CLI, String pstrAUTO, String pstrFAXNO, String pstrMAILAD, Int32 pintCNT, String pstrCreateFilePath, String pstrFlg, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintLoopNo, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 3475
+
+警告: アセンブリ バインドのログ記録がオフにされています。
+アセンブリ バインドのエラー ログを有効にするには、レジストリ値 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) を 1 に設定してください。
+注意: アセンブリ バインドのエラー ログに関連するパフォーマンス ペナルティがあります。
+この機能をオフにするには、レジストリ値 [HKLM\Software\Microsoft\Fusion!EnableLog] を削除します。
+][BTFAXJEW00][ファイルまたはアセンブリ 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'、またはその依存関係の 1 つが読み込めませんでした。見つかったアセンブリのマニフェスト定義はアセンブリ参照に一致しません。 (HRESULT からの例外:0x80131040)]   場所 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   場所 System.Environment.get_StackTrace()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcelOut(CDB cdb, String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrWHERE_TAIOU, String pstrWHERE_CLI, String pstrAUTO, String pstrFAXNO, String pstrMAILAD, Int32 pintCNT, String pstrCreateFilePath, String pstrFlg, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintLoopNo, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 3475
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 929
+   場所 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   場所 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   場所 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   場所 System.Web.Services.Protocols.LogicalMethodInfo.Invoke(Object target, Object[] values)
+   場所 System.Web.Services.Protocols.WebServiceHandler.Invoke()
+   場所 System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()
+   場所 System.Web.Services.Protocols.SyncSessionlessHandler.ProcessRequest(HttpContext context)
+   場所 System.Web.Script.Services.ScriptHandlerFactory.HandlerWrapper.ProcessRequest(HttpContext context)
+   場所 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   場所 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   場所 System.Web.HttpApplication.PipelineStepManager.ResumeSteps(Exception error)
+   場所 System.Web.HttpApplication.BeginProcessRequestNotification(HttpContext context, AsyncCallback cb)
+   場所 System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：1]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：2]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：4 Count：1]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：1]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：3]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：4]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：5 count:0]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：6（ゼロ件）]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：7]
+2019/01/22 11:19:38:20190122111938705547512\32020\1000\1000:[[ＪＡ－ＬＰ][System.IO.FileLoadException: ファイルまたはアセンブリ 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'、またはその依存関係の 1 つが読み込めませんでした。見つかったアセンブリのマニフェスト定義はアセンブリ参照に一致しません。 (HRESULT からの例外:0x80131040)
+ファイル名 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73' です。'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.fncMakeZipWithPass(String sXlsFilePath, String sZipFilePath, String sPass)
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcelOut(CDB cdb, String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrWHERE_TAIOU, String pstrWHERE_CLI, String pstrAUTO, String pstrFAXNO, String pstrMAILAD, Int32 pintCNT, String pstrCreateFilePath, String pstrFlg, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintLoopNo, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 3475
+
+警告: アセンブリ バインドのログ記録がオフにされています。
+アセンブリ バインドのエラー ログを有効にするには、レジストリ値 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) を 1 に設定してください。
+注意: アセンブリ バインドのエラー ログに関連するパフォーマンス ペナルティがあります。
+この機能をオフにするには、レジストリ値 [HKLM\Software\Microsoft\Fusion!EnableLog] を削除します。
+][BTFAXJEW00][ファイルまたはアセンブリ 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'、またはその依存関係の 1 つが読み込めませんでした。見つかったアセンブリのマニフェスト定義はアセンブリ参照に一致しません。 (HRESULT からの例外:0x80131040)]   場所 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   場所 System.Environment.get_StackTrace()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcelOut(CDB cdb, String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrWHERE_TAIOU, String pstrWHERE_CLI, String pstrAUTO, String pstrFAXNO, String pstrMAILAD, Int32 pintCNT, String pstrCreateFilePath, String pstrFlg, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintLoopNo, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 3475
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 929
+   場所 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   場所 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   場所 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   場所 System.Web.Services.Protocols.LogicalMethodInfo.Invoke(Object target, Object[] values)
+   場所 System.Web.Services.Protocols.WebServiceHandler.Invoke()
+   場所 System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()
+   場所 System.Web.Services.Protocols.SyncSessionlessHandler.ProcessRequest(HttpContext context)
+   場所 System.Web.Script.Services.ScriptHandlerFactory.HandlerWrapper.ProcessRequest(HttpContext context)
+   場所 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   場所 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   場所 System.Web.HttpApplication.PipelineStepManager.ResumeSteps(Exception error)
+   場所 System.Web.HttpApplication.BeginProcessRequestNotification(HttpContext context, AsyncCallback cb)
+   場所 System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：1]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：2]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：4 Count：1]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：1]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：3]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：4]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：5 count:0]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：6（ゼロ件）]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：7]
+2019/01/22 11:19:41:20190122111938705547512\32020\1000\1000:[[ＪＡ－ＬＰ][System.IO.FileLoadException: ファイルまたはアセンブリ 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'、またはその依存関係の 1 つが読み込めませんでした。見つかったアセンブリのマニフェスト定義はアセンブリ参照に一致しません。 (HRESULT からの例外:0x80131040)
+ファイル名 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73' です。'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.fncMakeZipWithPass(String sXlsFilePath, String sZipFilePath, String sPass)
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcelOut(CDB cdb, String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrWHERE_TAIOU, String pstrWHERE_CLI, String pstrAUTO, String pstrFAXNO, String pstrMAILAD, Int32 pintCNT, String pstrCreateFilePath, String pstrFlg, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintLoopNo, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 3475
+
+警告: アセンブリ バインドのログ記録がオフにされています。
+アセンブリ バインドのエラー ログを有効にするには、レジストリ値 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) を 1 に設定してください。
+注意: アセンブリ バインドのエラー ログに関連するパフォーマンス ペナルティがあります。
+この機能をオフにするには、レジストリ値 [HKLM\Software\Microsoft\Fusion!EnableLog] を削除します。
+][BTFAXJEW00][ファイルまたはアセンブリ 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'、またはその依存関係の 1 つが読み込めませんでした。見つかったアセンブリのマニフェスト定義はアセンブリ参照に一致しません。 (HRESULT からの例外:0x80131040)]   場所 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   場所 System.Environment.get_StackTrace()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcelOut(CDB cdb, String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrWHERE_TAIOU, String pstrWHERE_CLI, String pstrAUTO, String pstrFAXNO, String pstrMAILAD, Int32 pintCNT, String pstrCreateFilePath, String pstrFlg, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintLoopNo, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 3475
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 929
+   場所 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   場所 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   場所 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   場所 System.Web.Services.Protocols.LogicalMethodInfo.Invoke(Object target, Object[] values)
+   場所 System.Web.Services.Protocols.WebServiceHandler.Invoke()
+   場所 System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()
+   場所 System.Web.Services.Protocols.SyncSessionlessHandler.ProcessRequest(HttpContext context)
+   場所 System.Web.Script.Services.ScriptHandlerFactory.HandlerWrapper.ProcessRequest(HttpContext context)
+   場所 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   場所 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   場所 System.Web.HttpApplication.PipelineStepManager.ResumeSteps(Exception error)
+   場所 System.Web.HttpApplication.BeginProcessRequestNotification(HttpContext context, AsyncCallback cb)
+   場所 System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)]
+2019/01/22 11:19:44:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：1]
+2019/01/22 11:19:44:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：2]
+2019/01/22 11:19:44:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2019/01/22 11:19:44:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：4 Count：1]
+2019/01/22 11:19:44:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2019/01/22 11:19:44:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0]
+2019/01/22 11:19:44:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：1]
+2019/01/22 11:19:44:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2019/01/22 11:19:44:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：3]
+2019/01/22 11:19:44:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：4]
+2019/01/22 11:19:45:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：5 count:0]
+2019/01/22 11:19:45:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：6（ゼロ件）]
+2019/01/22 11:19:45:20190122111938705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：7]
+2019/01/22 11:19:45:20190122111938705547512\32020\1000\1000:[[ＪＡ－ＬＰ][System.IO.FileLoadException: ファイルまたはアセンブリ 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'、またはその依存関係の 1 つが読み込めませんでした。見つかったアセンブリのマニフェスト定義はアセンブリ参照に一致しません。 (HRESULT からの例外:0x80131040)
+ファイル名 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73' です。'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.fncMakeZipWithPass(String sXlsFilePath, String sZipFilePath, String sPass)
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcelOut(CDB cdb, String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrWHERE_TAIOU, String pstrWHERE_CLI, String pstrAUTO, String pstrFAXNO, String pstrMAILAD, Int32 pintCNT, String pstrCreateFilePath, String pstrFlg, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintLoopNo, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 3475
+
+警告: アセンブリ バインドのログ記録がオフにされています。
+アセンブリ バインドのエラー ログを有効にするには、レジストリ値 [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) を 1 に設定してください。
+注意: アセンブリ バインドのエラー ログに関連するパフォーマンス ペナルティがあります。
+この機能をオフにするには、レジストリ値 [HKLM\Software\Microsoft\Fusion!EnableLog] を削除します。
+][BTFAXJEW00][ファイルまたはアセンブリ 'ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73'、またはその依存関係の 1 つが読み込めませんでした。見つかったアセンブリのマニフェスト定義はアセンブリ参照に一致しません。 (HRESULT からの例外:0x80131040)]   場所 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   場所 System.Environment.get_StackTrace()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcelOut(CDB cdb, String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrWHERE_TAIOU, String pstrWHERE_CLI, String pstrAUTO, String pstrFAXNO, String pstrMAILAD, Int32 pintCNT, String pstrCreateFilePath, String pstrFlg, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintLoopNo, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 3475
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 929
+   場所 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   場所 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   場所 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   場所 System.Web.Services.Protocols.LogicalMethodInfo.Invoke(Object target, Object[] values)
+   場所 System.Web.Services.Protocols.WebServiceHandler.Invoke()
+   場所 System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()
+   場所 System.Web.Services.Protocols.SyncSessionlessHandler.ProcessRequest(HttpContext context)
+   場所 System.Web.Script.Services.ScriptHandlerFactory.HandlerWrapper.ProcessRequest(HttpContext context)
+   場所 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   場所 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   場所 System.Web.HttpApplication.PipelineStepManager.ResumeSteps(Exception error)
+   場所 System.Web.HttpApplication.BeginProcessRequestNotification(HttpContext context, AsyncCallback cb)
+   場所 System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)]
+2019/01/22 13:09:06:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：1]
+2019/01/22 13:09:06:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：2]
+2019/01/22 13:09:06:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2019/01/22 13:09:06:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：4 Count：1]
+2019/01/22 13:09:06:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2019/01/22 13:09:06:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0]
+2019/01/22 13:09:06:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：1]
+2019/01/22 13:09:06:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2019/01/22 13:09:06:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：3]
+2019/01/22 13:09:06:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：4]
+2019/01/22 13:09:06:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：5 count:0]
+2019/01/22 13:09:06:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：6（ゼロ件）]
+2019/01/22 13:09:06:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcelOut：7]
+2019/01/22 13:09:07:20190122130906705547512\32020\1000\1000:[BTFAXJAX00:mExcel3：7]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：1]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：2]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：4 Count：1]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：1]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：3]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：4]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：5 count:0]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：6（ゼロ件）]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcelOut：7]
+2019/01/22 13:09:57:20190122130957533424020\32020\1000\1000:[BTFAXJAX00:mExcel3：7]

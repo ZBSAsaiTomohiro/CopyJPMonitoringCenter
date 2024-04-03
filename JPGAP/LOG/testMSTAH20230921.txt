@@ -1,0 +1,4 @@
+2023/09/21 9:55:58:[mExcel pstrKuracd:3200 pstrGroupcd: pstrCentcd:32020,34020,36020,10004,10001]
+2023/09/21 10:17:16:[mExcel pstrKuracd:1000 pstrGroupcd: pstrCentcd:32020,34020,36020,10004,10001]
+2023/09/21 10:20:07:[mExcel pstrKuracd:5520 pstrGroupcd: pstrCentcd:32020,34020,36020,10004,10001]
+2023/09/21 10:41:13:[mExcel pstrKuracd:5601 pstrGroupcd: pstrCentcd:32020,34020,36020,10004,10001]

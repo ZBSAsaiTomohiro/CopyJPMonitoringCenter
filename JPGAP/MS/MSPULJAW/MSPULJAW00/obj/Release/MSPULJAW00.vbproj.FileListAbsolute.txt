@@ -1,0 +1,13 @@
+C:\inetpub\wwwroot\JPGAP\MS\MSPULJAW\MSPULJAW00\bin\MSPULJAW00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSPULJAW\MSPULJAW00\bin\MSPULJAW00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSPULJAW\MSPULJAW00\bin\CODATABC00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSPULJAW\MSPULJAW00\bin\CODATABC00.pdb
+C:\inetpub\wwwroot\JPGAP\MS\MSPULJAW\MSPULJAW00\bin\CODATABC00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSPULJAW\MSPULJAW00\obj\Release\JPGAP.MSPULJAW00.MSPULJAW00.resources
+C:\inetpub\wwwroot\JPGAP\MS\MSPULJAW\MSPULJAW00\obj\Release\MSPULJAW00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSPULJAW\MSPULJAW00\obj\Release\MSPULJAW00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSPULJAW\MSPULJAW00\bin\MSPULJAW00.dll.config
+C:\inetpub\wwwroot\JPGAP\MS\MSPULJAW\MSPULJAW00\bin\Oracle.DataAccess.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSPULJAW\MSPULJAW00\obj\Release\MSPULJAW00.vbprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\JPGAP\MS\MSPULJAW\MSPULJAW00\obj\Release\MSPULJAW00.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\JPGAP\MS\MSPULJAW\MSPULJAW00\obj\Release\MSPULJAW00.vbproj.CoreCompileInputs.cache

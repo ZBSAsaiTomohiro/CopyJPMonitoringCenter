@@ -1,0 +1,73 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+COCNTRLL00
+</name>
+</assembly>
+<members>
+<member name="T:JPG.COCNTRLL00CSQL.CSQL">
+<remarks/>
+</member>
+<member name="M:JPG.COCNTRLL00CSQL.CSQL.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.COCNTRLL00CSQL.CSQL.mGetDataClearRowCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.COCNTRLL00CSQL.CSQL.mGetDataCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.COCNTRLL00CSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.COCNTRLL00CSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.COCNTRLL00CSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.COCNTRLL00CSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.COCNTRLL00CSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.COCNTRLL00CSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.COCNTRLL00CSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.COCNTRLL00CSQL.CSQL.EndmGetData(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.COCNTRLL00CSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.COCNTRLL00CSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.COCNTRLL00CSQL.CSQL.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.COCNTRLL00CSQL.mGetDataClearRowCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.COCNTRLL00CSQL.mGetDataClearRowCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.COCNTRLL00CSQL.mGetDataClearRowCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.COCNTRLL00CSQL.mGetDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.COCNTRLL00CSQL.mGetDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.COCNTRLL00CSQL.mGetDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

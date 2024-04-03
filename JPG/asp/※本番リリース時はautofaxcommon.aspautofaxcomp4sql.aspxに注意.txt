@@ -1,0 +1,4 @@
+※本番リリース時はautofaxcommon.asp、autofaxcomp4sql.aspxに注意
+    private const SID = "NKANSIKAI" 検証環境用：10.10.100.24
+    private const SID = "NKANSIHON" 本番環境用：10.11.100.13
+

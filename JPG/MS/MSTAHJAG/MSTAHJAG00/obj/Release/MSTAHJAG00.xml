@@ -1,0 +1,271 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MSTAHJAG00
+</name>
+</assembly>
+<members>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._hdnBackUrl">
+<summary>
+hdnBackUrl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._hdnPopcrtl">
+<summary>
+hdnPopcrtl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._txtKURACD">
+<summary>
+txtKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._btnKURACD">
+<summary>
+btnKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._txtKURACD_TO">
+<summary>
+txtKURACD_TO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._btnKURACD_TO">
+<summary>
+btnKURACD_TO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._hdnKURACD">
+<summary>
+hdnKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._hdnKURACD_TO">
+<summary>
+hdnKURACD_TO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._txtJACD">
+<summary>
+txtJACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._btnJACD">
+<summary>
+btnJACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._hdnJACD">
+<summary>
+hdnJACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._hdnJA_CD_CLI">
+<summary>
+hdnJA_CD_CLI コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._txtGROUPCD">
+<summary>
+txtGROUPCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._btnGROUPCD">
+<summary>
+btnGROUPCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._hdnGROUPCD">
+<summary>
+hdnGROUPCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJAG00._btnSelect">
+<summary>
+btnSelect コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTAHJAG00.MSTAHJCG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00">
+<remarks/>
+</member>
+<member name="M:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.mCheckCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.mExcelCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.mCheck(System.String,System.String,System.String,System.String,System.String,System.Decimal)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.BeginmCheck(System.String,System.String,System.String,System.String,System.String,System.Decimal,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.EndmCheck(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.mCheckAsync(System.String,System.String,System.String,System.String,System.String,System.Decimal)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.mCheckAsync(System.String,System.String,System.String,System.String,System.String,System.Decimal,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.mExcel(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.BeginmExcel(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.EndmExcel(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.mExcelAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.mExcelAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.MSTAHJAW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.mCheckCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.mCheckCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.mCheckCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.mExcelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.mExcelCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.MSTAHJAG00.MSTAHJAG00MSTAHJAW00.mExcelCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

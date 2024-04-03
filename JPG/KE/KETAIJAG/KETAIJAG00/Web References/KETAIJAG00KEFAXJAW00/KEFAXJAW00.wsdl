@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/KEFAXJAW00/KEFAXJAW00" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/KEFAXJAW00/KEFAXJAW00" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/KEFAXJAW00/KEFAXJAW00">
+      <s:element name="mExcel">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSessionID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEXT_NAME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND_NAME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND_POST" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND_ADDS" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND_FAX" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND_TEL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBtnKBN" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mExcelResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mExcelResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mExcelSpot">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRoop" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSessionID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEXT_NAME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND_NAME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND_POST" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND_ADDS" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND_FAX" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND_TEL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBtnKBN" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mExcelSpotResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mExcelSpotResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mExcelSpotKill">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSessionID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEXT_NAME" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mExcelSpotKillResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mExcelSpotKillResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fncDataOut">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSYONO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAX_TITLE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKANSCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJUSYONM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSER_CD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJUTEL1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJUTEL2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrADDR" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHATYMD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHATTIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKENSIN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRYURYO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMETASYU" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM4" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM5" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM6" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTAIOKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTKTANCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSYOYMD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSYOTIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSIJIYMD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSIJITIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTAITCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTELRCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFUK_MEMO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO4" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO5" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO6" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTKIGCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTSADCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAX_REN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMITOKBN" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fncDataOutResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fncDataOutResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fncExcelDataOut">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSYONO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAX_TITLE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKANSCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJUSYONM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSER_CD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJUTEL1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJUTEL2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrADDR" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHATYMD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHATTIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKENSIN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRYURYO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMETASYU" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM4" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM5" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM6" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTAIOKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTKTANCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSYOYMD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSYOTIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSIJIYMD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSIJITIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTAITCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTELRCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFUK_MEMO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO4" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO5" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO6" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTKIGCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTSADCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAX_REN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMITOKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSENDFLG" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMAIL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMAILPASS" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSEND_NAME" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fncExcelDataOutResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fncExcelDataOutResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="mExcelSoapIn">
+    <wsdl:part name="parameters" element="tns:mExcel" />
+  </wsdl:message>
+  <wsdl:message name="mExcelSoapOut">
+    <wsdl:part name="parameters" element="tns:mExcelResponse" />
+  </wsdl:message>
+  <wsdl:message name="mExcelSpotSoapIn">
+    <wsdl:part name="parameters" element="tns:mExcelSpot" />
+  </wsdl:message>
+  <wsdl:message name="mExcelSpotSoapOut">
+    <wsdl:part name="parameters" element="tns:mExcelSpotResponse" />
+  </wsdl:message>
+  <wsdl:message name="mExcelSpotKillSoapIn">
+    <wsdl:part name="parameters" element="tns:mExcelSpotKill" />
+  </wsdl:message>
+  <wsdl:message name="mExcelSpotKillSoapOut">
+    <wsdl:part name="parameters" element="tns:mExcelSpotKillResponse" />
+  </wsdl:message>
+  <wsdl:message name="fncDataOutSoapIn">
+    <wsdl:part name="parameters" element="tns:fncDataOut" />
+  </wsdl:message>
+  <wsdl:message name="fncDataOutSoapOut">
+    <wsdl:part name="parameters" element="tns:fncDataOutResponse" />
+  </wsdl:message>
+  <wsdl:message name="fncExcelDataOutSoapIn">
+    <wsdl:part name="parameters" element="tns:fncExcelDataOut" />
+  </wsdl:message>
+  <wsdl:message name="fncExcelDataOutSoapOut">
+    <wsdl:part name="parameters" element="tns:fncExcelDataOutResponse" />
+  </wsdl:message>
+  <wsdl:portType name="KEFAXJAW00Soap">
+    <wsdl:operation name="mExcel">
+      <wsdl:input message="tns:mExcelSoapIn" />
+      <wsdl:output message="tns:mExcelSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mExcelSpot">
+      <wsdl:input message="tns:mExcelSpotSoapIn" />
+      <wsdl:output message="tns:mExcelSpotSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mExcelSpotKill">
+      <wsdl:input message="tns:mExcelSpotKillSoapIn" />
+      <wsdl:output message="tns:mExcelSpotKillSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="fncDataOut">
+      <wsdl:input message="tns:fncDataOutSoapIn" />
+      <wsdl:output message="tns:fncDataOutSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="fncExcelDataOut">
+      <wsdl:input message="tns:fncExcelDataOutSoapIn" />
+      <wsdl:output message="tns:fncExcelDataOutSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="KEFAXJAW00Soap" type="tns:KEFAXJAW00Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mExcel">
+      <soap:operation soapAction="http://tempuri.org/KEFAXJAW00/KEFAXJAW00/mExcel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mExcelSpot">
+      <soap:operation soapAction="http://tempuri.org/KEFAXJAW00/KEFAXJAW00/mExcelSpot" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mExcelSpotKill">
+      <soap:operation soapAction="http://tempuri.org/KEFAXJAW00/KEFAXJAW00/mExcelSpotKill" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fncDataOut">
+      <soap:operation soapAction="http://tempuri.org/KEFAXJAW00/KEFAXJAW00/fncDataOut" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fncExcelDataOut">
+      <soap:operation soapAction="http://tempuri.org/KEFAXJAW00/KEFAXJAW00/fncExcelDataOut" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="KEFAXJAW00Soap12" type="tns:KEFAXJAW00Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mExcel">
+      <soap12:operation soapAction="http://tempuri.org/KEFAXJAW00/KEFAXJAW00/mExcel" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mExcelSpot">
+      <soap12:operation soapAction="http://tempuri.org/KEFAXJAW00/KEFAXJAW00/mExcelSpot" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mExcelSpotKill">
+      <soap12:operation soapAction="http://tempuri.org/KEFAXJAW00/KEFAXJAW00/mExcelSpotKill" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fncDataOut">
+      <soap12:operation soapAction="http://tempuri.org/KEFAXJAW00/KEFAXJAW00/fncDataOut" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fncExcelDataOut">
+      <soap12:operation soapAction="http://tempuri.org/KEFAXJAW00/KEFAXJAW00/fncExcelDataOut" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="KEFAXJAW00">
+    <wsdl:port name="KEFAXJAW00Soap" binding="tns:KEFAXJAW00Soap">
+      <soap:address location="http://knapsv/JPGAP/KE/KEFAXJAW/KEFAXJAW00/KEFAXJAW00.asmx" />
+    </wsdl:port>
+    <wsdl:port name="KEFAXJAW00Soap12" binding="tns:KEFAXJAW00Soap12">
+      <soap12:address location="http://knapsv/JPGAP/KE/KEFAXJAW/KEFAXJAW00/KEFAXJAW00.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

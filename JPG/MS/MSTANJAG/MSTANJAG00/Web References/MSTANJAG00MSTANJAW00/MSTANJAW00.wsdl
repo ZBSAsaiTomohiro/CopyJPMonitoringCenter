@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://tempuri.org/MSTANJAW00/Service1" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/MSTANJAW00/Service1" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/MSTANJAW00/Service1">
+      <s:element name="mSet">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pintKBN" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrCODE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTANCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTANNM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAXNO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDISP_NO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrADD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrEDT_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTIME" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetTanto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cdb" type="s0:CDB" />
+            <s:element minOccurs="1" maxOccurs="1" name="pintKBN" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrCODE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTANCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTANNM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAXNO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDISP_NO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrADD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrEDT_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTIME" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="CDB" />
+      <s:element name="mSetTantoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetTantoResult" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cdb" type="s0:CDB" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </types>
+  <message name="mSetSoapIn">
+    <part name="parameters" element="s0:mSet" />
+  </message>
+  <message name="mSetSoapOut">
+    <part name="parameters" element="s0:mSetResponse" />
+  </message>
+  <message name="mSetTantoSoapIn">
+    <part name="parameters" element="s0:mSetTanto" />
+  </message>
+  <message name="mSetTantoSoapOut">
+    <part name="parameters" element="s0:mSetTantoResponse" />
+  </message>
+  <portType name="MSTANJAW00Soap">
+    <operation name="mSet">
+      <input message="s0:mSetSoapIn" />
+      <output message="s0:mSetSoapOut" />
+    </operation>
+    <operation name="mSetTanto">
+      <input message="s0:mSetTantoSoapIn" />
+      <output message="s0:mSetTantoSoapOut" />
+    </operation>
+  </portType>
+  <binding name="MSTANJAW00Soap" type="s0:MSTANJAW00Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="mSet">
+      <soap:operation soapAction="http://tempuri.org/MSTANJAW00/Service1/mSet" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="mSetTanto">
+      <soap:operation soapAction="http://tempuri.org/MSTANJAW00/Service1/mSetTanto" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="MSTANJAW00">
+    <port name="MSTANJAW00Soap" binding="s0:MSTANJAW00Soap">
+      <soap:address location="http://knapsv/JPGAP/MS/MSTANJAW/MSTANJAW00/MSTANJAW00.asmx" />
+    </port>
+  </service>
+</definitions>

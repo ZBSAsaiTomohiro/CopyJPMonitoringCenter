@@ -1,0 +1,17 @@
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\bin\MSTALJAW00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\bin\MSTALJAW00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\bin\COCOMONC00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\bin\CODATABC00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\bin\COCOMONC00.pdb
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\bin\COCOMONC00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\bin\CODATABC00.pdb
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\bin\CODATABC00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\bin\COCOMONC00.XmlSerializers.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\obj\Release\JPGAP.MSTALJAW00.MSTALJAW00.resources
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\obj\Release\MSTALJAW00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\obj\Release\MSTALJAW00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\bin\MSTALJAW00.dll.config
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\bin\Oracle.DataAccess.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\obj\Release\MSTALJAW00.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\obj\Release\MSTALJAW00.vbproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\JPGAP\MS\MSTALJAW\MSTALJAW00\obj\Release\MSTALJAW00.vbprojResolveAssemblyReference.cache

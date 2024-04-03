@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <ProductVersion>8.0.30319</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A62071F9-5A69-40BC-9B36-5DF08AA7602D}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon />
+    <AssemblyKeyContainerName />
+    <AssemblyName>JPG</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>JPG</RootNamespace>
+    <StartupObject />
+    <WebReference_EnableProperties>true</WebReference_EnableProperties>
+    <WebReference_EnableSQLTypes>false</WebReference_EnableSQLTypes>
+    <WebReference_EnableLegacyEventingModel>true</WebReference_EnableLegacyEventingModel>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>JPG.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>JPG.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\監視あんしん\共通部品\common\COCOMONC00\COCOMONC00.vbproj">
+      <Name>COCOMONC00</Name>
+      <Project>{0B6D8998-8FD4-4AFD-BA2E-DAAFCD73F119}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\監視あんしん\共通部品\common\CODATABC00\CODATABC00.vbproj">
+      <Name>CODATABC00</Name>
+      <Project>{88DEA65E-D7DF-4137-A00D-20C3E2BEDE36}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\監視あんしん\共通部品\jpgcommon\COCNTRLL00\COCNTRLL00.vbproj">
+      <Name>COCNTRLL00</Name>
+      <Project>{D1864169-F64B-4ED1-8840-CBB474A44BA3}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\監視あんしん\共通部品\jpgcommon\COCOLOGC00\COCOLOGC00.vbproj">
+      <Name>COCOLOGC00</Name>
+      <Project>{68610993-6DC5-4F9E-AEE1-AB8BEDB4A784}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\監視あんしん\共通部品\jpgcommon\COCOMKNC00\COCOMKNC00.vbproj">
+      <Name>COCOMKNC00</Name>
+      <Project>{DFEDE955-AA71-479F-9A99-63ADFF78B3B5}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\監視あんしん\共通部品\jpgcommon\COCONSTC00\COCONSTC00.vbproj">
+      <Name>COCONSTC00</Name>
+      <Project>{DF1ECD89-783B-4C1D-8B36-3CF5961CA09E}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="KE\KEJUKJAG\KEJUKJAG00\KEJUKJAG00.vbproj">
+      <Name>KEJUKJAG00</Name>
+      <Project>{F21BBA27-23DB-4BA0-8CB7-585FA0573D50}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="KE\KEKANSYG\KEKANSYG00\KEKANSYG00.vbproj">
+      <Project>{B864279C-B310-45DA-BE88-F4C3AF114CE4}</Project>
+      <Name>KEKANSYG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="KE\KEKEKJAG\KEKEKJAG00\KEKEKJAG00.vbproj">
+      <Project>{872c8534-d921-4aa7-91f1-e53bc7f2a1e3}</Project>
+      <Name>KEKEKJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="KE\KEKESJAG\KEKESJAG00\KEKESJAG00.vbproj">
+      <Name>KEKESJAG00</Name>
+      <Project>{F41FE862-702A-4544-A96D-1ACF9DC7ED9F}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="KE\KERUIJOG\KERUIJOG00\KERUIJOG00.vbproj">
+      <Name>KERUIJOG00</Name>
+      <Project>{FDF35850-933F-4E7E-AD00-A9362A0C3BDE}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="KE\KESAIJAG\KESAIJAG00\KESAIJAG00.vbproj">
+      <Project>{34a473b9-619e-4a8e-9e78-f2b27c060366}</Project>
+      <Name>KESAIJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="KE\KETAIJAG\KETAIJAG00\KETAIJAG00.vbproj">
+      <Project>{f3eed584-0448-4f53-b20a-19deb53c4959}</Project>
+      <Name>KETAIJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="KE\KETAISYG\KETAISYG00\KETAISYG00.vbproj">
+      <Name>KETAISYG00</Name>
+      <Project>{D71E0C71-672A-49D6-B3A6-DB70E08AECF6}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSHAGJAG\MSHAGJAG00\MSHAGJAG00.vbproj">
+      <Project>{2BB9A991-4686-456E-BC03-5824564E9A46}</Project>
+      <Name>MSHAGJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSHATJAG\MSHATJAG00\MSHATJAG00.vbproj">
+      <Project>{261c8a89-d6e0-48ec-94b8-a2411a958cc5}</Project>
+      <Name>MSHATJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSJAGJAG\MSJAGJAG00\MSJAGJAG00.vbproj">
+      <Project>{675835E5-817C-4239-85BE-4AAC20D99D32}</Project>
+      <Name>MSJAGJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSJIGJAG\MSJIGJAG00\MSJIGJAG00.vbproj">
+      <Project>{407E3BBF-458D-447C-A796-8381E19E8BBD}</Project>
+      <Name>MSJIGJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSJINJAG\MSJINJAG00\MSJINJAG00.vbproj">
+      <Project>{DFA31BC0-4C3C-4C7F-BFE6-805D32CA86DD}</Project>
+      <Name>MSJINJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSKOSJAG\MSKOSJAG00\MSKOSJAG00.vbproj">
+      <Name>MSKOSJAG00</Name>
+      <Project>{7D6A5C8A-0C38-495E-8300-151D8BF58CB5}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSKYOJAG\MSKYOJAG00\MSKYOJAG00.vbproj">
+      <Project>{227ABCCD-DA06-4DB1-8E49-80DA6240872C}</Project>
+      <Name>MSKYOJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSPUFJAG\MSPUFJAG00\MSPUFJAG00.vbproj">
+      <Name>MSPUFJAG00</Name>
+      <Project>{46DBCC74-7D8E-499C-9F4D-6BF67C606237}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSPULJAG\MSPULJAG00\MSPULJAG00.vbproj">
+      <Name>MSPULJAG00</Name>
+      <Project>{931B9052-01C5-4391-9FFA-A70DC897177D}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSRUIJAG\MSRUIJAG00\MSRUIJAG00.vbproj">
+      <Project>{35E88999-0EE4-47CE-B74A-3D3EAD5F9DB0}</Project>
+      <Name>MSRUIJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSTAEJAG\MSTAEJAG00\MSTAEJAG00.vbproj">
+      <Project>{51B0F1A1-166B-4A32-A93E-5FC8F2FCCA28}</Project>
+      <Name>MSTAEJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSTAFJAG\MSTAFJAG00\MSTAFJAG00.vbproj">
+      <Name>MSTAFJAG00</Name>
+      <Project>{E2522082-812B-4552-9574-1A7C5EF75314}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSTAGJAG\MSTAGJAG00\MSTAGJAG00.vbproj">
+      <Project>{6D755BA7-027A-4C6D-A230-E6F98C0C00C6}</Project>
+      <Name>MSTAGJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSTAHJAG\MSTAHJAG00\MSTAHJAG00.vbproj">
+      <Project>{8A7B24CE-54A0-4C96-AD00-D76AD92D34EB}</Project>
+      <Name>MSTAHJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSTAJJAG\MSTAJJAG00\MSTAJJAG00.vbproj">
+      <Project>{49A3664F-F1FA-41A4-B7B9-CE167991D4B6}</Project>
+      <Name>MSTAJJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSTAKJAG\MSTAKJAG00\MSTAKJAG00.vbproj">
+      <Project>{B87EADA2-B53A-4259-897C-0F778B16869C}</Project>
+      <Name>MSTAKJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSTALJAG\MSTALJAG00\MSTALJAG00.vbproj">
+      <Project>{D6E9C218-8942-4CB6-8625-834E49DE277D}</Project>
+      <Name>MSTALJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSTANJAG\MSTANJAG00\MSTANJAG00.vbproj">
+      <Name>MSTANJAG00</Name>
+      <Project>{9899F28D-27FB-47C9-96B5-221AB2BA5036}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="MS\MSTASJAG\MSTASJAG00\MSTASJAG00.vbproj">
+      <Project>{7AF96BF1-9DAA-48F1-B798-41B2F6A26EE1}</Project>
+      <Name>MSTASJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="SB\SBMEIJAG\SBMEIJAG00\SBMEIJAG00.vbproj">
+      <Project>{8e82944c-9afb-4d84-9cd5-8e53893c3b0d}</Project>
+      <Name>SBMEIJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="SB\SBMEOJAG\SBMEOJAG00\SBMEOJAG00.vbproj">
+      <Project>{68fccd4e-f7ad-4a20-a62a-eda895881799}</Project>
+      <Name>SBMEOJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="SD\SDLOGJAG\SDLOGJAG00\SDLOGJAG00.vbproj">
+      <Name>SDLOGJAG00</Name>
+      <Project>{EA852D40-2B33-4132-B229-5DB05A41AD79}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="SY\SYBATJAG\SYBATJAG00\SYBATJAG00.vbproj">
+      <Name>SYBATJAG00</Name>
+      <Project>{C3561B3C-595A-4363-98A8-3B895FD2C825}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="SY\SYCTIJAG\SYCTIJAG00\SYCTIJAG00.vbproj">
+      <Name>SYCTIJAG00</Name>
+      <Project>{56A9108F-AB2C-4589-8742-D907FADF9760}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="SY\SYDIKJAG\SYDIKJAG00\SYDIKJAG00.vbproj">
+      <Name>SYDIKJAG00</Name>
+      <Project>{9C1FC800-E11E-445C-85E5-628F62C9C584}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="SY\SYGETJAG\SYGETJAG00\SYGETJAG00.vbproj">
+      <Project>{271B7232-7D70-46A0-BC60-C3B5D329FFFF}</Project>
+      <Name>SYGETJAG00</Name>
+    </ProjectReference>
+    <ProjectReference Include="SY\SYHANJAG\SYHANJAG00\SYHANJAG00.vbproj">
+      <Name>SYHANJAG00</Name>
+      <Project>{08B7DA3C-2846-4DF6-876B-B3CE7B4734CD}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services">
+      <Name>System.Web.Services</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.HtmlControls" />
+    <Import Include="System.Web.UI.WebControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AUTHERR.aspx.designer.vb">
+      <DependentUpon>AUTHERR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AUTHERR.aspx.vb">
+      <DependentUpon>AUTHERR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="COGBASEG00.aspx.designer.vb">
+      <DependentUpon>COGBASEG00.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="COGBASEG00.aspx.vb">
+      <DependentUpon>COGBASEG00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="COGMENUG00.aspx.designer.vb">
+      <DependentUpon>COGMENUG00.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="COGMENUG00.aspx.vb">
+      <DependentUpon>COGMENUG00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="COGMNCTG00.aspx.designer.vb">
+      <DependentUpon>COGMNCTG00.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="COGMNCTG00.aspx.vb">
+      <DependentUpon>COGMNCTG00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="COGMNEGG00.aspx.designer.vb">
+      <DependentUpon>COGMNEGG00.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="COGMNEGG00.aspx.vb">
+      <DependentUpon>COGMNEGG00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="COGMNKHG00.aspx.designer.vb">
+      <DependentUpon>COGMNKHG00.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="COGMNKHG00.aspx.vb">
+      <DependentUpon>COGMNKHG00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="COGMNMEG00.aspx.designer.vb">
+      <DependentUpon>COGMNMEG00.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="COGMNMEG00.aspx.vb">
+      <DependentUpon>COGMNMEG00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="COGMNMLG00.aspx.designer.vb">
+      <DependentUpon>COGMNMLG00.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="COGMNMLG00.aspx.vb">
+      <DependentUpon>COGMNMLG00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="COGMNMSG00.aspx.designer.vb">
+      <DependentUpon>COGMNMSG00.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="COGMNMSG00.aspx.vb">
+      <DependentUpon>COGMNMSG00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="COGMNSSG00.aspx.designer.vb">
+      <DependentUpon>COGMNSSG00.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="COGMNSSG00.aspx.vb">
+      <DependentUpon>COGMNSSG00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="COINDEXG00.aspx.designer.vb">
+      <DependentUpon>COINDEXG00.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="COINDEXG00.aspx.vb">
+      <DependentUpon>COINDEXG00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Popup\COCALDRG00.aspx.designer.vb">
+      <DependentUpon>COCALDRG00.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Popup\COCALDRG00.aspx.vb">
+      <DependentUpon>COCALDRG00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Popup\COPOPUFG00.aspx.designer.vb">
+      <DependentUpon>COPOPUFG00.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Popup\COPOPUFG00.aspx.vb">
+      <DependentUpon>COPOPUFG00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Popup\COPOPUPG00.aspx.designer.vb">
+      <DependentUpon>COPOPUPG00.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Popup\COPOPUPG00.aspx.vb">
+      <DependentUpon>COPOPUPG00.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web References\JPGCSQL\Reference.vb">
+      <DependentUpon>Reference.map</DependentUpon>
+      <SubType>code</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Content Include="AUTHERR.aspx" />
+    <Content Include="COGBASEG00.aspx" />
+    <Content Include="COGBASEG00.css" />
+    <Content Include="COGBASEG00.js" />
+    <Content Include="COGMENUG00.aspx" />
+    <Content Include="COGMNCTG00.aspx" />
+    <Content Include="COGMNEGG00.aspx" />
+    <Content Include="COGMNKHG00.aspx" />
+    <Content Include="COGMNMEG00.aspx" />
+    <Content Include="COGMNMLG00.aspx" />
+    <Content Include="COGMNMSG00.aspx" />
+    <Content Include="COGMNSSG00.aspx" />
+    <Content Include="COINDEXG00.aspx" />
+    <Content Include="Popup\COCALDRG00.aspx" />
+    <Content Include="Popup\COPOPUFG00.aspx" />
+    <Content Include="Popup\COPOPUPG00.aspx" />
+    <Content Include="Popup\COPOPUPG00.js" />
+    <Content Include="Script\CssData.css" />
+    <Content Include="Script\CssIframe.css" />
+    <Content Include="Script\CssPopup.css" />
+    <Content Include="Script\CssPrint.css" />
+    <Content Include="Script\CssSmall.css" />
+    <Content Include="Script\fncBG.js" />
+    <Content Include="Script\fncChk.js" />
+    <Content Include="Script\fncDate.js" />
+    <Content Include="Script\fncFo.js" />
+    <Content Include="Script\fncGetByte.js" />
+    <Content Include="Script\fncNum.js" />
+    <Content Include="Script\fncNumChk.js" />
+    <Content Include="Script\fncTel.js" />
+    <Content Include="Script\fncTime.js" />
+    <Content Include="Script\fncZenkakuChk.js" />
+    <Content Include="WAV\sairen01.wav" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <EmbeddedResource Include="AUTHERR.aspx.resx">
+      <DependentUpon>AUTHERR.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COGBASEG00.aspx.resx">
+      <DependentUpon>COGBASEG00.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COGMENUG00.aspx.resx">
+      <DependentUpon>COGMENUG00.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COGMNCTG00.aspx.resx">
+      <DependentUpon>COGMNCTG00.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COGMNEGG00.aspx.resx">
+      <DependentUpon>COGMNEGG00.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COGMNKHG00.aspx.resx">
+      <DependentUpon>COGMNKHG00.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COGMNMEG00.aspx.resx">
+      <DependentUpon>COGMNMEG00.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COGMNMLG00.aspx.resx">
+      <DependentUpon>COGMNMLG00.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COGMNMSG00.aspx.resx">
+      <DependentUpon>COGMNMSG00.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COGMNSSG00.aspx.resx">
+      <DependentUpon>COGMNSSG00.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COINDEXG00.aspx.resx">
+      <DependentUpon>COINDEXG00.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Popup\COCALDRG00.aspx.resx" />
+    <EmbeddedResource Include="Popup\COPOPUFG00.aspx.resx">
+      <DependentUpon>COPOPUFG00.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Popup\COPOPUPG00.aspx.resx">
+      <DependentUpon>COPOPUPG00.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Web References\JPGCSQL\CSQL.disco" />
+    <None Include="Web References\JPGCSQL\CSQL.wsdl" />
+    <None Include="Web References\JPGCSQL\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <WebReferences Include="Web References\" />
+    <WebReferenceUrl Include="http://knapsv/JPGAP/CO/COCOMONW/COCOMONW00/CSQL.asmx">
+      <RelPath>Web References\JPGCSQL\</RelPath>
+      <UrlBehavior>Static</UrlBehavior>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2547</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/JPG</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

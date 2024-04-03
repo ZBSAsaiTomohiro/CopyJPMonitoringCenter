@@ -1,0 +1,622 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KERUIJOG00
+</name>
+</assembly>
+<members>
+<member name="F:JPG.KERUIJOG00.KERUIJCG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._hdnPopcrtl">
+<summary>
+hdnPopcrtl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._txtKURACD">
+<summary>
+txtKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._btnKURACD">
+<summary>
+btnKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._hdnKURACD">
+<summary>
+hdnKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._txtKYOCD">
+<summary>
+txtKYOCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._btnKYOCD">
+<summary>
+btnKYOCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._hdnKYOCD">
+<summary>
+hdnKYOCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._txtHANJICD_F">
+<summary>
+txtHANJICD_F コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._btnHANJICD_F">
+<summary>
+btnHANJICD_F コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._hdnHANJICD_F">
+<summary>
+hdnHANJICD_F コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._txtHANJICD_T">
+<summary>
+txtHANJICD_T コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._btnHANJICD_T">
+<summary>
+btnHANJICD_T コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._hdnHANJICD_T">
+<summary>
+hdnHANJICD_T コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._txtJACD_F">
+<summary>
+txtJACD_F コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._btnKen1_F">
+<summary>
+btnKen1_F コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._hdnJACD_F">
+<summary>
+hdnJACD_F コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._txtJACD_T">
+<summary>
+txtJACD_T コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._btnKen1_T">
+<summary>
+btnKen1_T コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._hdnJACD_T">
+<summary>
+hdnJACD_T コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._txtJASCD_F">
+<summary>
+txtJASCD_F コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._btnKen2_F">
+<summary>
+btnKen2_F コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._hdnJASCD_F">
+<summary>
+hdnJASCD_F コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._txtJASCD_T">
+<summary>
+txtJASCD_T コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._btnKen2_T">
+<summary>
+btnKen2_T コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._hdnJASCD_T">
+<summary>
+hdnJASCD_T コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._rdoSTKBN1">
+<summary>
+rdoSTKBN1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._rdoSTKBN2">
+<summary>
+rdoSTKBN2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._rdoSTKBN3">
+<summary>
+rdoSTKBN3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._checkTEL">
+<summary>
+checkTEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._checkSYTUDO">
+<summary>
+checkSYTUDO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._checkTYOFUKU">
+<summary>
+checkTYOFUKU コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._rdoPGKBN1">
+<summary>
+rdoPGKBN1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._rdoPGKBN2">
+<summary>
+rdoPGKBN2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._rdoPGKBN3">
+<summary>
+rdoPGKBN3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._rdoPGKBN4">
+<summary>
+rdoPGKBN4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._rdoPGKBN5">
+<summary>
+rdoPGKBN5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._rdoHOKOKU1">
+<summary>
+rdoHOKOKU1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._rdoHOKOKU2">
+<summary>
+rdoHOKOKU2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._hdnCalendar">
+<summary>
+hdnCalendar コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._txtTRGDATE_From">
+<summary>
+txtTRGDATE_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._txtTRGDATE_To">
+<summary>
+txtTRGDATE_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._rdoKIKAN1">
+<summary>
+rdoKIKAN1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._rdoKIKAN2">
+<summary>
+rdoKIKAN2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._txtTRGTIME_From">
+<summary>
+txtTRGTIME_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._txtTRGTIME_To">
+<summary>
+txtTRGTIME_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KERUIJOG00.KERUIJOG00._btnSelect">
+<summary>
+btnSelect コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mCheckCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mCheck2Completed">
+<remarks/>
+</member>
+<member name="E:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mExcelCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mExcel3Completed">
+<remarks/>
+</member>
+<member name="E:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.compressStr2Arc2StrCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mCheck(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.BeginmCheck(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.EndmCheck(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mCheckAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mCheckAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mCheck2(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.BeginmCheck2(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.EndmCheck2(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mCheck2Async(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mCheck2Async(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mExcel(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.BeginmExcel(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.EndmExcel(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mExcelAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mExcelAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mExcel3(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.Boolean,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String[],System.String[],System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.BeginmExcel3(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.Boolean,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String[],System.String[],System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.EndmExcel3(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mExcel3Async(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.Boolean,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String[],System.String[],System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.mExcel3Async(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.Boolean,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String[],System.String[],System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.compressStr2Arc2Str(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.BegincompressStr2Arc2Str(System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.EndcompressStr2Arc2Str(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.compressStr2Arc2StrAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.compressStr2Arc2StrAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.KERUIJOW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.mCheckCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.mCheckCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.mCheckCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.mCheck2CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.mCheck2CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.mCheck2CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.mExcelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.mExcelCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.mExcelCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.mExcel3CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.mExcel3CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.mExcel3CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.compressStr2Arc2StrCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.compressStr2Arc2StrCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KERUIJOG00.KERUIJOG00KERUIJOW00.compressStr2Arc2StrCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

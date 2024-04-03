@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SYBATJAG00", "http://knwwwsv/JPG/SY/SYBATJAG/SYBATJAG00/SYBATJAG00.vbproj", "{C3561B3C-595A-4363-98A8-3B895FD2C825}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C3561B3C-595A-4363-98A8-3B895FD2C825}.Debug.ActiveCfg = Debug|.NET
+		{C3561B3C-595A-4363-98A8-3B895FD2C825}.Debug.Build.0 = Debug|.NET
+		{C3561B3C-595A-4363-98A8-3B895FD2C825}.Release.ActiveCfg = Release|.NET
+		{C3561B3C-595A-4363-98A8-3B895FD2C825}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

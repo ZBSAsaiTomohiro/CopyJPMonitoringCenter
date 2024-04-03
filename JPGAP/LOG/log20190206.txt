@@ -1,0 +1,30 @@
+2019/02/06 16:57:25|ERROR：4行目:System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1226
+2019/02/06 16:57:46|ERROR：4行目:System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1226
+2019/02/06 17:00:43|ERROR：4行目:System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1226
+2019/02/06 17:23:59|ERROR：2行目:System.Exception: ORA-12899: 列"KANSHI"."D30_MEIBO"."KYOKTKBN"の値が大きすぎます(実際: 4、最大: 1)
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1267
+2019/02/06 17:34:03|ERROR：2行目:System.Exception: ORA-12899: 列"KANSHI"."D30_MEIBO"."KYOKTKBN"の値が大きすぎます(実際: 4、最大: 1)
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1267
+2019/02/06 17:36:56|ERROR：2行目:System.Exception: ORA-12899: 列"KANSHI"."D30_MEIBO"."KYOKTKBN"の値が大きすぎます(実際: 4、最大: 1)
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1267
+2019/02/06 17:37:07|ERROR：2行目:System.Exception: ORA-12899: 列"KANSHI"."D30_MEIBO"."KYOKTKBN"の値が大きすぎます(実際: 4、最大: 1)
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1267
+2019/02/06 17:46:44|ERROR：2行目:System.Exception: ORA-12899: 列"KANSHI"."D30_MEIBO"."KYOKTKBN"の値が大きすぎます(実際: 4、最大: 1)
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1267
+2019/02/06 17:49:22|ERROR：2行目:System.Exception: ORA-12899: 列"KANSHI"."D30_MEIBO"."KYOKTKBN"の値が大きすぎます(実際: 4、最大: 1)
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1267

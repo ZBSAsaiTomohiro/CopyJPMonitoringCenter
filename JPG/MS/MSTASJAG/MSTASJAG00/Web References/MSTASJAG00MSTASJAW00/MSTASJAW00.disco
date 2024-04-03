@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://knapsv/JPGAP/MS/MSTASJAW/MSTASJAW00/MSTASJAW00.asmx?wsdl" docRef="http://knapsv/JPGAP/MS/MSTASJAW/MSTASJAW00/MSTASJAW00.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://knapsv/JPGAP/MS/MSTASJAW/MSTASJAW00/MSTASJAW00.asmx" xmlns:q1="http://tempuri.org/MSTASJAW00/Service1" binding="q1:MSTASJAW00Soap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

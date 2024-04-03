@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/MSTAGJAW00/Service1" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/MSTAGJAW00/Service1" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/MSTAGJAW00/Service1">
+      <s:element name="mSet">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pintMODE" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrCODE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSER_CD_FROM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSER_CD_TO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTANCD" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTANNM" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL1" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL2" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL3" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAXNO" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDISP_NO" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBIKO" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrADD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrEDT_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrEDT_DT" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="mSetResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetEx">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pintMODE" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDBKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPNM" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTANCD" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTANNM" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL1" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL2" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL3" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAXNO" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBIKO" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSPOT_MAIL" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMAIL_PASS" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTO_FAXNM" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTO_MAIL" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTO_MAIL_PASS" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTO_FAXNO" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTO_KBN" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTO_ZERO_FLG" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSD_PRT_FLG" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGUIDELINE" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGUIDELINE2" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGUIDELINE3" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGUIDELINENM1" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGUIDELINENM2" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGUIDELINENM3" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAXKURAKBN" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAXJAKBN" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_DATE" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_USER" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_DATE" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_USER" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSERNM" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetExResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetExResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetTanto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cdb" type="tns:CDB" />
+            <s:element minOccurs="1" maxOccurs="1" name="pintMODE" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDBKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPNM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTANCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTANNM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAXNO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSPOT_MAIL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMAIL_PASS" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTO_FAXNM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTO_MAIL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTO_MAIL_PASS" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTO_FAXNO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTO_KBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTO_ZERO_FLG" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSD_PRT_FLG" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGUIDELINE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGUIDELINE2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGUIDELINE3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGUIDELINENM1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGUIDELINENM2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGUIDELINENM3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAXKURAKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAXJAKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_USER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_USER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSERNM" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="CDB" />
+      <s:element name="mSetTantoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetTantoResult" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cdb" type="tns:CDB" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="mSetSoapIn">
+    <wsdl:part name="parameters" element="tns:mSet" />
+  </wsdl:message>
+  <wsdl:message name="mSetSoapOut">
+    <wsdl:part name="parameters" element="tns:mSetResponse" />
+  </wsdl:message>
+  <wsdl:message name="mSetExSoapIn">
+    <wsdl:part name="parameters" element="tns:mSetEx" />
+  </wsdl:message>
+  <wsdl:message name="mSetExSoapOut">
+    <wsdl:part name="parameters" element="tns:mSetExResponse" />
+  </wsdl:message>
+  <wsdl:message name="mSetTantoSoapIn">
+    <wsdl:part name="parameters" element="tns:mSetTanto" />
+  </wsdl:message>
+  <wsdl:message name="mSetTantoSoapOut">
+    <wsdl:part name="parameters" element="tns:mSetTantoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="MSTAGJAW00Soap">
+    <wsdl:operation name="mSet">
+      <wsdl:input message="tns:mSetSoapIn" />
+      <wsdl:output message="tns:mSetSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSetEx">
+      <wsdl:input message="tns:mSetExSoapIn" />
+      <wsdl:output message="tns:mSetExSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSetTanto">
+      <wsdl:input message="tns:mSetTantoSoapIn" />
+      <wsdl:output message="tns:mSetTantoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="MSTAGJAW00Soap" type="tns:MSTAGJAW00Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mSet">
+      <soap:operation soapAction="http://tempuri.org/MSTAGJAW00/Service1/mSet" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetEx">
+      <soap:operation soapAction="http://tempuri.org/MSTAGJAW00/Service1/mSetEx" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetTanto">
+      <soap:operation soapAction="http://tempuri.org/MSTAGJAW00/Service1/mSetTanto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="MSTAGJAW00Soap12" type="tns:MSTAGJAW00Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mSet">
+      <soap12:operation soapAction="http://tempuri.org/MSTAGJAW00/Service1/mSet" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetEx">
+      <soap12:operation soapAction="http://tempuri.org/MSTAGJAW00/Service1/mSetEx" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetTanto">
+      <soap12:operation soapAction="http://tempuri.org/MSTAGJAW00/Service1/mSetTanto" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MSTAGJAW00">
+    <wsdl:port name="MSTAGJAW00Soap" binding="tns:MSTAGJAW00Soap">
+      <soap:address location="http://knapsv/JPGAP/MS/MSTAGJAW/MSTAGJAW00/MSTAGJAW00.asmx" />
+    </wsdl:port>
+    <wsdl:port name="MSTAGJAW00Soap12" binding="tns:MSTAGJAW00Soap12">
+      <soap12:address location="http://knapsv/JPGAP/MS/MSTAGJAW/MSTAGJAW00/MSTAGJAW00.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

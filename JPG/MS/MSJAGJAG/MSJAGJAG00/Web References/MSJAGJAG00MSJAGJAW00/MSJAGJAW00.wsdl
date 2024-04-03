@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/MSJAGJAW00/Service1" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/MSJAGJAW00/Service1" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/MSJAGJAW00/Service1">
+      <s:element name="mSetEx">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pintMODE" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJAGKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTARGET" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCD" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPCD" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSERCD_F" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSERCD_T" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBIKO" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_DATE" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_USER" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_DATE" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_USER" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSERNM" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="mSetExResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetExResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetGroup">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cdb" type="tns:CDB" />
+            <s:element minOccurs="1" maxOccurs="1" name="pintMODE" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJAGKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTARGET" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSERCD_F" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSERCD_T" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_USER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_USER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSERNM" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="CDB" />
+      <s:element name="mSetGroupResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetGroupResult" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cdb" type="tns:CDB" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mCSV">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSessionID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTHCENTERCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJAGKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCD_F" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCD_T" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPCD" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="pstrSYU_TOUROKU" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="pstrSYU_MITOUROKU" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mCSVResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mCSVResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetHANJIGYOSYA">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pintMODE" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPNM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_USER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_USER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSERNM" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetHANJIGYOSYAResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetHANJIGYOSYAResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetJAHOKOKU">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pintMODE" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPNM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_USER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_USER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSERNM" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetJAHOKOKUResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetJAHOKOKUResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetAUTOTAIOU">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pintMODE" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPNM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_USER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_USER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSERNM" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetAUTOTAIOUResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetAUTOTAIOUResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetHANBAITEN">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pintMODE" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGROUPNM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrINS_USER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPD_USER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSERNM" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetHANBAITENResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetHANBAITENResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="mSetExSoapIn">
+    <wsdl:part name="parameters" element="tns:mSetEx" />
+  </wsdl:message>
+  <wsdl:message name="mSetExSoapOut">
+    <wsdl:part name="parameters" element="tns:mSetExResponse" />
+  </wsdl:message>
+  <wsdl:message name="mSetGroupSoapIn">
+    <wsdl:part name="parameters" element="tns:mSetGroup" />
+  </wsdl:message>
+  <wsdl:message name="mSetGroupSoapOut">
+    <wsdl:part name="parameters" element="tns:mSetGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="mCSVSoapIn">
+    <wsdl:part name="parameters" element="tns:mCSV" />
+  </wsdl:message>
+  <wsdl:message name="mCSVSoapOut">
+    <wsdl:part name="parameters" element="tns:mCSVResponse" />
+  </wsdl:message>
+  <wsdl:message name="mSetHANJIGYOSYASoapIn">
+    <wsdl:part name="parameters" element="tns:mSetHANJIGYOSYA" />
+  </wsdl:message>
+  <wsdl:message name="mSetHANJIGYOSYASoapOut">
+    <wsdl:part name="parameters" element="tns:mSetHANJIGYOSYAResponse" />
+  </wsdl:message>
+  <wsdl:message name="mSetJAHOKOKUSoapIn">
+    <wsdl:part name="parameters" element="tns:mSetJAHOKOKU" />
+  </wsdl:message>
+  <wsdl:message name="mSetJAHOKOKUSoapOut">
+    <wsdl:part name="parameters" element="tns:mSetJAHOKOKUResponse" />
+  </wsdl:message>
+  <wsdl:message name="mSetAUTOTAIOUSoapIn">
+    <wsdl:part name="parameters" element="tns:mSetAUTOTAIOU" />
+  </wsdl:message>
+  <wsdl:message name="mSetAUTOTAIOUSoapOut">
+    <wsdl:part name="parameters" element="tns:mSetAUTOTAIOUResponse" />
+  </wsdl:message>
+  <wsdl:message name="mSetHANBAITENSoapIn">
+    <wsdl:part name="parameters" element="tns:mSetHANBAITEN" />
+  </wsdl:message>
+  <wsdl:message name="mSetHANBAITENSoapOut">
+    <wsdl:part name="parameters" element="tns:mSetHANBAITENResponse" />
+  </wsdl:message>
+  <wsdl:portType name="MSJAGJAW00Soap">
+    <wsdl:operation name="mSetEx">
+      <wsdl:input message="tns:mSetExSoapIn" />
+      <wsdl:output message="tns:mSetExSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSetGroup">
+      <wsdl:input message="tns:mSetGroupSoapIn" />
+      <wsdl:output message="tns:mSetGroupSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mCSV">
+      <wsdl:input message="tns:mCSVSoapIn" />
+      <wsdl:output message="tns:mCSVSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSetHANJIGYOSYA">
+      <wsdl:input message="tns:mSetHANJIGYOSYASoapIn" />
+      <wsdl:output message="tns:mSetHANJIGYOSYASoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSetJAHOKOKU">
+      <wsdl:input message="tns:mSetJAHOKOKUSoapIn" />
+      <wsdl:output message="tns:mSetJAHOKOKUSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSetAUTOTAIOU">
+      <wsdl:input message="tns:mSetAUTOTAIOUSoapIn" />
+      <wsdl:output message="tns:mSetAUTOTAIOUSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSetHANBAITEN">
+      <wsdl:input message="tns:mSetHANBAITENSoapIn" />
+      <wsdl:output message="tns:mSetHANBAITENSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="MSJAGJAW00Soap" type="tns:MSJAGJAW00Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mSetEx">
+      <soap:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mSetEx" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetGroup">
+      <soap:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mSetGroup" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mCSV">
+      <soap:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mCSV" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetHANJIGYOSYA">
+      <soap:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mSetHANJIGYOSYA" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetJAHOKOKU">
+      <soap:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mSetJAHOKOKU" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetAUTOTAIOU">
+      <soap:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mSetAUTOTAIOU" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetHANBAITEN">
+      <soap:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mSetHANBAITEN" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="MSJAGJAW00Soap12" type="tns:MSJAGJAW00Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mSetEx">
+      <soap12:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mSetEx" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetGroup">
+      <soap12:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mSetGroup" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mCSV">
+      <soap12:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mCSV" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetHANJIGYOSYA">
+      <soap12:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mSetHANJIGYOSYA" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetJAHOKOKU">
+      <soap12:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mSetJAHOKOKU" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetAUTOTAIOU">
+      <soap12:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mSetAUTOTAIOU" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSetHANBAITEN">
+      <soap12:operation soapAction="http://tempuri.org/MSJAGJAW00/Service1/mSetHANBAITEN" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MSJAGJAW00">
+    <wsdl:port name="MSJAGJAW00Soap" binding="tns:MSJAGJAW00Soap">
+      <soap:address location="http://knapsv/JPGAP/MS/MSJAGJAW/MSJAGJAW00/MSJAGJAW00.asmx" />
+    </wsdl:port>
+    <wsdl:port name="MSJAGJAW00Soap12" binding="tns:MSJAGJAW00Soap12">
+      <soap12:address location="http://knapsv/JPGAP/MS/MSJAGJAW/MSJAGJAW00/MSJAGJAW00.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

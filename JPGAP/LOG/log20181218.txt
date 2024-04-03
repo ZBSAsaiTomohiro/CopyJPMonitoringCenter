@@ -1,0 +1,181 @@
+2018/12/18 14:28:49|OK
+2018/12/18 14:28:52|System.Exception: ORA-00001: 一意制約(KANSHI.EPK_D30_MEIBO)に反しています
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 785
+2018/12/18 14:28:54|System.Exception: ORA-00001: 一意制約(KANSHI.EPK_D30_MEIBO)に反しています
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 785
+2018/12/18 14:52:11|OK
+2018/12/18 14:52:16|OK
+2018/12/18 14:52:29|OK
+2018/12/18 14:55:04|OK
+2018/12/18 14:57:11|OK
+2018/12/18 14:57:15|OK
+2018/12/18 15:15:05|OK
+2018/12/18 15:15:59|OK
+2018/12/18 15:17:56|OK
+2018/12/18 15:45:34|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:USERCD
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   場所 Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   場所 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 290
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 973
+2018/12/18 15:46:43|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:USERCD
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   場所 Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   場所 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 290
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 973
+2018/12/18 15:47:14|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:USERCD
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   場所 Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   場所 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 290
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 973
+2018/12/18 17:22:12|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:USERCD
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   場所 Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   場所 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 290
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 974
+2018/12/18 17:22:59|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:USERCD
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   場所 Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   場所 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 290
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 974
+2018/12/18 17:23:37|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:USERCD
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   場所 Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   場所 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 290
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 974
+2018/12/18 17:27:00|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:TANCD
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   場所 Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   場所 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 290
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1078
+2018/12/18 17:27:28|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:TANCD
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   場所 Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   場所 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 290
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1078
+2018/12/18 17:27:28|OK
+2018/12/18 17:29:23|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:TANCD
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   場所 Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   場所 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 290
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1078
+2018/12/18 17:30:12|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:TANCD
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   場所 Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   場所 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 290
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1078
+2018/12/18 17:30:15|OK
+2018/12/18 17:32:13|System.Exception: ORA-00933: SQLコマンドが正しく終了されていません。
+
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 298
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1078
+2018/12/18 17:32:18|OK
+2018/12/18 17:32:29|OK
+2018/12/18 17:49:21|OK
+2018/12/18 17:49:21|OK
+2018/12/18 17:49:21|OK
+2018/12/18 17:49:42|OK
+2018/12/18 17:49:42|OK
+2018/12/18 17:49:42|System.Exception: ORA-00933: SQLコマンドが正しく終了されていません。
+
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 298
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1078
+2018/12/18 17:50:40|OK
+2018/12/18 17:50:45|OK
+2018/12/18 17:50:52|System.Exception: ORA-00933: SQLコマンドが正しく終了されていません。
+
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 298
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1078
+2018/12/18 17:51:14|OK
+2018/12/18 17:51:19|OK
+2018/12/18 17:51:25|System.Exception: ORA-00933: SQLコマンドが正しく終了されていません。
+
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 298
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1078
+2018/12/18 17:51:56|OK
+2018/12/18 17:52:00|OK
+2018/12/18 17:54:55|System.Exception: ORA-00933: SQLコマンドが正しく終了されていません。
+
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 298
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1078
+2018/12/18 17:57:14|OK
+2018/12/18 17:57:17|OK
+2018/12/18 17:59:56|OK
+2018/12/18 18:01:46|OK
+2018/12/18 18:01:51|OK
+2018/12/18 18:05:27|OK
+2018/12/18 18:15:02|OK
+2018/12/18 18:15:04|OK
+2018/12/18 18:18:16|OK
+2018/12/18 18:19:00|OK
+2018/12/18 18:19:03|OK
+2018/12/18 18:19:37|OK
+2018/12/18 19:52:57|System.ArgumentOutOfRangeException: StartIndex の値を 0 より小さくすることはできません。
+パラメーター名:startIndex
+   場所 System.String.Substring(Int32 startIndex, Int32 length)
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1193
+2018/12/18 19:54:21|OK
+2018/12/18 19:55:35|OK
+2018/12/18 20:23:33|System.ArgumentOutOfRangeException: StartIndex の値を 0 より小さくすることはできません。
+パラメーター名:startIndex
+   場所 System.String.Substring(Int32 startIndex, Int32 length)
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1186
+2018/12/18 20:23:33|System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 356
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1201
+2018/12/18 20:23:33|System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 356
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1201
+2018/12/18 20:28:19|System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 356
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1182
+2018/12/18 20:28:53|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:HANTENNM
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 404
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1182
+2018/12/18 20:29:10|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:SYUTUTEL
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 404
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1182
+2018/12/18 20:37:28|OK
+2018/12/18 20:37:28|OK
+2018/12/18 20:37:28|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:SYUTUTEL
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 404
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1182
+2018/12/18 20:48:08|OK
+2018/12/18 20:48:41|OK
+2018/12/18 20:51:35|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:SYUTUTEL
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 404
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocess(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1182
+2018/12/18 20:58:34|OK
+2018/12/18 20:58:34|OK
+2018/12/18 20:58:34|OK

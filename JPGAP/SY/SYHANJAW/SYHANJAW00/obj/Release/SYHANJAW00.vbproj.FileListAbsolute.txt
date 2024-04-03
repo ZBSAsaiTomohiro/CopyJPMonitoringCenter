@@ -1,0 +1,13 @@
+C:\inetpub\wwwroot\JPGAP\SY\SYHANJAW\SYHANJAW00\bin\SYHANJAW00.dll
+C:\inetpub\wwwroot\JPGAP\SY\SYHANJAW\SYHANJAW00\bin\SYHANJAW00.xml
+C:\inetpub\wwwroot\JPGAP\SY\SYHANJAW\SYHANJAW00\bin\CODATABC00.dll
+C:\inetpub\wwwroot\JPGAP\SY\SYHANJAW\SYHANJAW00\bin\CODATABC00.pdb
+C:\inetpub\wwwroot\JPGAP\SY\SYHANJAW\SYHANJAW00\bin\CODATABC00.xml
+C:\inetpub\wwwroot\JPGAP\SY\SYHANJAW\SYHANJAW00\obj\Release\JPGAP.SYHANJAW00.SYHANJAW00.resources
+C:\inetpub\wwwroot\JPGAP\SY\SYHANJAW\SYHANJAW00\obj\Release\SYHANJAW00.dll
+C:\inetpub\wwwroot\JPGAP\SY\SYHANJAW\SYHANJAW00\obj\Release\SYHANJAW00.xml
+C:\inetpub\wwwroot\JPGAP\SY\SYHANJAW\SYHANJAW00\bin\SYHANJAW00.dll.config
+C:\inetpub\wwwroot\JPGAP\SY\SYHANJAW\SYHANJAW00\bin\Oracle.DataAccess.dll
+C:\inetpub\wwwroot\JPGAP\SY\SYHANJAW\SYHANJAW00\obj\Release\SYHANJAW00.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\JPGAP\SY\SYHANJAW\SYHANJAW00\obj\Release\SYHANJAW00.vbproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\JPGAP\SY\SYHANJAW\SYHANJAW00\obj\Release\SYHANJAW00.vbprojResolveAssemblyReference.cache

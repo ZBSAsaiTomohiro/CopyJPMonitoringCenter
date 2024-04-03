@@ -1,0 +1,12 @@
+C:\inetpub\wwwroot\JPG\SY\SYFAXJAG\SYFAXJAG00\bin\SYFAXJAG00.dll
+C:\inetpub\wwwroot\JPG\SY\SYFAXJAG\SYFAXJAG00\bin\SYFAXJAG00.pdb
+C:\inetpub\wwwroot\JPG\SY\SYFAXJAG\SYFAXJAG00\bin\SYFAXJAG00.xml
+C:\inetpub\wwwroot\JPG\SY\SYFAXJAG\SYFAXJAG00\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\JPG\SY\SYFAXJAG\SYFAXJAG00\obj\Debug\SYFAXJAG00.Resources.resources
+C:\inetpub\wwwroot\JPG\SY\SYFAXJAG\SYFAXJAG00\obj\Debug\GenerateResource.read.1.tlog
+C:\inetpub\wwwroot\JPG\SY\SYFAXJAG\SYFAXJAG00\obj\Debug\GenerateResource.write.1.tlog
+C:\inetpub\wwwroot\JPG\SY\SYFAXJAG\SYFAXJAG00\obj\Debug\SYFAXJAG00.dll
+C:\inetpub\wwwroot\JPG\SY\SYFAXJAG\SYFAXJAG00\obj\Debug\SYFAXJAG00.xml
+C:\inetpub\wwwroot\JPG\SY\SYFAXJAG\SYFAXJAG00\obj\Debug\SYFAXJAG00.pdb
+C:\inetpub\wwwroot\JPG\SY\SYFAXJAG\SYFAXJAG00\obj\Debug\Interop.FAXCOMEXLib.dll
+C:\inetpub\wwwroot\JPG\SY\SYFAXJAG\SYFAXJAG00\obj\Debug\SYFAXJAG00.vbproj.ResolveComReference.cache

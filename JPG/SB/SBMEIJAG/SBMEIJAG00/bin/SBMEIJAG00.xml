@@ -1,0 +1,325 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SBMEIJAG00
+</name>
+</assembly>
+<members>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._hdnPopcrtl">
+<summary>
+hdnPopcrtl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._txtNENDO">
+<summary>
+txtNENDO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._rdoDATA1">
+<summary>
+rdoDATA1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._rdoDATA2">
+<summary>
+rdoDATA2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.SBMEIJAG00.SBMEIJAG00._btnSelect">
+<summary>
+btnSelect コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkkisofileCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkkisofileCSVCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkLTOSfileCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkLTOSfileCSVCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadkisofileCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadkisofileCSVCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadLTOSfileCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadLTOSfileCSVCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkkisofile(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.BeginmChkkisofile(System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.EndmChkkisofile(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkkisofileAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkkisofileAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkkisofileCSV(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.BeginmChkkisofileCSV(System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.EndmChkkisofileCSV(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkkisofileCSVAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkkisofileCSVAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkLTOSfile(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.BeginmChkLTOSfile(System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.EndmChkLTOSfile(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkLTOSfileAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkLTOSfileAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkLTOSfileCSV(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.BeginmChkLTOSfileCSV(System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.EndmChkLTOSfileCSV(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkLTOSfileCSVAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mChkLTOSfileCSVAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadkisofile(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.BeginmReadkisofile(System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.EndmReadkisofile(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadkisofileAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadkisofileAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadkisofileCSV(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.BeginmReadkisofileCSV(System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.EndmReadkisofileCSV(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadkisofileCSVAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadkisofileCSVAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadLTOSfile(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.BeginmReadLTOSfile(System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.EndmReadLTOSfile(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadLTOSfileAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadLTOSfileAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadLTOSfileCSV(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.BeginmReadLTOSfileCSV(System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.EndmReadLTOSfileCSV(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadLTOSfileCSVAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.mReadLTOSfileCSVAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.SBMEIJAW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mChkkisofileCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mChkkisofileCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mChkkisofileCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mChkkisofileCSVCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mChkkisofileCSVCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mChkkisofileCSVCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mChkLTOSfileCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mChkLTOSfileCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mChkLTOSfileCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mChkLTOSfileCSVCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mChkLTOSfileCSVCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mChkLTOSfileCSVCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mReadkisofileCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mReadkisofileCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mReadkisofileCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mReadkisofileCSVCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mReadkisofileCSVCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mReadkisofileCSVCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mReadLTOSfileCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mReadLTOSfileCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mReadLTOSfileCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mReadLTOSfileCSVCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mReadLTOSfileCSVCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.SBMEIJAG00.SBMEIJAG00SBMEIJAW00.mReadLTOSfileCSVCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

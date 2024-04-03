@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/SBMEOJAW00/Service1" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/SBMEOJAW00/Service1" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/SBMEOJAW00/Service1">
+      <s:element name="mExcel">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSessionID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrNENDO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKENCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACDFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACDTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHANTENCDFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHANTENCDTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFileType" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mExcelResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mExcelResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="mExcelSoapIn">
+    <wsdl:part name="parameters" element="tns:mExcel" />
+  </wsdl:message>
+  <wsdl:message name="mExcelSoapOut">
+    <wsdl:part name="parameters" element="tns:mExcelResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SBMEOJAW00Soap">
+    <wsdl:operation name="mExcel">
+      <wsdl:input message="tns:mExcelSoapIn" />
+      <wsdl:output message="tns:mExcelSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SBMEOJAW00Soap" type="tns:SBMEOJAW00Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mExcel">
+      <soap:operation soapAction="http://tempuri.org/SBMEOJAW00/Service1/mExcel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SBMEOJAW00Soap12" type="tns:SBMEOJAW00Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mExcel">
+      <soap12:operation soapAction="http://tempuri.org/SBMEOJAW00/Service1/mExcel" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SBMEOJAW00">
+    <wsdl:port name="SBMEOJAW00Soap" binding="tns:SBMEOJAW00Soap">
+      <soap:address location="http://knapsv/JPGAP/SB/SBMEOJAW/SBMEOJAW00/SBMEOJAW00.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SBMEOJAW00Soap12" binding="tns:SBMEOJAW00Soap12">
+      <soap12:address location="http://knapsv/JPGAP/SB/SBMEOJAW/SBMEOJAW00/SBMEOJAW00.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/KETAISYW00/Service1" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/KETAISYW00/Service1" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/KETAISYW00/Service1">
+      <s:element name="mExcel">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSessionID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKANSCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTFKICD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrStkbn1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrStkbn2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrPgkbn1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrPgkbn2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrPgkbn3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTrgFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTrgTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACDFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACDTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJACDFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJACDTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHANGRPFrom" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHANGRPTo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrOUTKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKIKANKBN" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mExcelResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mExcelResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="mExcelSoapIn">
+    <wsdl:part name="parameters" element="tns:mExcel" />
+  </wsdl:message>
+  <wsdl:message name="mExcelSoapOut">
+    <wsdl:part name="parameters" element="tns:mExcelResponse" />
+  </wsdl:message>
+  <wsdl:portType name="KETAISYW00Soap">
+    <wsdl:operation name="mExcel">
+      <wsdl:input message="tns:mExcelSoapIn" />
+      <wsdl:output message="tns:mExcelSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="KETAISYW00Soap" type="tns:KETAISYW00Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mExcel">
+      <soap:operation soapAction="http://tempuri.org/KETAISYW00/Service1/mExcel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="KETAISYW00Soap12" type="tns:KETAISYW00Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mExcel">
+      <soap12:operation soapAction="http://tempuri.org/KETAISYW00/Service1/mExcel" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="KETAISYW00">
+    <wsdl:port name="KETAISYW00Soap" binding="tns:KETAISYW00Soap">
+      <soap:address location="http://knapsv/JPGAP/KE/KETAISYW/KETAISYW00/KETAISYW00.asmx" />
+    </wsdl:port>
+    <wsdl:port name="KETAISYW00Soap12" binding="tns:KETAISYW00Soap12">
+      <soap12:address location="http://knapsv/JPGAP/KE/KETAISYW/KETAISYW00/KETAISYW00.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,87 @@
+BTFAXJCW00.asmx(1): <%@ WebService Language="vb" Codebehind="BTFAXJCW00.asmx.vb" Class="JPGAP.BTFAXJCW00.BTFAXJCW00" %>
+BTFAXJCW00.asmx - コピー20130925時点改修中.vb(3): ' ID:BTFAXJCW00
+BTFAXJCW00.asmx - コピー20130925時点改修中.vb(20): <System.Web.Services.WebService(Namespace:="http://tempuri.org/JPGAP.BTFAXJCW00/BTFAXJCW00")> _
+BTFAXJCW00.asmx - コピー20130925時点改修中.vb(21): Public Class BTFAXJCW00
+BTFAXJCW00.asmx.vb(3): ' ID:BTFAXJCW00
+BTFAXJCW00.asmx.vb(24): <System.Web.Services.WebService(Namespace:="http://tempuri.org/JPGAP.BTFAXJCW00/BTFAXJCW00")> _
+BTFAXJCW00.asmx.vb(25): Public Class BTFAXJCW00
+BTFAXJCW00.vbproj(12):     <AssemblyName>BTFAXJCW00</AssemblyName>
+BTFAXJCW00.vbproj(23):     <RootNamespace>JPGAP.BTFAXJCW00</RootNamespace>
+BTFAXJCW00.vbproj(24):     <StartupObject>JPGAP.BTFAXJCW00.%28なし%29</StartupObject>
+BTFAXJCW00.vbproj(32):     <DocumentationFile>BTFAXJCW00.xml</DocumentationFile>
+BTFAXJCW00.vbproj(49):     <DocumentationFile>BTFAXJCW00.xml</DocumentationFile>
+BTFAXJCW00.vbproj(120):     <Compile Include="BTFAXJCW00.asmx.vb">
+BTFAXJCW00.vbproj(121):       <DependentUpon>BTFAXJCW00.asmx</DependentUpon>
+BTFAXJCW00.vbproj(124):     <Content Include="BTFAXJCW00.asmx" />
+BTFAXJCW00.vbproj(125):     <EmbeddedResource Include="BTFAXJCW00.asmx.resx">
+BTFAXJCW00.vbproj(126):       <DependentUpon>BTFAXJCW00.asmx.vb</DependentUpon>
+BTFAXJCW00.vbproj(159):           <IISUrl>http://localhost/JPGAP/BT/BTFAXJCW/BTFAXJCW00</IISUrl>
+Bin\BTFAXJCW00.xml(5): BTFAXJCW00
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(1): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\BTFAXJCW00.dll
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(2): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\BTFAXJCW00.pdb
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(3): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\BTFAXJCW00.xml
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(4): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.dll
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(5): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\CODATABC00.dll
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(6): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\ICSharpCode.SharpZipLib.dll
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(7): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.pdb
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(8): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.xml
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(9): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\CODATABC00.pdb
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(10): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\CODATABC00.xml
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(11): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.XmlSerializers.dll
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(12): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(13): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\JPGAP.BTFAXJCW00.BTFAXJCW00.resources
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(14): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\GenerateResource.read.1.tlog
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(15): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\GenerateResource.write.1.tlog
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(16): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\BTFAXJCW00.dll
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(17): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\BTFAXJCW00.xml
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(18): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\BTFAXJCW00.pdb
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(19): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\BTFAXJCW00.dll
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(20): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\BTFAXJCW00.pdb
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(21): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\BTFAXJCW00.xml
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(22): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.dll
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(23): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\CODATABC00.dll
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(24): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.pdb
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(25): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.xml
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(26): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\CODATABC00.pdb
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(27): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\CODATABC00.xml
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(28): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.XmlSerializers.dll
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(29): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(30): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\JPGAP.BTFAXJCW00.BTFAXJCW00.resources
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(31): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\GenerateResource.read.1.tlog
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(32): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\GenerateResource.write.1.tlog
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(33): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\BTFAXJCW00.dll
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(34): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\BTFAXJCW00.xml
+obj\Debug\BTFAXJCW00.vbproj.FileListAbsolute.txt(35): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Debug\BTFAXJCW00.pdb
+obj\Debug\BTFAXJCW00.xml(5): BTFAXJCW00
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(1): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\BTFAXJCW00.dll
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(2): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\BTFAXJCW00.xml
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(3): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.dll
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(4): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\CODATABC00.dll
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(5): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\ICSharpCode.SharpZipLib.dll
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(6): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.pdb
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(7): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.xml
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(8): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\CODATABC00.pdb
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(9): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\CODATABC00.xml
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(10): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.XmlSerializers.dll
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(11): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Release\ResolveAssemblyReference.cache
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(12): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Release\JPGAP.BTFAXJCW00.BTFAXJCW00.resources
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(13): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Release\GenerateResource.read.1.tlog
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(14): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Release\GenerateResource.write.1.tlog
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(15): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Release\BTFAXJCW00.dll
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(16): \\10.10.100.24\c$\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Release\BTFAXJCW00.xml
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(17): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\BTFAXJCW00.dll
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(18): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\BTFAXJCW00.xml
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(19): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.dll
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(20): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\CODATABC00.dll
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(21): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.pdb
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(22): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.xml
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(23): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\CODATABC00.pdb
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(24): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\CODATABC00.xml
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(25): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\bin\COCOMONC00.XmlSerializers.dll
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(26): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Release\ResolveAssemblyReference.cache
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(27): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Release\JPGAP.BTFAXJCW00.BTFAXJCW00.resources
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(28): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Release\GenerateResource.read.1.tlog
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(29): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Release\GenerateResource.write.1.tlog
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(30): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Release\BTFAXJCW00.dll
+obj\Release\BTFAXJCW00.vbproj.FileListAbsolute.txt(31): C:\inetpub\wwwroot\JPGAP\BT\BTFAXJCW\BTFAXJCW00\obj\Release\BTFAXJCW00.xml
+obj\Release\BTFAXJCW00.xml(5): BTFAXJCW00

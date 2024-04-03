@@ -1,0 +1,100 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+COCOLOGC00
+</name>
+</assembly>
+<members>
+<member name="T:JPG.COCOLOGC00CSQL.CLOG">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.COCOLOGC00CSQL.CLOG.mAPLogCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.COCOLOGC00CSQL.CLOG.mBTLog_StartCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.COCOLOGC00CSQL.CLOG.mBTLog_ENDCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.mAPLog(System.String,System.String,System.String,System.String,System.String,System.String,System.Data.DataSet)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.BeginmAPLog(System.String,System.String,System.String,System.String,System.String,System.String,System.Data.DataSet,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.EndmAPLog(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.mAPLogAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Data.DataSet)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.mAPLogAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Data.DataSet,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.mBTLog_Start(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.BeginmBTLog_Start(System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.EndmBTLog_Start(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.mBTLog_StartAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.mBTLog_StartAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.mBTLog_END(System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.BeginmBTLog_END(System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.EndmBTLog_END(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.mBTLog_ENDAsync(System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.mBTLog_ENDAsync(System.String,System.String,System.String,System.String,System.String,System.Decimal,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.COCOLOGC00CSQL.CLOG.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.COCOLOGC00CSQL.mAPLogCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.COCOLOGC00CSQL.mAPLogCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.COCOLOGC00CSQL.mAPLogCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.COCOLOGC00CSQL.mBTLog_StartCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.COCOLOGC00CSQL.mBTLog_StartCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.COCOLOGC00CSQL.mBTLog_StartCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.COCOLOGC00CSQL.mBTLog_ENDCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.COCOLOGC00CSQL.mBTLog_ENDCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.COCOLOGC00CSQL.mBTLog_ENDCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

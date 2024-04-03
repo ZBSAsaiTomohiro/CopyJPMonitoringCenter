@@ -1,0 +1,19 @@
+/* BODY部 */
+BODY { FONT-SIZE: 12px; BACKGROUND-COLOR: cornsilk ; margin-top:0px }
+
+/* TABLEの行部 */
+TR { BORDER-STYLE:none }
+
+/* TABLEのセル部 */
+TD { FONT-SIZE: 12px; border-style:none }
+.TITLE { FONT-SIZE: 25px; }							//画面タイトル設定
+.W     { BORDER: Solid 1px Black; BACKGROUND-COLOR: cornsilk; MARGIN: 0px; PADDING: 0px; VERTICAL-ALIGN: baseline }	//枠線
+
+/* 改行の高さ */
+BR { font-size: 5px}
+
+/* 実行・クリアボタン */
+.bt-JIK { WIDTH: 60px; HEIGHT: 25px;background-color:ButtonFace }
+
+/* テキストボックス　普通項目IME無し */
+.c-f { background-color:white ; IME-MODE: disabled ; height: 20px; FONT-SIZE: 10pt;}

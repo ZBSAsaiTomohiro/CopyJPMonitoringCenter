@@ -1,0 +1,505 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KETAISYG00
+</name>
+</assembly>
+<members>
+<member name="F:JPG.KETAISYG00.KETAISYG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnPopcrtl">
+<summary>
+hdnPopcrtl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._cboKANSCD">
+<summary>
+cboKANSCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnKANSCD">
+<summary>
+hdnKANSCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._txtKURACD_From">
+<summary>
+txtKURACD_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._btnKURACD_From">
+<summary>
+btnKURACD_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._txtKURACD_To">
+<summary>
+txtKURACD_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._btnKURACD_To">
+<summary>
+btnKURACD_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnKURACD_From">
+<summary>
+hdnKURACD_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnKURACD_To">
+<summary>
+hdnKURACD_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._txtJACD_From">
+<summary>
+txtJACD_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._btnJACD_From">
+<summary>
+btnJACD_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._txtJACD_To">
+<summary>
+txtJACD_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._btnJACD_To">
+<summary>
+btnJACD_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnJACD_From">
+<summary>
+hdnJACD_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnJACD_To">
+<summary>
+hdnJACD_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnJACD_From_CLI">
+<summary>
+hdnJACD_From_CLI コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnJACD_To_CLI">
+<summary>
+hdnJACD_To_CLI コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._txtHANGRP_From">
+<summary>
+txtHANGRP_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._btnHANGRP_From">
+<summary>
+btnHANGRP_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._txtHANGRP_To">
+<summary>
+txtHANGRP_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._btnHANGRP_To">
+<summary>
+btnHANGRP_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnHANGRP_From">
+<summary>
+hdnHANGRP_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnHANGRP_To">
+<summary>
+hdnHANGRP_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnCalendar">
+<summary>
+hdnCalendar コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._txtTRGDATE_From">
+<summary>
+txtTRGDATE_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._txtTRGDATE_To">
+<summary>
+txtTRGDATE_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._rdoKIKAN1">
+<summary>
+rdoKIKAN1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._rdoKIKAN2">
+<summary>
+rdoKIKAN2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._txtTRGTIME_From">
+<summary>
+txtTRGTIME_From コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._txtTRGTIME_To">
+<summary>
+txtTRGTIME_To コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._chkHSI_TEL">
+<summary>
+chkHSI_TEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._chkHSI_KEI">
+<summary>
+chkHSI_KEI コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._chkTAI_TEL">
+<summary>
+chkTAI_TEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._chkTAI_SHU">
+<summary>
+chkTAI_SHU コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._chkTAI_JUF">
+<summary>
+chkTAI_JUF コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._rdoOUTPUT1">
+<summary>
+rdoOUTPUT1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._rdoOUTPUT2">
+<summary>
+rdoOUTPUT2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._rdoHOKBN1">
+<summary>
+rdoHOKBN1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._rdoHOKBN2">
+<summary>
+rdoHOKBN2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._rdoHOKBN3">
+<summary>
+rdoHOKBN3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._rdoOUTLIST1">
+<summary>
+rdoOUTLIST1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._rdoOUTLIST2">
+<summary>
+rdoOUTLIST2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._rdoOUTLIST3">
+<summary>
+rdoOUTLIST3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._cboTFKICD">
+<summary>
+cboTFKICD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._hdnTFKICD">
+<summary>
+hdnTFKICD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.KETAISYG00.KETAISYG00._btnSelect">
+<summary>
+btnSelect コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:JPG.KETAISYG00.KETAISYG00KETAISYW00.KETAISYW00">
+<remarks/>
+</member>
+<member name="M:JPG.KETAISYG00.KETAISYG00KETAISYW00.KETAISYW00.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.KETAISYG00.KETAISYG00KETAISYW00.KETAISYW00.mExcelCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.KETAISYG00.KETAISYG00KETAISYW00.KETAISYW00.mExcel(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KETAISYG00.KETAISYG00KETAISYW00.KETAISYW00.BeginmExcel(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KETAISYG00.KETAISYG00KETAISYW00.KETAISYW00.EndmExcel(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.KETAISYG00.KETAISYG00KETAISYW00.KETAISYW00.mExcelAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.KETAISYG00.KETAISYG00KETAISYW00.KETAISYW00.mExcelAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.KETAISYG00.KETAISYG00KETAISYW00.KETAISYW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.KETAISYG00.KETAISYG00KETAISYW00.mExcelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.KETAISYG00.KETAISYG00KETAISYW00.mExcelCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.KETAISYG00.KETAISYG00KETAISYW00.mExcelCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

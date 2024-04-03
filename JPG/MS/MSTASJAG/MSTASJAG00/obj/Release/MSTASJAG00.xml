@@ -1,0 +1,430 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MSTASJAG00
+</name>
+</assembly>
+<members>
+<member name="F:MSTASJAG00.MSTASJAG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnBackUrl">
+<summary>
+hdnBackUrl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._btnSelect">
+<summary>
+btnSelect コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnKBN">
+<summary>
+hdnKBN コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnTIME">
+<summary>
+hdnTIME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._rdoKBN1">
+<summary>
+rdoKBN1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._rdoKBN2">
+<summary>
+rdoKBN2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._rdoKBN3">
+<summary>
+rdoKBN3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnTANKBN">
+<summary>
+hdnTANKBN コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnPopcrtl">
+<summary>
+hdnPopcrtl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._txtKURACD">
+<summary>
+txtKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._btnKURACD">
+<summary>
+btnKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnKURACD">
+<summary>
+hdnKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._lblCODE">
+<summary>
+lblCODE コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._txtCODE">
+<summary>
+txtCODE コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._btnCODECD">
+<summary>
+btnCODECD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnCODE">
+<summary>
+hdnCODE コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnKEY_KBN">
+<summary>
+hdnKEY_KBN コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnKEY_KURACD">
+<summary>
+hdnKEY_KURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnKEY_CODE">
+<summary>
+hdnKEY_CODE コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnKEY_GROUPCD">
+<summary>
+hdnKEY_GROUPCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnKEY_JACD">
+<summary>
+hdnKEY_JACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnKEY_TANTOTEL">
+<summary>
+hdnKEY_TANTOTEL コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._txtGROUPCD">
+<summary>
+txtGROUPCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._btnGROUPCD">
+<summary>
+btnGROUPCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._hdnGROUPCD">
+<summary>
+hdnGROUPCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._txtJACD">
+<summary>
+txtJACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSTASJAG00.MSTASJAG00._txtTantoTel">
+<summary>
+txtTantoTel コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:MSTASJAG00.MSTASJAG00CCSQL.CSQL">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00CCSQL.CSQL.#ctor">
+<remarks/>
+</member>
+<member name="E:MSTASJAG00.MSTASJAG00CCSQL.CSQL.mGetDataClearRowCompleted">
+<remarks/>
+</member>
+<member name="E:MSTASJAG00.MSTASJAG00CCSQL.CSQL.mGetDataCompleted">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00CCSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00CCSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00CCSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00CCSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00CCSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00CCSQL.CSQL.EndmGetData(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00CCSQL.CSQL.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:MSTASJAG00.MSTASJAG00CCSQL.mGetDataClearRowCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSTASJAG00.MSTASJAG00CCSQL.mGetDataClearRowCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSTASJAG00.MSTASJAG00CCSQL.mGetDataClearRowCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:MSTASJAG00.MSTASJAG00CCSQL.mGetDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSTASJAG00.MSTASJAG00CCSQL.mGetDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSTASJAG00.MSTASJAG00CCSQL.mGetDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.#ctor">
+<remarks/>
+</member>
+<member name="E:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.mSetCompleted">
+<remarks/>
+</member>
+<member name="E:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.mSetTantoCompleted">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.mSet(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.BeginmSet(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.EndmSet(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.mSetAsync(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.mSetAsync(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.mSetTanto(MSTASJAG00.MSTASJAG00MSTASJAW00.CDB@,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.BeginmSetTanto(MSTASJAG00.MSTASJAG00MSTASJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.EndmSetTanto(System.IAsyncResult,MSTASJAG00.MSTASJAG00MSTASJAW00.CDB@)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.mSetTantoAsync(MSTASJAG00.MSTASJAG00MSTASJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.mSetTantoAsync(MSTASJAG00.MSTASJAG00MSTASJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSTASJAG00.MSTASJAG00MSTASJAW00.MSTASJAW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:MSTASJAG00.MSTASJAG00MSTASJAW00.CDB">
+<remarks/>
+</member>
+<member name="T:MSTASJAG00.MSTASJAG00MSTASJAW00.mSetCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSTASJAG00.MSTASJAG00MSTASJAW00.mSetCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSTASJAG00.MSTASJAG00MSTASJAW00.mSetCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:MSTASJAG00.MSTASJAG00MSTASJAW00.mSetTantoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSTASJAG00.MSTASJAG00MSTASJAW00.mSetTantoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSTASJAG00.MSTASJAG00MSTASJAW00.mSetTantoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:MSTASJAG00.MSTASJAG00MSTASJAW00.mSetTantoCompletedEventArgs.cdb">
+<remarks/>
+</member>
+</members>
+</doc>

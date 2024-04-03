@@ -1,0 +1,448 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MSTANJAG00
+</name>
+</assembly>
+<members>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._hdnBackUrl">
+<summary>
+hdnBackUrl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._btnSelect">
+<summary>
+btnSelect コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._btnInsert">
+<summary>
+btnInsert コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._btnUpdate">
+<summary>
+btnUpdate コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._btnDelete">
+<summary>
+btnDelete コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._btnClear">
+<summary>
+btnClear コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._txtAYMD">
+<summary>
+txtAYMD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._txtUYMD">
+<summary>
+txtUYMD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._hdnKBN">
+<summary>
+hdnKBN コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._hdnTIME">
+<summary>
+hdnTIME コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._rdoKBN1">
+<summary>
+rdoKBN1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._rdoKBN2">
+<summary>
+rdoKBN2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._rdoKBN3">
+<summary>
+rdoKBN3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._hdnTANKBN">
+<summary>
+hdnTANKBN コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._hdnPopcrtl">
+<summary>
+hdnPopcrtl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._txtKURACD">
+<summary>
+txtKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._btnKURACD">
+<summary>
+btnKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._hdnKURACD">
+<summary>
+hdnKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._lblCODE">
+<summary>
+lblCODE コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._txtCODE">
+<summary>
+txtCODE コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._btnCODECD">
+<summary>
+btnCODECD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._hdnCODE">
+<summary>
+hdnCODE コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._txtTANCD">
+<summary>
+txtTANCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._txtTANNM">
+<summary>
+txtTANNM コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._txtRENTEL1">
+<summary>
+txtRENTEL1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._txtRENTEL2">
+<summary>
+txtRENTEL2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._txtFAXNO">
+<summary>
+txtFAXNO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._txtDISP_NO">
+<summary>
+txtDISP_NO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:JPG.MSTANJAG00.MSTANJAG00._txtBIKO">
+<summary>
+txtBIKO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.mGetDataClearRowCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.mGetDataCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.EndmGetData(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00CCSQL.CSQL.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.MSTANJAG00.MSTANJAG00CCSQL.mGetDataClearRowCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.MSTANJAG00.MSTANJAG00CCSQL.mGetDataClearRowCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.MSTANJAG00.MSTANJAG00CCSQL.mGetDataClearRowCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.MSTANJAG00.MSTANJAG00CCSQL.mGetDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.MSTANJAG00.MSTANJAG00CCSQL.mGetDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.MSTANJAG00.MSTANJAG00CCSQL.mGetDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.#ctor">
+<remarks/>
+</member>
+<member name="E:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.mSetCompleted">
+<remarks/>
+</member>
+<member name="E:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.mSetTantoCompleted">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.mSet(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.BeginmSet(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.EndmSet(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.mSetAsync(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.mSetAsync(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.mSetTanto(JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.CDB@,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.BeginmSetTanto(JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.EndmSetTanto(System.IAsyncResult,JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.CDB@)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.mSetTantoAsync(JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.mSetTantoAsync(JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.MSTANJAW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.CDB">
+<remarks/>
+</member>
+<member name="T:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.mSetCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.mSetCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.mSetCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.mSetTantoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.mSetTantoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.mSetTantoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:JPG.MSTANJAG00.MSTANJAG00MSTANJAW00.mSetTantoCompletedEventArgs.cdb">
+<remarks/>
+</member>
+</members>
+</doc>

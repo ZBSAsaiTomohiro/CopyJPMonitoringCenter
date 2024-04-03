@@ -1,0 +1,301 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JPSD
+</name>
+</assembly>
+<members>
+<member name="F:JPSD.COPOPUFG00.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUFG00.lblScript">
+	<summary>
+lblScript コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUFG00.rptIframe">
+	<summary>
+rptIframe コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="M:JPSD.JPSDCSQL.CSQL.#ctor">
+	<remarks/>
+</member><member name="E:JPSD.JPSDCSQL.CSQL.mGetDataClearRowCompleted">
+	<remarks/>
+</member><member name="E:JPSD.JPSDCSQL.CSQL.mGetDataCompleted">
+	<remarks/>
+</member><member name="M:JPSD.JPSDCSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+	<remarks/>
+</member><member name="M:JPSD.JPSDCSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:JPSD.JPSDCSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:JPSD.JPSDCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+	<remarks/>
+</member><member name="M:JPSD.JPSDCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+	<remarks/>
+</member><member name="M:JPSD.JPSDCSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+	<remarks/>
+</member><member name="M:JPSD.JPSDCSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:JPSD.JPSDCSQL.CSQL.EndmGetData(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:JPSD.JPSDCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+	<remarks/>
+</member><member name="M:JPSD.JPSDCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+	<remarks/>
+</member><member name="M:JPSD.JPSDCSQL.CSQL.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:JPSD.JPSDCSQL.CSQL">
+	<remarks/>
+</member><member name="T:JPSD.JPSDCSQL.mGetDataClearRowCompletedEventHandler">
+	<remarks/>
+</member><member name="P:JPSD.JPSDCSQL.mGetDataClearRowCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:JPSD.JPSDCSQL.mGetDataClearRowCompletedEventArgs">
+	<remarks/>
+</member><member name="T:JPSD.JPSDCSQL.mGetDataCompletedEventHandler">
+	<remarks/>
+</member><member name="P:JPSD.JPSDCSQL.mGetDataCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:JPSD.JPSDCSQL.mGetDataCompletedEventArgs">
+	<remarks/>
+</member><member name="F:JPSD.COLOGING00.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COLOGING00.lblScript">
+	<summary>
+lblScript コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COLOGING00.hdnMyAspx">
+	<summary>
+hdnMyAspx コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COLOGING00.txtSHUTU_CD">
+	<summary>
+txtSHUTU_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COLOGING00.txtKYOTEN_CD">
+	<summary>
+txtKYOTEN_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COLOGING00.txtUserPass">
+	<summary>
+txtUserPass コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COLOGING00.lblMsg">
+	<summary>
+lblMsg コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COLOGING00.btnLogon">
+	<summary>
+btnLogon コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COLOGING00.btnCancel">
+	<summary>
+btnCancel コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.lblScript">
+	<summary>
+lblScript コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.lblListName">
+	<summary>
+lblListName コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnKensaku">
+	<summary>
+hdnKensaku コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnListCd">
+	<summary>
+hdnListCd コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnBackCode">
+	<summary>
+hdnBackCode コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnBackName">
+	<summary>
+hdnBackName コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hbdBackFocs">
+	<summary>
+hbdBackFocs コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hbdBackScript">
+	<summary>
+hbdBackScript コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnPopType">
+	<summary>
+hdnPopType コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnCode1">
+	<summary>
+hdnCode1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnCode2">
+	<summary>
+hdnCode2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnClear1">
+	<summary>
+hdnClear1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnClear2">
+	<summary>
+hdnClear2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnClear3">
+	<summary>
+hdnClear3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnClear4">
+	<summary>
+hdnClear4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnClear5">
+	<summary>
+hdnClear5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnClear6">
+	<summary>
+hdnClear6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.COPOPUPG00.hdnBackNameOnly">
+	<summary>
+hdnBackNameOnly コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+</members>
+</doc>

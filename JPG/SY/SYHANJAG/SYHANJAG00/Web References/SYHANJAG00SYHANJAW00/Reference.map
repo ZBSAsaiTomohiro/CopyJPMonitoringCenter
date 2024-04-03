@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://knapsv/JPGAP/SY/SYHANJAW/SYHANJAW00/SYHANJAW00.asmx?disco" filename="SYHANJAW00.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://knapsv/JPGAP/SY/SYHANJAW/SYHANJAW00/SYHANJAW00.asmx?wsdl" filename="SYHANJAW00.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>

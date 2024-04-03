@@ -1,0 +1,3 @@
+2020/02/17 18:07:06:[mExcel pstrKuracd:3301 pstrGroupcd: pstrCentcd:32020,34020,36020]
+2020/02/17 18:10:18:[mExcel pstrKuracd:4401 pstrGroupcd: pstrCentcd:32020,34020,36020]
+2020/02/17 18:10:38:[mExcel pstrKuracd:4401 pstrGroupcd: pstrCentcd:32020,34020,36020]

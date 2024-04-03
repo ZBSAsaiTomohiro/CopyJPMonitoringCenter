@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/SYHANJAW00/SYHANJAW00" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/SYHANJAW00/SYHANJAW00" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/SYHANJAW00/SYHANJAW00">
+      <s:element name="mExec">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKENCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTRGDATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSYUFROM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSYUTO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMOT_TRGDATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMOT_SYUFROM" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mExecResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mExecResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="mExecSoapIn">
+    <wsdl:part name="parameters" element="tns:mExec" />
+  </wsdl:message>
+  <wsdl:message name="mExecSoapOut">
+    <wsdl:part name="parameters" element="tns:mExecResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SYHANJAW00Soap">
+    <wsdl:operation name="mExec">
+      <wsdl:input message="tns:mExecSoapIn" />
+      <wsdl:output message="tns:mExecSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SYHANJAW00Soap" type="tns:SYHANJAW00Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <wsdl:operation name="mExec">
+      <soap:operation soapAction="http://tempuri.org/SYHANJAW00/SYHANJAW00/mExec" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SYHANJAW00">
+    <documentation xmlns="http://schemas.xmlsoap.org/wsdl/" />
+    <wsdl:port name="SYHANJAW00Soap" binding="tns:SYHANJAW00Soap">
+      <soap:address location="http://knapsv/JPGAP/SY/SYHANJAW/SYHANJAW00/SYHANJAW00.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

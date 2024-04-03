@@ -1,0 +1,7 @@
+2019/02/07 9:43:52|ERROR：2行目:販売店コードが登録されていません。KENCD:OROSICD:JACD
+2019/02/07 13:56:37|ERROR:KakuninlistOut:3:sheetName '' is invalid - character count MUST be greater than or equal to 1 and less than or equal to 31
+2019/02/07 14:26:31|ERROR:KakuninlistOut:3:sheetName '' is invalid - character count MUST be greater than or equal to 1 and less than or equal to 31
+2019/02/07 14:29:45|ERROR：3行目:販売店コード・名称が登録されていません。3211:120002:120002001
+2019/02/07 14:39:37|ERROR：3行目:販売店コード・名称が登録されていません。3211:120002:120002001
+2019/02/07 14:40:24|ERROR：3行目:販売店コード・名称が登録されていません。3211:120002:120002001
+2019/02/07 19:02:58|JASおきたまJAﾌﾟﾛﾊﾟﾝ東部営（米沢）

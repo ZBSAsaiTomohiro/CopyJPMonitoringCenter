@@ -1,0 +1,17 @@
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\bin\MSHAGJAW00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\bin\MSHAGJAW00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\bin\COCOMONC00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\bin\CODATABC00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\bin\CODATABC00.pdb
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\bin\CODATABC00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\bin\COCOMONC00.pdb
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\bin\COCOMONC00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\bin\COCOMONC00.XmlSerializers.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\obj\Release\JPGAP.MSHAGJAW00.MSHAGJAW00.resources
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\obj\Release\MSHAGJAW00.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\obj\Release\MSHAGJAW00.xml
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\bin\MSHAGJAW00.dll.config
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\bin\Oracle.DataAccess.dll
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\obj\Release\MSHAGJAW00.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\obj\Release\MSHAGJAW00.vbproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\JPGAP\MS\MSHAGJAW\MSHAGJAW00\obj\Release\MSHAGJAW00.vbprojResolveAssemblyReference.cache

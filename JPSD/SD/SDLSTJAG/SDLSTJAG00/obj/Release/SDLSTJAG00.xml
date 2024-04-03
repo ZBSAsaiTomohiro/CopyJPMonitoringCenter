@@ -1,0 +1,589 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SDLSTJAG00
+</name>
+</assembly>
+<members>
+<member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.lblScript">
+	<summary>
+lblScript コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.hdnMyAspx">
+	<summary>
+hdnMyAspx コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.btnExit">
+	<summary>
+btnExit コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.hdnSelectClick">
+	<summary>
+hdnSelectClick コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.hdnKensaku">
+	<summary>
+hdnKensaku コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.hdnLOGIN_FLG">
+	<summary>
+hdnLOGIN_FLG コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.hdnMsgMode">
+	<summary>
+hdnMsgMode コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.hdnKEY_KANSCD">
+	<summary>
+hdnKEY_KANSCD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.hdnKEY_SYONO">
+	<summary>
+hdnKEY_SYONO コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.hdnScrollTop">
+	<summary>
+hdnScrollTop コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.hdnPopcrtl">
+	<summary>
+hdnPopcrtl コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.hdnOTHER_KANSI_CENTER">
+	<summary>
+hdnOTHER_KANSI_CENTER コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.rdoKBN1">
+	<summary>
+rdoKBN1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.rdoKBN2">
+	<summary>
+rdoKBN2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.txtCLI_CD">
+	<summary>
+txtCLI_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.btnCLI_CD">
+	<summary>
+btnCLI_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.hdnCLI_CD">
+	<summary>
+hdnCLI_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.txtSIJIYMD_From">
+	<summary>
+txtSIJIYMD_From コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.txtSIJIYMD_To">
+	<summary>
+txtSIJIYMD_To コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.txtJA_CD">
+	<summary>
+txtJA_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.btnJA_CD">
+	<summary>
+btnJA_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.hdnJA_CD">
+	<summary>
+hdnJA_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.txtKEKKA_KENSU">
+	<summary>
+txtKEKKA_KENSU コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.txtGROUP_CD">
+	<summary>
+txtGROUP_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.btnGROUP_CD">
+	<summary>
+btnGROUP_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.hdnGROUP_CD">
+	<summary>
+hdnGROUP_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTJAG00.btnSelect">
+	<summary>
+btnSelect コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="M:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.#ctor">
+	<remarks/>
+</member><member name="E:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.mGetDataClearRowCompleted">
+	<remarks/>
+</member><member name="E:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.mGetDataCompleted">
+	<remarks/>
+</member><member name="M:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+	<remarks/>
+</member><member name="M:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+	<remarks/>
+</member><member name="M:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+	<remarks/>
+</member><member name="M:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+	<remarks/>
+</member><member name="M:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.EndmGetData(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+	<remarks/>
+</member><member name="M:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+	<remarks/>
+</member><member name="M:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.CSQL">
+	<remarks/>
+</member><member name="T:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.mGetDataClearRowCompletedEventHandler">
+	<remarks/>
+</member><member name="P:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.mGetDataClearRowCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.mGetDataClearRowCompletedEventArgs">
+	<remarks/>
+</member><member name="T:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.mGetDataCompletedEventHandler">
+	<remarks/>
+</member><member name="P:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.mGetDataCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:JPSD.SDLSTJAG00.SDLSTJAG00CCSQL.mGetDataCompletedEventArgs">
+	<remarks/>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.lblScript">
+	<summary>
+lblScript コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnMyAspx">
+	<summary>
+hdnMyAspx コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnLOGIN_FLG">
+	<summary>
+hdnLOGIN_FLG コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.rptData">
+	<summary>
+rptData コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnJUMP">
+	<summary>
+hdnJUMP コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnMOVE_SIJIYMD_F">
+	<summary>
+hdnMOVE_SIJIYMD_F コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnMOVE_SIJIYMD_T">
+	<summary>
+hdnMOVE_SIJIYMD_T コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnMOVE_KBN">
+	<summary>
+hdnMOVE_KBN コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnKEY_KANSCD">
+	<summary>
+hdnKEY_KANSCD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnKEY_SYONO">
+	<summary>
+hdnKEY_SYONO コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnScrollTop">
+	<summary>
+hdnScrollTop コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnCLI_CD">
+	<summary>
+hdnCLI_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnMOVE_CLI_CD">
+	<summary>
+hdnMOVE_CLI_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnMOVE_CLI_CD_NAME">
+	<summary>
+hdnMOVE_CLI_CD_NAME コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnJA_CD">
+	<summary>
+hdnJA_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnMOVE_JA_CD">
+	<summary>
+hdnMOVE_JA_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnMOVE_JA_CD_NAME">
+	<summary>
+hdnMOVE_JA_CD_NAME コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnGROUP_CD">
+	<summary>
+hdnGROUP_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnMOVE_GROUP_CD">
+	<summary>
+hdnMOVE_GROUP_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTKFG00.hdnMOVE_GROUP_CD_NAME">
+	<summary>
+hdnMOVE_GROUP_CD_NAME コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.lblScript">
+	<summary>
+lblScript コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnMyAspx">
+	<summary>
+hdnMyAspx コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnLOGIN_FLG">
+	<summary>
+hdnLOGIN_FLG コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.rptData">
+	<summary>
+rptData コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnJUMP">
+	<summary>
+hdnJUMP コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnMOVE_SIJIYMD_F">
+	<summary>
+hdnMOVE_SIJIYMD_F コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnMOVE_SIJIYMD_T">
+	<summary>
+hdnMOVE_SIJIYMD_T コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnMOVE_KBN">
+	<summary>
+hdnMOVE_KBN コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnKEY_KANSCD">
+	<summary>
+hdnKEY_KANSCD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnKEY_SYONO">
+	<summary>
+hdnKEY_SYONO コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnScrollTop">
+	<summary>
+hdnScrollTop コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnMOVE_CLI_CD">
+	<summary>
+hdnMOVE_CLI_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnMOVE_CLI_CD_NAME">
+	<summary>
+hdnMOVE_CLI_CD_NAME コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnMOVE_JA_CD">
+	<summary>
+hdnMOVE_JA_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnMOVE_JA_CD_NAME">
+	<summary>
+hdnMOVE_JA_CD_NAME コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnMOVE_GROUP_CD">
+	<summary>
+hdnMOVE_GROUP_CD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:JPSD.SDLSTJAG00.SDLSTSFG00.hdnMOVE_GROUP_CD_NAME">
+	<summary>
+hdnMOVE_GROUP_CD_NAME コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+</members>
+</doc>

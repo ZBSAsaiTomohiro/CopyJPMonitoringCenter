@@ -1,0 +1,99 @@
+/* BODY部 *************************** */
+BODY {FONT-SIZE: 12px; BACKGROUND-COLOR: cornsilk ; margin-top:0px }
+
+/* TABLEの行部 ********************** */
+TR { BORDER-STYLE:none }
+
+/* TABLEのセル部 ******************** */
+TD { FONT-SIZE: 11px; border-style:none }
+.TITLE { FONT-SIZE: 30px; FONT-STYLE: oblique }		//画面タイトル設定
+.TXTKY { COLOR: #0000ff }							//キー項目設定
+.COMMT { FONT-SIZE: 9px;  FONT-WEIGHT: bold }		//コメント文字列
+.T     { BACKGROUND-COLOR: #00ffff }				//項目フレームタイトル設定
+.W     { BORDER: Solid 1px Black; BACKGROUND-COLOR: cornsilk; MARGIN: 0px; PADDING: 0px; VERTICAL-ALIGN: baseline }	//枠線
+.WW    { BORDER: Solid 1px Black; BACKGROUND-COLOR: #7b68ee; MARGIN: 0px; PADDING: 0px; VERTICAL-ALIGN: baseline } //枠線 
+.TD-NOWRAP { white-space: nowrap; } //TD改行禁止設定
+
+/* 改行の高さ *********************** */
+BR { font-size: 5px}
+
+/* 実行・クリアボタン *************** */
+.bt-JIK { WIDTH: 60px; HEIGHT: 25px;background-color:ButtonFace }
+
+/* 検索ボタン(ポップアップ用) ******* */
+.bt-KS  { WIDTH: 22px; HEIGHT: 20px;background-color:ButtonFace }
+
+/* 長ボタン(最新表示等) ******* */
+.bt-RNW  { WIDTH: 120px; HEIGHT: 25px;background-color:ButtonFace }
+
+/* 長大ボタン(緊急対応等) ******* */
+.bt-LNG  { WIDTH: 120px; HEIGHT: 50px;background-color:ButtonFace }
+
+/* コンボ *************************** */
+.cb { FONT-SIZE: 10pt; WIDTH: 197px ; height: 18px }
+
+/* コンボ 必須項目 ****************** */
+.cb-h { FONT-SIZE: 10pt; WIDTH: 197px ;background-color:LightPink ; height: 18px}
+
+/* コンボ 読取専用項目*************** */
+.cb-RO { FONT-SIZE: 10pt; WIDTH: 197px ;background-color:Gainsboro ; height: 18px}
+
+/* テキストボックス　キー項目 ******* */
+.c-k { background-color:LightPink ; IME-MODE: disabled ; height: 20px; FONT-SIZE: 10pt;}
+
+/* テキストボックス　必須項目IME無し  */
+.c-h { background-color:LightPink ; IME-MODE: disabled ; height: 20px; FONT-SIZE: 10pt;}
+
+/* テキストボックス　必須項目IME有り  */
+.c-hI { background-color:LightPink ; IME-MODE: active ; height: 20px; FONT-SIZE: 10pt;}
+
+/* テキストボックス　普通項目IME無し  */
+.c-f { background-color:white ; IME-MODE: disabled ; height: 20px; FONT-SIZE: 10pt;}
+
+/* テキストボックス　普通項目IME有り  */
+.c-fI { background-color:white;IME-MODE: active ; height: 20px; FONT-SIZE: 10pt;}
+
+/* テキストボックス　読取専用項目 *** */
+.c-RO { background-color:Gainsboro ; height: 20px; FONT-SIZE: 10pt;}
+
+/* テキストボックス　出力専用読取項目 */
+.c-rNM  { background-color:Gainsboro ; height: 20px; FONT-SIZE: 10pt;}
+.c-rNMR { background-color:Gainsboro ; height: 18px; FONT-SIZE: 10pt; color:Red; }
+/* .c-rNMB { background-color:Gainsboro ; height: 18px; FONT-SIZE: 10pt; color:Blue;} */
+.c-rNMB { background-color:Red ; height: 18px; FONT-SIZE: 10pt;COLOR:YELLOW}
+.c-rNMR2{ background-color:Red ; height: 20px; FONT-SIZE: 10pt;} /* 2008/10/20 T.Watabe add */
+.c-rNM2 { background-color: orange; height: 20px; FONT-SIZE: 10pt;} /* 2019/11/01 w.ganeko 2019監視改善 No 3,4 */
+
+
+/* テキストボックス　出力専用必須項目(ポップアップ用・名称出力項目) */
+.c-hNM { background-color:LightPink ; height: 20px; FONT-SIZE: 10pt;}
+
+/* テキストボックス　出力専用普通項目(ポップアップ用・名称出力項目) */
+.c-fNM { background-color:white ;     height: 20px; FONT-SIZE: 10pt;}
+
+/* 一覧系プロジェクトの為一覧に色をつける */
+.TRTL{ background-color:DFA894;  FONT-SIZE: 11px; HEIGHT: 15pt }			//
+.SPAC{ background-color:DFA894;  FONT-SIZE: 11px; HEIGHT: 5pt }				//
+.LINK{ background-color:skyblue; FONT-SIZE: 11pt; HEIGHT: 15pt }			//
+.OTHR{ background-color:skyblue; FONT-SIZE: 10pt; HEIGHT: 15pt }			//
+
+
+
+
+
+
+
+/* 検索ボタン */
+.bt-KEN { WIDTH: 50px; HEIGHT: 20px;background-color:ButtonFace }
+/* 帳票出力ボタン */
+.bt-REP { WIDTH: 100px; HEIGHT: 25px;background-color:ButtonFace }
+/* 画面上部所属情報 */
+.sz { border:Solid 1px Black ; background-color:gold;height:13px; margin-left:3px ; margin-right:10px; padding-top:1px; padding-left:5px ; padding-right:5px ; vertical-align:baseline; }
+.sz-t { border:Solid 1px Black ; background-color:#ffff99 }
+
+/*緊急時監視業務代行*/
+.EXPOSI { FONT-SIZE: 20px; COLOR: red; FONT-WEIGHT: bold }		//コメント文字列
+.ARROW { FONT-SIZE: 50px; FONT-WEIGHT: 900 }
+
+/* 対応結果一覧　検索ボタン */
+.bt-JIK2 { position:relative; top:5px; WIDTH: 60px; HEIGHT: 25px;background-color:ButtonFace }

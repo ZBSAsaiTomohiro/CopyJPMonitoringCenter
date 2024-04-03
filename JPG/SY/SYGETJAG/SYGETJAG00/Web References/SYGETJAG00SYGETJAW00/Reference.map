@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://localhost/JPGAP/SY/SYGETJAW/SYGETJAW00/SYGETJAW00.asmx?wsdl" filename="SYGETJAW00.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://localhost/JPGAP/SY/SYGETJAW/SYGETJAW00/SYGETJAW00.asmx?disco" filename="SYGETJAW00.disco" />
+  </Results>
+</DiscoveryClientResultsFile>

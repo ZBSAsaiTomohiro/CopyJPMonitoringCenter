@@ -1,0 +1,8548 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MSRUIJAG00
+</name>
+</assembly>
+<members>
+<member name="F:MSRUIJAG00.MSRUIJAG00._Form1">
+<summary>
+Form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._lblScript">
+<summary>
+lblScript コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnMyAspx">
+<summary>
+hdnMyAspx コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnBackUrl">
+<summary>
+hdnBackUrl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnPopcrtl">
+<summary>
+hdnPopcrtl コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnSelect">
+<summary>
+btnSelect コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnUpdate">
+<summary>
+btnUpdate コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnDelete">
+<summary>
+btnDelete コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnClear">
+<summary>
+btnClear コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnExit">
+<summary>
+btnExit コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnKBN">
+<summary>
+hdnKBN コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtAYMD">
+<summary>
+txtAYMD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtUYMD">
+<summary>
+txtUYMD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_1">
+<summary>
+hdnEDT_DT_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_2">
+<summary>
+hdnEDT_DT_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_3">
+<summary>
+hdnEDT_DT_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_4">
+<summary>
+hdnEDT_DT_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_5">
+<summary>
+hdnEDT_DT_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_6">
+<summary>
+hdnEDT_DT_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_7">
+<summary>
+hdnEDT_DT_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_8">
+<summary>
+hdnEDT_DT_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_9">
+<summary>
+hdnEDT_DT_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_10">
+<summary>
+hdnEDT_DT_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_11">
+<summary>
+hdnEDT_DT_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_12">
+<summary>
+hdnEDT_DT_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_13">
+<summary>
+hdnEDT_DT_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_14">
+<summary>
+hdnEDT_DT_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_15">
+<summary>
+hdnEDT_DT_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_16">
+<summary>
+hdnEDT_DT_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_17">
+<summary>
+hdnEDT_DT_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_18">
+<summary>
+hdnEDT_DT_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_19">
+<summary>
+hdnEDT_DT_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_20">
+<summary>
+hdnEDT_DT_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_21">
+<summary>
+hdnEDT_DT_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_22">
+<summary>
+hdnEDT_DT_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_23">
+<summary>
+hdnEDT_DT_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_24">
+<summary>
+hdnEDT_DT_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_25">
+<summary>
+hdnEDT_DT_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_26">
+<summary>
+hdnEDT_DT_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_27">
+<summary>
+hdnEDT_DT_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_28">
+<summary>
+hdnEDT_DT_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_29">
+<summary>
+hdnEDT_DT_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnEDT_DT_30">
+<summary>
+hdnEDT_DT_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_1">
+<summary>
+hdnADD_DT_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_2">
+<summary>
+hdnADD_DT_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_3">
+<summary>
+hdnADD_DT_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_4">
+<summary>
+hdnADD_DT_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_5">
+<summary>
+hdnADD_DT_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_6">
+<summary>
+hdnADD_DT_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_7">
+<summary>
+hdnADD_DT_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_8">
+<summary>
+hdnADD_DT_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_9">
+<summary>
+hdnADD_DT_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_10">
+<summary>
+hdnADD_DT_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_11">
+<summary>
+hdnADD_DT_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_12">
+<summary>
+hdnADD_DT_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_13">
+<summary>
+hdnADD_DT_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_14">
+<summary>
+hdnADD_DT_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_15">
+<summary>
+hdnADD_DT_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_16">
+<summary>
+hdnADD_DT_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_17">
+<summary>
+hdnADD_DT_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_18">
+<summary>
+hdnADD_DT_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_19">
+<summary>
+hdnADD_DT_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_20">
+<summary>
+hdnADD_DT_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_21">
+<summary>
+hdnADD_DT_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_22">
+<summary>
+hdnADD_DT_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_23">
+<summary>
+hdnADD_DT_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_24">
+<summary>
+hdnADD_DT_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_25">
+<summary>
+hdnADD_DT_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_26">
+<summary>
+hdnADD_DT_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_27">
+<summary>
+hdnADD_DT_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_28">
+<summary>
+hdnADD_DT_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_29">
+<summary>
+hdnADD_DT_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnADD_DT_30">
+<summary>
+hdnADD_DT_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKURACD">
+<summary>
+txtKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKURACD">
+<summary>
+btnKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnKURACD">
+<summary>
+hdnKURACD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnKENCD">
+<summary>
+hdnKENCD コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnKURACD_MOTO">
+<summary>
+hdnKURACD_MOTO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCD_F">
+<summary>
+txtACBCD_F コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCD_F">
+<summary>
+btnACBCD_F コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnACBCD_F">
+<summary>
+hdnACBCD_F コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnACBCD_F_MOTO">
+<summary>
+hdnACBCD_F_MOTO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCD_T">
+<summary>
+txtACBCD_T コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCD_T">
+<summary>
+btnACBCD_T コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnACBCD_T">
+<summary>
+hdnACBCD_T コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnACBCD_T_MOTO">
+<summary>
+hdnACBCD_T_MOTO コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnCSVout">
+<summary>
+btnCSVout コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnKensaku">
+<summary>
+hdnKensaku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_1">
+<summary>
+hdnID_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_1">
+<summary>
+hdnDISP_NO_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_1">
+<summary>
+txtNO_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_1">
+<summary>
+chkDEL_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_1">
+<summary>
+txtSEND_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_1">
+<summary>
+txtKYOKYU_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_1">
+<summary>
+btnKYOKYU_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_1">
+<summary>
+txtACBCDFR_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_1">
+<summary>
+btnACBCDFR_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_1">
+<summary>
+txtACBCDTO_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_1">
+<summary>
+btnACBCDTO_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_1">
+<summary>
+listHASSEI_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_1">
+<summary>
+listKAIPAGE_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_1">
+<summary>
+listKIKAN_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_1">
+<summary>
+txtFAX1_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_1">
+<summary>
+txtFAX2_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_1">
+<summary>
+txtMail1_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_1">
+<summary>
+txtMail2_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_1">
+<summary>
+listZEROSND_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_1">
+<summary>
+listSD_PRT_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_1">
+<summary>
+txtNXSEND_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_1">
+<summary>
+txtLSSEND_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_1">
+<summary>
+listSNDSTOP_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_1">
+<summary>
+txtSENDSTR_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_1">
+<summary>
+txtSENDEND_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_1">
+<summary>
+txtMAILPASS_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_1">
+<summary>
+txtZIP_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_1">
+<summary>
+txtBIKOU_1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_2">
+<summary>
+hdnID_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_2">
+<summary>
+hdnDISP_NO_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_2">
+<summary>
+txtNO_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_2">
+<summary>
+chkDEL_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_2">
+<summary>
+txtSEND_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_2">
+<summary>
+txtKYOKYU_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_2">
+<summary>
+btnKYOKYU_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_2">
+<summary>
+txtACBCDFR_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_2">
+<summary>
+btnACBCDFR_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_2">
+<summary>
+txtACBCDTO_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_2">
+<summary>
+btnACBCDTO_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_2">
+<summary>
+listHASSEI_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_2">
+<summary>
+listKAIPAGE_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_2">
+<summary>
+listKIKAN_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_2">
+<summary>
+txtFAX1_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_2">
+<summary>
+txtFAX2_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_2">
+<summary>
+txtMail1_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_2">
+<summary>
+txtMail2_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_2">
+<summary>
+listZEROSND_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_2">
+<summary>
+listSD_PRT_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_2">
+<summary>
+txtNXSEND_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_2">
+<summary>
+txtLSSEND_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_2">
+<summary>
+listSNDSTOP_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_2">
+<summary>
+txtSENDSTR_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_2">
+<summary>
+txtSENDEND_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_2">
+<summary>
+txtMAILPASS_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_2">
+<summary>
+txtZIP_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_2">
+<summary>
+txtBIKOU_2 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_3">
+<summary>
+hdnID_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_3">
+<summary>
+hdnDISP_NO_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_3">
+<summary>
+txtNO_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_3">
+<summary>
+chkDEL_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_3">
+<summary>
+txtSEND_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_3">
+<summary>
+txtKYOKYU_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_3">
+<summary>
+btnKYOKYU_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_3">
+<summary>
+txtACBCDFR_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_3">
+<summary>
+btnACBCDFR_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_3">
+<summary>
+txtACBCDTO_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_3">
+<summary>
+btnACBCDTO_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_3">
+<summary>
+listHASSEI_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_3">
+<summary>
+listKAIPAGE_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_3">
+<summary>
+listKIKAN_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_3">
+<summary>
+txtFAX1_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_3">
+<summary>
+txtFAX2_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_3">
+<summary>
+txtMail1_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_3">
+<summary>
+txtMail2_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_3">
+<summary>
+listZEROSND_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_3">
+<summary>
+listSD_PRT_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_3">
+<summary>
+txtNXSEND_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_3">
+<summary>
+txtLSSEND_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_3">
+<summary>
+listSNDSTOP_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_3">
+<summary>
+txtSENDSTR_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_3">
+<summary>
+txtSENDEND_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_3">
+<summary>
+txtMAILPASS_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_3">
+<summary>
+txtZIP_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_3">
+<summary>
+txtBIKOU_3 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_4">
+<summary>
+hdnID_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_4">
+<summary>
+hdnDISP_NO_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_4">
+<summary>
+txtNO_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_4">
+<summary>
+chkDEL_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_4">
+<summary>
+txtSEND_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_4">
+<summary>
+txtKYOKYU_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_4">
+<summary>
+btnKYOKYU_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_4">
+<summary>
+txtACBCDFR_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_4">
+<summary>
+btnACBCDFR_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_4">
+<summary>
+txtACBCDTO_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_4">
+<summary>
+btnACBCDTO_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_4">
+<summary>
+listHASSEI_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_4">
+<summary>
+listKAIPAGE_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_4">
+<summary>
+listKIKAN_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_4">
+<summary>
+txtFAX1_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_4">
+<summary>
+txtFAX2_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_4">
+<summary>
+txtMail1_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_4">
+<summary>
+txtMail2_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_4">
+<summary>
+listZEROSND_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_4">
+<summary>
+listSD_PRT_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_4">
+<summary>
+txtNXSEND_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_4">
+<summary>
+txtLSSEND_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_4">
+<summary>
+listSNDSTOP_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_4">
+<summary>
+txtSENDSTR_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_4">
+<summary>
+txtSENDEND_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_4">
+<summary>
+txtMAILPASS_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_4">
+<summary>
+txtZIP_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_4">
+<summary>
+txtBIKOU_4 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_5">
+<summary>
+hdnID_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_5">
+<summary>
+hdnDISP_NO_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_5">
+<summary>
+txtNO_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_5">
+<summary>
+chkDEL_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_5">
+<summary>
+txtSEND_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_5">
+<summary>
+txtKYOKYU_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_5">
+<summary>
+btnKYOKYU_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_5">
+<summary>
+txtACBCDFR_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_5">
+<summary>
+btnACBCDFR_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_5">
+<summary>
+txtACBCDTO_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_5">
+<summary>
+btnACBCDTO_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_5">
+<summary>
+listHASSEI_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_5">
+<summary>
+listKAIPAGE_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_5">
+<summary>
+listKIKAN_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_5">
+<summary>
+txtFAX1_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_5">
+<summary>
+txtFAX2_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_5">
+<summary>
+txtMail1_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_5">
+<summary>
+txtMail2_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_5">
+<summary>
+listZEROSND_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_5">
+<summary>
+listSD_PRT_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_5">
+<summary>
+txtNXSEND_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_5">
+<summary>
+txtLSSEND_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_5">
+<summary>
+listSNDSTOP_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_5">
+<summary>
+txtSENDSTR_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_5">
+<summary>
+txtSENDEND_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_5">
+<summary>
+txtMAILPASS_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_5">
+<summary>
+txtZIP_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_5">
+<summary>
+txtBIKOU_5 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_6">
+<summary>
+hdnID_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_6">
+<summary>
+hdnDISP_NO_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_6">
+<summary>
+txtNO_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_6">
+<summary>
+chkDEL_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_6">
+<summary>
+txtSEND_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_6">
+<summary>
+txtKYOKYU_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_6">
+<summary>
+btnKYOKYU_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_6">
+<summary>
+txtACBCDFR_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_6">
+<summary>
+btnACBCDFR_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_6">
+<summary>
+txtACBCDTO_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_6">
+<summary>
+btnACBCDTO_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_6">
+<summary>
+listHASSEI_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_6">
+<summary>
+listKAIPAGE_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_6">
+<summary>
+listKIKAN_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_6">
+<summary>
+txtFAX1_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_6">
+<summary>
+txtFAX2_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_6">
+<summary>
+txtMail1_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_6">
+<summary>
+txtMail2_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_6">
+<summary>
+listZEROSND_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_6">
+<summary>
+listSD_PRT_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_6">
+<summary>
+txtNXSEND_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_6">
+<summary>
+txtLSSEND_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_6">
+<summary>
+listSNDSTOP_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_6">
+<summary>
+txtSENDSTR_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_6">
+<summary>
+txtSENDEND_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_6">
+<summary>
+txtMAILPASS_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_6">
+<summary>
+txtZIP_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_6">
+<summary>
+txtBIKOU_6 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_7">
+<summary>
+hdnID_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_7">
+<summary>
+hdnDISP_NO_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_7">
+<summary>
+txtNO_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_7">
+<summary>
+chkDEL_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_7">
+<summary>
+txtSEND_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_7">
+<summary>
+txtKYOKYU_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_7">
+<summary>
+btnKYOKYU_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_7">
+<summary>
+txtACBCDFR_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_7">
+<summary>
+btnACBCDFR_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_7">
+<summary>
+txtACBCDTO_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_7">
+<summary>
+btnACBCDTO_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_7">
+<summary>
+listHASSEI_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_7">
+<summary>
+listKAIPAGE_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_7">
+<summary>
+listKIKAN_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_7">
+<summary>
+txtFAX1_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_7">
+<summary>
+txtFAX2_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_7">
+<summary>
+txtMail1_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_7">
+<summary>
+txtMail2_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_7">
+<summary>
+listZEROSND_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_7">
+<summary>
+listSD_PRT_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_7">
+<summary>
+txtNXSEND_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_7">
+<summary>
+txtLSSEND_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_7">
+<summary>
+listSNDSTOP_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_7">
+<summary>
+txtSENDSTR_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_7">
+<summary>
+txtSENDEND_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_7">
+<summary>
+txtMAILPASS_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_7">
+<summary>
+txtZIP_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_7">
+<summary>
+txtBIKOU_7 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_8">
+<summary>
+hdnID_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_8">
+<summary>
+hdnDISP_NO_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_8">
+<summary>
+txtNO_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_8">
+<summary>
+chkDEL_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_8">
+<summary>
+txtSEND_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_8">
+<summary>
+txtKYOKYU_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_8">
+<summary>
+btnKYOKYU_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_8">
+<summary>
+txtACBCDFR_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_8">
+<summary>
+btnACBCDFR_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_8">
+<summary>
+txtACBCDTO_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_8">
+<summary>
+btnACBCDTO_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_8">
+<summary>
+listHASSEI_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_8">
+<summary>
+listKAIPAGE_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_8">
+<summary>
+listKIKAN_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_8">
+<summary>
+txtFAX1_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_8">
+<summary>
+txtFAX2_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_8">
+<summary>
+txtMail1_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_8">
+<summary>
+txtMail2_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_8">
+<summary>
+listZEROSND_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_8">
+<summary>
+listSD_PRT_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_8">
+<summary>
+txtNXSEND_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_8">
+<summary>
+txtLSSEND_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_8">
+<summary>
+listSNDSTOP_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_8">
+<summary>
+txtSENDSTR_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_8">
+<summary>
+txtSENDEND_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_8">
+<summary>
+txtMAILPASS_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_8">
+<summary>
+txtZIP_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_8">
+<summary>
+txtBIKOU_8 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_9">
+<summary>
+hdnID_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_9">
+<summary>
+hdnDISP_NO_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_9">
+<summary>
+txtNO_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_9">
+<summary>
+chkDEL_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_9">
+<summary>
+txtSEND_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_9">
+<summary>
+txtKYOKYU_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_9">
+<summary>
+btnKYOKYU_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_9">
+<summary>
+txtACBCDFR_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_9">
+<summary>
+btnACBCDFR_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_9">
+<summary>
+txtACBCDTO_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_9">
+<summary>
+btnACBCDTO_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_9">
+<summary>
+listHASSEI_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_9">
+<summary>
+listKAIPAGE_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_9">
+<summary>
+listKIKAN_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_9">
+<summary>
+txtFAX1_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_9">
+<summary>
+txtFAX2_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_9">
+<summary>
+txtMail1_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_9">
+<summary>
+txtMail2_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_9">
+<summary>
+listZEROSND_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_9">
+<summary>
+listSD_PRT_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_9">
+<summary>
+txtNXSEND_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_9">
+<summary>
+txtLSSEND_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_9">
+<summary>
+listSNDSTOP_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_9">
+<summary>
+txtSENDSTR_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_9">
+<summary>
+txtSENDEND_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_9">
+<summary>
+txtMAILPASS_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_9">
+<summary>
+txtZIP_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_9">
+<summary>
+txtBIKOU_9 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_10">
+<summary>
+hdnID_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_10">
+<summary>
+hdnDISP_NO_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_10">
+<summary>
+txtNO_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_10">
+<summary>
+chkDEL_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_10">
+<summary>
+txtSEND_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_10">
+<summary>
+txtKYOKYU_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_10">
+<summary>
+btnKYOKYU_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_10">
+<summary>
+txtACBCDFR_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_10">
+<summary>
+btnACBCDFR_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_10">
+<summary>
+txtACBCDTO_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_10">
+<summary>
+btnACBCDTO_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_10">
+<summary>
+listHASSEI_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_10">
+<summary>
+listKAIPAGE_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_10">
+<summary>
+listKIKAN_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_10">
+<summary>
+txtFAX1_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_10">
+<summary>
+txtFAX2_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_10">
+<summary>
+txtMail1_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_10">
+<summary>
+txtMail2_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_10">
+<summary>
+listZEROSND_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_10">
+<summary>
+listSD_PRT_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_10">
+<summary>
+txtNXSEND_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_10">
+<summary>
+txtLSSEND_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_10">
+<summary>
+listSNDSTOP_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_10">
+<summary>
+txtSENDSTR_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_10">
+<summary>
+txtSENDEND_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_10">
+<summary>
+txtMAILPASS_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_10">
+<summary>
+txtZIP_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_10">
+<summary>
+txtBIKOU_10 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_11">
+<summary>
+hdnID_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_11">
+<summary>
+hdnDISP_NO_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_11">
+<summary>
+txtNO_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_11">
+<summary>
+chkDEL_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_11">
+<summary>
+txtSEND_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_11">
+<summary>
+txtKYOKYU_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_11">
+<summary>
+btnKYOKYU_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_11">
+<summary>
+txtACBCDFR_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_11">
+<summary>
+btnACBCDFR_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_11">
+<summary>
+txtACBCDTO_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_11">
+<summary>
+btnACBCDTO_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_11">
+<summary>
+listHASSEI_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_11">
+<summary>
+listKAIPAGE_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_11">
+<summary>
+listKIKAN_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_11">
+<summary>
+txtFAX1_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_11">
+<summary>
+txtFAX2_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_11">
+<summary>
+txtMail1_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_11">
+<summary>
+txtMail2_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_11">
+<summary>
+listZEROSND_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_11">
+<summary>
+listSD_PRT_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_11">
+<summary>
+txtNXSEND_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_11">
+<summary>
+txtLSSEND_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_11">
+<summary>
+listSNDSTOP_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_11">
+<summary>
+txtSENDSTR_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_11">
+<summary>
+txtSENDEND_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_11">
+<summary>
+txtMAILPASS_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_11">
+<summary>
+txtZIP_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_11">
+<summary>
+txtBIKOU_11 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_12">
+<summary>
+hdnID_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_12">
+<summary>
+hdnDISP_NO_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_12">
+<summary>
+txtNO_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_12">
+<summary>
+chkDEL_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_12">
+<summary>
+txtSEND_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_12">
+<summary>
+txtKYOKYU_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_12">
+<summary>
+btnKYOKYU_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_12">
+<summary>
+txtACBCDFR_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_12">
+<summary>
+btnACBCDFR_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_12">
+<summary>
+txtACBCDTO_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_12">
+<summary>
+btnACBCDTO_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_12">
+<summary>
+listHASSEI_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_12">
+<summary>
+listKAIPAGE_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_12">
+<summary>
+listKIKAN_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_12">
+<summary>
+txtFAX1_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_12">
+<summary>
+txtFAX2_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_12">
+<summary>
+txtMail1_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_12">
+<summary>
+txtMail2_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_12">
+<summary>
+listZEROSND_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_12">
+<summary>
+listSD_PRT_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_12">
+<summary>
+txtNXSEND_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_12">
+<summary>
+txtLSSEND_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_12">
+<summary>
+listSNDSTOP_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_12">
+<summary>
+txtSENDSTR_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_12">
+<summary>
+txtSENDEND_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_12">
+<summary>
+txtMAILPASS_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_12">
+<summary>
+txtZIP_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_12">
+<summary>
+txtBIKOU_12 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_13">
+<summary>
+hdnID_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_13">
+<summary>
+hdnDISP_NO_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_13">
+<summary>
+txtNO_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_13">
+<summary>
+chkDEL_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_13">
+<summary>
+txtSEND_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_13">
+<summary>
+txtKYOKYU_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_13">
+<summary>
+btnKYOKYU_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_13">
+<summary>
+txtACBCDFR_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_13">
+<summary>
+btnACBCDFR_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_13">
+<summary>
+txtACBCDTO_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_13">
+<summary>
+btnACBCDTO_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_13">
+<summary>
+listHASSEI_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_13">
+<summary>
+listKAIPAGE_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_13">
+<summary>
+listKIKAN_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_13">
+<summary>
+txtFAX1_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_13">
+<summary>
+txtFAX2_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_13">
+<summary>
+txtMail1_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_13">
+<summary>
+txtMail2_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_13">
+<summary>
+listZEROSND_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_13">
+<summary>
+listSD_PRT_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_13">
+<summary>
+txtNXSEND_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_13">
+<summary>
+txtLSSEND_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_13">
+<summary>
+listSNDSTOP_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_13">
+<summary>
+txtSENDSTR_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_13">
+<summary>
+txtSENDEND_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_13">
+<summary>
+txtMAILPASS_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_13">
+<summary>
+txtZIP_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_13">
+<summary>
+txtBIKOU_13 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_14">
+<summary>
+hdnID_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_14">
+<summary>
+hdnDISP_NO_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_14">
+<summary>
+txtNO_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_14">
+<summary>
+chkDEL_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_14">
+<summary>
+txtSEND_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_14">
+<summary>
+txtKYOKYU_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_14">
+<summary>
+btnKYOKYU_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_14">
+<summary>
+txtACBCDFR_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_14">
+<summary>
+btnACBCDFR_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_14">
+<summary>
+txtACBCDTO_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_14">
+<summary>
+btnACBCDTO_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_14">
+<summary>
+listHASSEI_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_14">
+<summary>
+listKAIPAGE_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_14">
+<summary>
+listKIKAN_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_14">
+<summary>
+txtFAX1_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_14">
+<summary>
+txtFAX2_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_14">
+<summary>
+txtMail1_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_14">
+<summary>
+txtMail2_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_14">
+<summary>
+listZEROSND_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_14">
+<summary>
+listSD_PRT_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_14">
+<summary>
+txtNXSEND_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_14">
+<summary>
+txtLSSEND_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_14">
+<summary>
+listSNDSTOP_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_14">
+<summary>
+txtSENDSTR_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_14">
+<summary>
+txtSENDEND_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_14">
+<summary>
+txtMAILPASS_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_14">
+<summary>
+txtZIP_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_14">
+<summary>
+txtBIKOU_14 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_15">
+<summary>
+hdnID_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_15">
+<summary>
+hdnDISP_NO_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_15">
+<summary>
+txtNO_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_15">
+<summary>
+chkDEL_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_15">
+<summary>
+txtSEND_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_15">
+<summary>
+txtKYOKYU_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_15">
+<summary>
+btnKYOKYU_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_15">
+<summary>
+txtACBCDFR_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_15">
+<summary>
+btnACBCDFR_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_15">
+<summary>
+txtACBCDTO_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_15">
+<summary>
+btnACBCDTO_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_15">
+<summary>
+listHASSEI_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_15">
+<summary>
+listKAIPAGE_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_15">
+<summary>
+listKIKAN_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_15">
+<summary>
+txtFAX1_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_15">
+<summary>
+txtFAX2_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_15">
+<summary>
+txtMail1_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_15">
+<summary>
+txtMail2_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_15">
+<summary>
+listZEROSND_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_15">
+<summary>
+listSD_PRT_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_15">
+<summary>
+txtNXSEND_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_15">
+<summary>
+txtLSSEND_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_15">
+<summary>
+listSNDSTOP_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_15">
+<summary>
+txtSENDSTR_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_15">
+<summary>
+txtSENDEND_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_15">
+<summary>
+txtMAILPASS_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_15">
+<summary>
+txtZIP_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_15">
+<summary>
+txtBIKOU_15 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_16">
+<summary>
+hdnID_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_16">
+<summary>
+hdnDISP_NO_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_16">
+<summary>
+txtNO_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_16">
+<summary>
+chkDEL_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_16">
+<summary>
+txtSEND_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_16">
+<summary>
+txtKYOKYU_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_16">
+<summary>
+btnKYOKYU_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_16">
+<summary>
+txtACBCDFR_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_16">
+<summary>
+btnACBCDFR_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_16">
+<summary>
+txtACBCDTO_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_16">
+<summary>
+btnACBCDTO_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_16">
+<summary>
+listHASSEI_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_16">
+<summary>
+listKAIPAGE_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_16">
+<summary>
+listKIKAN_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_16">
+<summary>
+txtFAX1_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_16">
+<summary>
+txtFAX2_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_16">
+<summary>
+txtMail1_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_16">
+<summary>
+txtMail2_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_16">
+<summary>
+listZEROSND_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_16">
+<summary>
+listSD_PRT_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_16">
+<summary>
+txtNXSEND_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_16">
+<summary>
+txtLSSEND_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_16">
+<summary>
+listSNDSTOP_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_16">
+<summary>
+txtSENDSTR_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_16">
+<summary>
+txtSENDEND_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_16">
+<summary>
+txtMAILPASS_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_16">
+<summary>
+txtZIP_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_16">
+<summary>
+txtBIKOU_16 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_17">
+<summary>
+hdnID_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_17">
+<summary>
+hdnDISP_NO_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_17">
+<summary>
+txtNO_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_17">
+<summary>
+chkDEL_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_17">
+<summary>
+txtSEND_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_17">
+<summary>
+txtKYOKYU_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_17">
+<summary>
+btnKYOKYU_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_17">
+<summary>
+txtACBCDFR_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_17">
+<summary>
+btnACBCDFR_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_17">
+<summary>
+txtACBCDTO_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_17">
+<summary>
+btnACBCDTO_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_17">
+<summary>
+listHASSEI_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_17">
+<summary>
+listKAIPAGE_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_17">
+<summary>
+listKIKAN_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_17">
+<summary>
+txtFAX1_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_17">
+<summary>
+txtFAX2_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_17">
+<summary>
+txtMail1_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_17">
+<summary>
+txtMail2_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_17">
+<summary>
+listZEROSND_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_17">
+<summary>
+listSD_PRT_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_17">
+<summary>
+txtNXSEND_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_17">
+<summary>
+txtLSSEND_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_17">
+<summary>
+listSNDSTOP_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_17">
+<summary>
+txtSENDSTR_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_17">
+<summary>
+txtSENDEND_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_17">
+<summary>
+txtMAILPASS_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_17">
+<summary>
+txtZIP_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_17">
+<summary>
+txtBIKOU_17 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_18">
+<summary>
+hdnID_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_18">
+<summary>
+hdnDISP_NO_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_18">
+<summary>
+txtNO_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_18">
+<summary>
+chkDEL_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_18">
+<summary>
+txtSEND_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_18">
+<summary>
+txtKYOKYU_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_18">
+<summary>
+btnKYOKYU_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_18">
+<summary>
+txtACBCDFR_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_18">
+<summary>
+btnACBCDFR_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_18">
+<summary>
+txtACBCDTO_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_18">
+<summary>
+btnACBCDTO_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_18">
+<summary>
+listHASSEI_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_18">
+<summary>
+listKAIPAGE_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_18">
+<summary>
+listKIKAN_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_18">
+<summary>
+txtFAX1_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_18">
+<summary>
+txtFAX2_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_18">
+<summary>
+txtMail1_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_18">
+<summary>
+txtMail2_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_18">
+<summary>
+listZEROSND_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_18">
+<summary>
+listSD_PRT_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_18">
+<summary>
+txtNXSEND_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_18">
+<summary>
+txtLSSEND_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_18">
+<summary>
+listSNDSTOP_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_18">
+<summary>
+txtSENDSTR_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_18">
+<summary>
+txtSENDEND_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_18">
+<summary>
+txtMAILPASS_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_18">
+<summary>
+txtZIP_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_18">
+<summary>
+txtBIKOU_18 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_19">
+<summary>
+hdnID_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_19">
+<summary>
+hdnDISP_NO_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_19">
+<summary>
+txtNO_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_19">
+<summary>
+chkDEL_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_19">
+<summary>
+txtSEND_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_19">
+<summary>
+txtKYOKYU_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_19">
+<summary>
+btnKYOKYU_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_19">
+<summary>
+txtACBCDFR_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_19">
+<summary>
+btnACBCDFR_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_19">
+<summary>
+txtACBCDTO_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_19">
+<summary>
+btnACBCDTO_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_19">
+<summary>
+listHASSEI_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_19">
+<summary>
+listKAIPAGE_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_19">
+<summary>
+listKIKAN_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_19">
+<summary>
+txtFAX1_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_19">
+<summary>
+txtFAX2_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_19">
+<summary>
+txtMail1_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_19">
+<summary>
+txtMail2_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_19">
+<summary>
+listZEROSND_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_19">
+<summary>
+listSD_PRT_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_19">
+<summary>
+txtNXSEND_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_19">
+<summary>
+txtLSSEND_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_19">
+<summary>
+listSNDSTOP_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_19">
+<summary>
+txtSENDSTR_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_19">
+<summary>
+txtSENDEND_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_19">
+<summary>
+txtMAILPASS_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_19">
+<summary>
+txtZIP_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_19">
+<summary>
+txtBIKOU_19 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_20">
+<summary>
+hdnID_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_20">
+<summary>
+hdnDISP_NO_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_20">
+<summary>
+txtNO_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_20">
+<summary>
+chkDEL_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_20">
+<summary>
+txtSEND_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_20">
+<summary>
+txtKYOKYU_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_20">
+<summary>
+btnKYOKYU_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_20">
+<summary>
+txtACBCDFR_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_20">
+<summary>
+btnACBCDFR_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_20">
+<summary>
+txtACBCDTO_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_20">
+<summary>
+btnACBCDTO_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_20">
+<summary>
+listHASSEI_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_20">
+<summary>
+listKAIPAGE_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_20">
+<summary>
+listKIKAN_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_20">
+<summary>
+txtFAX1_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_20">
+<summary>
+txtFAX2_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_20">
+<summary>
+txtMail1_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_20">
+<summary>
+txtMail2_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_20">
+<summary>
+listZEROSND_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_20">
+<summary>
+listSD_PRT_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_20">
+<summary>
+txtNXSEND_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_20">
+<summary>
+txtLSSEND_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_20">
+<summary>
+listSNDSTOP_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_20">
+<summary>
+txtSENDSTR_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_20">
+<summary>
+txtSENDEND_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_20">
+<summary>
+txtMAILPASS_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_20">
+<summary>
+txtZIP_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_20">
+<summary>
+txtBIKOU_20 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_21">
+<summary>
+hdnID_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_21">
+<summary>
+hdnDISP_NO_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_21">
+<summary>
+txtNO_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_21">
+<summary>
+chkDEL_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_21">
+<summary>
+txtSEND_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_21">
+<summary>
+txtKYOKYU_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_21">
+<summary>
+btnKYOKYU_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_21">
+<summary>
+txtACBCDFR_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_21">
+<summary>
+btnACBCDFR_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_21">
+<summary>
+txtACBCDTO_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_21">
+<summary>
+btnACBCDTO_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_21">
+<summary>
+listHASSEI_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_21">
+<summary>
+listKAIPAGE_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_21">
+<summary>
+listKIKAN_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_21">
+<summary>
+txtFAX1_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_21">
+<summary>
+txtFAX2_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_21">
+<summary>
+txtMail1_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_21">
+<summary>
+txtMail2_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_21">
+<summary>
+listZEROSND_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_21">
+<summary>
+listSD_PRT_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_21">
+<summary>
+txtNXSEND_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_21">
+<summary>
+txtLSSEND_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_21">
+<summary>
+listSNDSTOP_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_21">
+<summary>
+txtSENDSTR_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_21">
+<summary>
+txtSENDEND_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_21">
+<summary>
+txtMAILPASS_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_21">
+<summary>
+txtZIP_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_21">
+<summary>
+txtBIKOU_21 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_22">
+<summary>
+hdnID_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_22">
+<summary>
+hdnDISP_NO_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_22">
+<summary>
+txtNO_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_22">
+<summary>
+chkDEL_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_22">
+<summary>
+txtSEND_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_22">
+<summary>
+txtKYOKYU_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_22">
+<summary>
+btnKYOKYU_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_22">
+<summary>
+txtACBCDFR_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_22">
+<summary>
+btnACBCDFR_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_22">
+<summary>
+txtACBCDTO_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_22">
+<summary>
+btnACBCDTO_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_22">
+<summary>
+listHASSEI_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_22">
+<summary>
+listKAIPAGE_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_22">
+<summary>
+listKIKAN_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_22">
+<summary>
+txtFAX1_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_22">
+<summary>
+txtFAX2_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_22">
+<summary>
+txtMail1_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_22">
+<summary>
+txtMail2_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_22">
+<summary>
+listZEROSND_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_22">
+<summary>
+listSD_PRT_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_22">
+<summary>
+txtNXSEND_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_22">
+<summary>
+txtLSSEND_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_22">
+<summary>
+listSNDSTOP_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_22">
+<summary>
+txtSENDSTR_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_22">
+<summary>
+txtSENDEND_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_22">
+<summary>
+txtMAILPASS_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_22">
+<summary>
+txtZIP_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_22">
+<summary>
+txtBIKOU_22 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_23">
+<summary>
+hdnID_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_23">
+<summary>
+hdnDISP_NO_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_23">
+<summary>
+txtNO_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_23">
+<summary>
+chkDEL_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_23">
+<summary>
+txtSEND_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_23">
+<summary>
+txtKYOKYU_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_23">
+<summary>
+btnKYOKYU_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_23">
+<summary>
+txtACBCDFR_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_23">
+<summary>
+btnACBCDFR_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_23">
+<summary>
+txtACBCDTO_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_23">
+<summary>
+btnACBCDTO_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_23">
+<summary>
+listHASSEI_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_23">
+<summary>
+listKAIPAGE_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_23">
+<summary>
+listKIKAN_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_23">
+<summary>
+txtFAX1_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_23">
+<summary>
+txtFAX2_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_23">
+<summary>
+txtMail1_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_23">
+<summary>
+txtMail2_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_23">
+<summary>
+listZEROSND_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_23">
+<summary>
+listSD_PRT_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_23">
+<summary>
+txtNXSEND_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_23">
+<summary>
+txtLSSEND_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_23">
+<summary>
+listSNDSTOP_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_23">
+<summary>
+txtSENDSTR_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_23">
+<summary>
+txtSENDEND_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_23">
+<summary>
+txtMAILPASS_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_23">
+<summary>
+txtZIP_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_23">
+<summary>
+txtBIKOU_23 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_24">
+<summary>
+hdnID_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_24">
+<summary>
+hdnDISP_NO_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_24">
+<summary>
+txtNO_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_24">
+<summary>
+chkDEL_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_24">
+<summary>
+txtSEND_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_24">
+<summary>
+txtKYOKYU_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_24">
+<summary>
+btnKYOKYU_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_24">
+<summary>
+txtACBCDFR_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_24">
+<summary>
+btnACBCDFR_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_24">
+<summary>
+txtACBCDTO_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_24">
+<summary>
+btnACBCDTO_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_24">
+<summary>
+listHASSEI_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_24">
+<summary>
+listKAIPAGE_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_24">
+<summary>
+listKIKAN_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_24">
+<summary>
+txtFAX1_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_24">
+<summary>
+txtFAX2_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_24">
+<summary>
+txtMail1_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_24">
+<summary>
+txtMail2_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_24">
+<summary>
+listZEROSND_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_24">
+<summary>
+listSD_PRT_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_24">
+<summary>
+txtNXSEND_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_24">
+<summary>
+txtLSSEND_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_24">
+<summary>
+listSNDSTOP_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_24">
+<summary>
+txtSENDSTR_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_24">
+<summary>
+txtSENDEND_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_24">
+<summary>
+txtMAILPASS_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_24">
+<summary>
+txtZIP_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_24">
+<summary>
+txtBIKOU_24 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_25">
+<summary>
+hdnID_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_25">
+<summary>
+hdnDISP_NO_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_25">
+<summary>
+txtNO_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_25">
+<summary>
+chkDEL_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_25">
+<summary>
+txtSEND_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_25">
+<summary>
+txtKYOKYU_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_25">
+<summary>
+btnKYOKYU_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_25">
+<summary>
+txtACBCDFR_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_25">
+<summary>
+btnACBCDFR_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_25">
+<summary>
+txtACBCDTO_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_25">
+<summary>
+btnACBCDTO_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_25">
+<summary>
+listHASSEI_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_25">
+<summary>
+listKAIPAGE_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_25">
+<summary>
+listKIKAN_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_25">
+<summary>
+txtFAX1_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_25">
+<summary>
+txtFAX2_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_25">
+<summary>
+txtMail1_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_25">
+<summary>
+txtMail2_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_25">
+<summary>
+listZEROSND_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_25">
+<summary>
+listSD_PRT_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_25">
+<summary>
+txtNXSEND_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_25">
+<summary>
+txtLSSEND_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_25">
+<summary>
+listSNDSTOP_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_25">
+<summary>
+txtSENDSTR_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_25">
+<summary>
+txtSENDEND_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_25">
+<summary>
+txtMAILPASS_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_25">
+<summary>
+txtZIP_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_25">
+<summary>
+txtBIKOU_25 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_26">
+<summary>
+hdnID_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_26">
+<summary>
+hdnDISP_NO_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_26">
+<summary>
+txtNO_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_26">
+<summary>
+chkDEL_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_26">
+<summary>
+txtSEND_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_26">
+<summary>
+txtKYOKYU_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_26">
+<summary>
+btnKYOKYU_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_26">
+<summary>
+txtACBCDFR_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_26">
+<summary>
+btnACBCDFR_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_26">
+<summary>
+txtACBCDTO_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_26">
+<summary>
+btnACBCDTO_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_26">
+<summary>
+listHASSEI_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_26">
+<summary>
+listKAIPAGE_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_26">
+<summary>
+listKIKAN_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_26">
+<summary>
+txtFAX1_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_26">
+<summary>
+txtFAX2_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_26">
+<summary>
+txtMail1_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_26">
+<summary>
+txtMail2_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_26">
+<summary>
+listZEROSND_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_26">
+<summary>
+listSD_PRT_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_26">
+<summary>
+txtNXSEND_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_26">
+<summary>
+txtLSSEND_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_26">
+<summary>
+listSNDSTOP_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_26">
+<summary>
+txtSENDSTR_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_26">
+<summary>
+txtSENDEND_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_26">
+<summary>
+txtMAILPASS_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_26">
+<summary>
+txtZIP_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_26">
+<summary>
+txtBIKOU_26 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_27">
+<summary>
+hdnID_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_27">
+<summary>
+hdnDISP_NO_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_27">
+<summary>
+txtNO_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_27">
+<summary>
+chkDEL_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_27">
+<summary>
+txtSEND_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_27">
+<summary>
+txtKYOKYU_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_27">
+<summary>
+btnKYOKYU_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_27">
+<summary>
+txtACBCDFR_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_27">
+<summary>
+btnACBCDFR_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_27">
+<summary>
+txtACBCDTO_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_27">
+<summary>
+btnACBCDTO_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_27">
+<summary>
+listHASSEI_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_27">
+<summary>
+listKAIPAGE_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_27">
+<summary>
+listKIKAN_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_27">
+<summary>
+txtFAX1_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_27">
+<summary>
+txtFAX2_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_27">
+<summary>
+txtMail1_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_27">
+<summary>
+txtMail2_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_27">
+<summary>
+listZEROSND_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_27">
+<summary>
+listSD_PRT_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_27">
+<summary>
+txtNXSEND_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_27">
+<summary>
+txtLSSEND_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_27">
+<summary>
+listSNDSTOP_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_27">
+<summary>
+txtSENDSTR_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_27">
+<summary>
+txtSENDEND_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_27">
+<summary>
+txtMAILPASS_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_27">
+<summary>
+txtZIP_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_27">
+<summary>
+txtBIKOU_27 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_28">
+<summary>
+hdnID_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_28">
+<summary>
+hdnDISP_NO_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_28">
+<summary>
+txtNO_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_28">
+<summary>
+chkDEL_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_28">
+<summary>
+txtSEND_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_28">
+<summary>
+txtKYOKYU_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_28">
+<summary>
+btnKYOKYU_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_28">
+<summary>
+txtACBCDFR_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_28">
+<summary>
+btnACBCDFR_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_28">
+<summary>
+txtACBCDTO_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_28">
+<summary>
+btnACBCDTO_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_28">
+<summary>
+listHASSEI_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_28">
+<summary>
+listKAIPAGE_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_28">
+<summary>
+listKIKAN_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_28">
+<summary>
+txtFAX1_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_28">
+<summary>
+txtFAX2_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_28">
+<summary>
+txtMail1_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_28">
+<summary>
+txtMail2_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_28">
+<summary>
+listZEROSND_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_28">
+<summary>
+listSD_PRT_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_28">
+<summary>
+txtNXSEND_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_28">
+<summary>
+txtLSSEND_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_28">
+<summary>
+listSNDSTOP_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_28">
+<summary>
+txtSENDSTR_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_28">
+<summary>
+txtSENDEND_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_28">
+<summary>
+txtMAILPASS_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_28">
+<summary>
+txtZIP_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_28">
+<summary>
+txtBIKOU_28 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_29">
+<summary>
+hdnID_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_29">
+<summary>
+hdnDISP_NO_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_29">
+<summary>
+txtNO_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_29">
+<summary>
+chkDEL_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_29">
+<summary>
+txtSEND_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_29">
+<summary>
+txtKYOKYU_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_29">
+<summary>
+btnKYOKYU_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_29">
+<summary>
+txtACBCDFR_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_29">
+<summary>
+btnACBCDFR_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_29">
+<summary>
+txtACBCDTO_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_29">
+<summary>
+btnACBCDTO_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_29">
+<summary>
+listHASSEI_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_29">
+<summary>
+listKAIPAGE_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_29">
+<summary>
+listKIKAN_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_29">
+<summary>
+txtFAX1_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_29">
+<summary>
+txtFAX2_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_29">
+<summary>
+txtMail1_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_29">
+<summary>
+txtMail2_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_29">
+<summary>
+listZEROSND_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_29">
+<summary>
+listSD_PRT_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_29">
+<summary>
+txtNXSEND_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_29">
+<summary>
+txtLSSEND_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_29">
+<summary>
+listSNDSTOP_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_29">
+<summary>
+txtSENDSTR_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_29">
+<summary>
+txtSENDEND_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_29">
+<summary>
+txtMAILPASS_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_29">
+<summary>
+txtZIP_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_29">
+<summary>
+txtBIKOU_29 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnID_30">
+<summary>
+hdnID_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._hdnDISP_NO_30">
+<summary>
+hdnDISP_NO_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNO_30">
+<summary>
+txtNO_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._chkDEL_30">
+<summary>
+chkDEL_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSEND_30">
+<summary>
+txtSEND_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtKYOKYU_30">
+<summary>
+txtKYOKYU_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnKYOKYU_30">
+<summary>
+btnKYOKYU_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDFR_30">
+<summary>
+txtACBCDFR_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDFR_30">
+<summary>
+btnACBCDFR_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtACBCDTO_30">
+<summary>
+txtACBCDTO_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._btnACBCDTO_30">
+<summary>
+btnACBCDTO_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listHASSEI_30">
+<summary>
+listHASSEI_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKAIPAGE_30">
+<summary>
+listKAIPAGE_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listKIKAN_30">
+<summary>
+listKIKAN_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX1_30">
+<summary>
+txtFAX1_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtFAX2_30">
+<summary>
+txtFAX2_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail1_30">
+<summary>
+txtMail1_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMail2_30">
+<summary>
+txtMail2_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listZEROSND_30">
+<summary>
+listZEROSND_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSD_PRT_30">
+<summary>
+listSD_PRT_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtNXSEND_30">
+<summary>
+txtNXSEND_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtLSSEND_30">
+<summary>
+txtLSSEND_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._listSNDSTOP_30">
+<summary>
+listSNDSTOP_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDSTR_30">
+<summary>
+txtSENDSTR_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtSENDEND_30">
+<summary>
+txtSENDEND_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtMAILPASS_30">
+<summary>
+txtMAILPASS_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtZIP_30">
+<summary>
+txtZIP_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:MSRUIJAG00.MSRUIJAG00._txtBIKOU_30">
+<summary>
+txtBIKOU_30 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.#ctor">
+<remarks/>
+</member>
+<member name="E:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.mGetDataClearRowCompleted">
+<remarks/>
+</member>
+<member name="E:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.mGetDataCompleted">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.EndmGetData(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00CCSQL.CSQL.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00CCSQL.mGetDataClearRowCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00CCSQL.mGetDataClearRowCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSRUIJAG00.MSRUIJAG00CCSQL.mGetDataClearRowCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00CCSQL.mGetDataCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00CCSQL.mGetDataCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSRUIJAG00.MSRUIJAG00CCSQL.mGetDataCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.#ctor">
+<remarks/>
+</member>
+<member name="E:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mSetCompleted">
+<remarks/>
+</member>
+<member name="E:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mSetExCompleted">
+<remarks/>
+</member>
+<member name="E:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mSetRuiautoCompleted">
+<remarks/>
+</member>
+<member name="E:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mCSVCompleted">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mSet(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String,System.String,System.String[],System.String[])">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.BeginmSet(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String,System.String,System.String[],System.String[],System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.EndmSet(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mSetAsync(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String,System.String,System.String[],System.String[])">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mSetAsync(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String,System.String,System.String[],System.String[],System.Object)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mSetEx(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String,System.String,System.String[],System.String[])">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.BeginmSetEx(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String,System.String,System.String[],System.String[],System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.EndmSetEx(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mSetExAsync(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String,System.String,System.String[],System.String[])">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mSetExAsync(System.Int32,System.String,System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String[],System.String,System.String,System.String[],System.String[],System.Object)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mSetRuiauto(MSRUIJAG00.MSRUIJAG00MSRUIJAW00.CDB@,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.BeginmSetRuiauto(MSRUIJAG00.MSRUIJAG00MSRUIJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.EndmSetRuiauto(System.IAsyncResult,MSRUIJAG00.MSRUIJAG00MSRUIJAW00.CDB@)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mSetRuiautoAsync(MSRUIJAG00.MSRUIJAG00MSRUIJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mSetRuiautoAsync(MSRUIJAG00.MSRUIJAG00MSRUIJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mCSV(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.BeginmCSV(System.String,System.String,System.AsyncCallback,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.EndmCSV(System.IAsyncResult)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mCSVAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.mCSVAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.MSRUIJAW00.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.CDB">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.mSetCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.mSetCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.mSetCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.mSetExCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.mSetExCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.mSetExCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.mSetRuiautoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.mSetRuiautoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.mSetRuiautoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.mSetRuiautoCompletedEventArgs.cdb">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.mCSVCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.mCSVCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:MSRUIJAG00.MSRUIJAG00MSRUIJAW00.mCSVCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

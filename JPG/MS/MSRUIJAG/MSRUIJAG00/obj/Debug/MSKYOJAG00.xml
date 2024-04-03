@@ -1,0 +1,1735 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MSKYOJAG00
+</name>
+</assembly>
+<members>
+<member name="M:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.#ctor">
+	<remarks/>
+</member><member name="E:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.mGetDataClearRowCompleted">
+	<remarks/>
+</member><member name="E:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.mGetDataCompleted">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.mGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.BeginmGetDataClearRow(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.EndmGetDataClearRow(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.mGetDataClearRowAsync(System.String,System.Data.DataSet,System.Boolean,System.Boolean,System.Object)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.mGetData(System.String,System.Data.DataSet,System.Boolean)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.BeginmGetData(System.String,System.Data.DataSet,System.Boolean,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.EndmGetData(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.mGetDataAsync(System.String,System.Data.DataSet,System.Boolean,System.Object)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00CCSQL.CSQL">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00CCSQL.mGetDataClearRowCompletedEventHandler">
+	<remarks/>
+</member><member name="P:MSKYOJAG00.MSKYOJAG00CCSQL.mGetDataClearRowCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00CCSQL.mGetDataClearRowCompletedEventArgs">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00CCSQL.mGetDataCompletedEventHandler">
+	<remarks/>
+</member><member name="P:MSKYOJAG00.MSKYOJAG00CCSQL.mGetDataCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00CCSQL.mGetDataCompletedEventArgs">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.#ctor">
+	<remarks/>
+</member><member name="E:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mSetCompleted">
+	<remarks/>
+</member><member name="E:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mSetExCompleted">
+	<remarks/>
+</member><member name="E:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mSetKyokyuCompleted">
+	<remarks/>
+</member><member name="E:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mCSVCompleted">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mSet(System.Int32,System.String,System.String[],System.String[],System.String[],System.String,System.String,System.String,System.String[])">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.BeginmSet(System.Int32,System.String,System.String[],System.String[],System.String[],System.String,System.String,System.String,System.String[],System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.EndmSet(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mSetAsync(System.Int32,System.String,System.String[],System.String[],System.String[],System.String,System.String,System.String,System.String[])">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mSetAsync(System.Int32,System.String,System.String[],System.String[],System.String[],System.String,System.String,System.String,System.String[],System.Object)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mSetEx(System.Int32,System.String,System.String[],System.String[],System.String[],System.String,System.String,System.String,System.String[])">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.BeginmSetEx(System.Int32,System.String,System.String[],System.String[],System.String[],System.String,System.String,System.String,System.String[],System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.EndmSetEx(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mSetExAsync(System.Int32,System.String,System.String[],System.String[],System.String[],System.String,System.String,System.String,System.String[])">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mSetExAsync(System.Int32,System.String,System.String[],System.String[],System.String[],System.String,System.String,System.String,System.String[],System.Object)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mSetKyokyu(MSKYOJAG00.MSKYOJAG00MSKYOJAW00.CDB@,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.BeginmSetKyokyu(MSKYOJAG00.MSKYOJAG00MSKYOJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.EndmSetKyokyu(System.IAsyncResult,MSKYOJAG00.MSKYOJAG00MSKYOJAW00.CDB@)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mSetKyokyuAsync(MSKYOJAG00.MSKYOJAG00MSKYOJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mSetKyokyuAsync(MSKYOJAG00.MSKYOJAG00MSKYOJAW00.CDB,System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mCSV(System.String,System.String)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.BeginmCSV(System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.EndmCSV(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mCSVAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.mCSVAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.MSKYOJAW00">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.CDB">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.mSetCompletedEventHandler">
+	<remarks/>
+</member><member name="P:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.mSetCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.mSetCompletedEventArgs">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.mSetExCompletedEventHandler">
+	<remarks/>
+</member><member name="P:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.mSetExCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.mSetExCompletedEventArgs">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.mSetKyokyuCompletedEventHandler">
+	<remarks/>
+</member><member name="P:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.mSetKyokyuCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="P:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.mSetKyokyuCompletedEventArgs.cdb">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.mSetKyokyuCompletedEventArgs">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.mCSVCompletedEventHandler">
+	<remarks/>
+</member><member name="P:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.mCSVCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:MSKYOJAG00.MSKYOJAG00MSKYOJAW00.mCSVCompletedEventArgs">
+	<remarks/>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.lblScript">
+	<summary>
+lblScript コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnMyAspx">
+	<summary>
+hdnMyAspx コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnBackUrl">
+	<summary>
+hdnBackUrl コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnPopcrtl">
+	<summary>
+hdnPopcrtl コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.btnSelect">
+	<summary>
+btnSelect コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.btnUpdate">
+	<summary>
+btnUpdate コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.btnDelete">
+	<summary>
+btnDelete コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.btnClear">
+	<summary>
+btnClear コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.btnExit">
+	<summary>
+btnExit コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnKBN">
+	<summary>
+hdnKBN コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtAYMD">
+	<summary>
+txtAYMD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtUYMD">
+	<summary>
+txtUYMD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnTIME">
+	<summary>
+hdnTIME コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_1">
+	<summary>
+hdnEDT_DT_1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_2">
+	<summary>
+hdnEDT_DT_2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_3">
+	<summary>
+hdnEDT_DT_3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_4">
+	<summary>
+hdnEDT_DT_4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_5">
+	<summary>
+hdnEDT_DT_5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_6">
+	<summary>
+hdnEDT_DT_6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_7">
+	<summary>
+hdnEDT_DT_7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_8">
+	<summary>
+hdnEDT_DT_8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_9">
+	<summary>
+hdnEDT_DT_9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_10">
+	<summary>
+hdnEDT_DT_10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_11">
+	<summary>
+hdnEDT_DT_11 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_12">
+	<summary>
+hdnEDT_DT_12 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_13">
+	<summary>
+hdnEDT_DT_13 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_14">
+	<summary>
+hdnEDT_DT_14 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_15">
+	<summary>
+hdnEDT_DT_15 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_16">
+	<summary>
+hdnEDT_DT_16 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_17">
+	<summary>
+hdnEDT_DT_17 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_18">
+	<summary>
+hdnEDT_DT_18 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_19">
+	<summary>
+hdnEDT_DT_19 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_20">
+	<summary>
+hdnEDT_DT_20 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_21">
+	<summary>
+hdnEDT_DT_21 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_22">
+	<summary>
+hdnEDT_DT_22 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_23">
+	<summary>
+hdnEDT_DT_23 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_24">
+	<summary>
+hdnEDT_DT_24 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_25">
+	<summary>
+hdnEDT_DT_25 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_26">
+	<summary>
+hdnEDT_DT_26 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_27">
+	<summary>
+hdnEDT_DT_27 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_28">
+	<summary>
+hdnEDT_DT_28 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_29">
+	<summary>
+hdnEDT_DT_29 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnEDT_DT_30">
+	<summary>
+hdnEDT_DT_30 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKENCD">
+	<summary>
+txtKENCD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.btnKENCD">
+	<summary>
+btnKENCD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnKENCD">
+	<summary>
+hdnKENCD コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnKENCD_MOTO">
+	<summary>
+hdnKENCD_MOTO コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.btnCSVout">
+	<summary>
+btnCSVout コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnKensaku">
+	<summary>
+hdnKensaku コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_1">
+	<summary>
+hdnDISP_NO_1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_1">
+	<summary>
+txtNO_1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_1">
+	<summary>
+chkDEL_1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_1">
+	<summary>
+txtKYOKYU_1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_1">
+	<summary>
+txtKYOKYUNM_1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_2">
+	<summary>
+hdnDISP_NO_2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_2">
+	<summary>
+txtNO_2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_2">
+	<summary>
+chkDEL_2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_2">
+	<summary>
+txtKYOKYU_2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_2">
+	<summary>
+txtKYOKYUNM_2 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_3">
+	<summary>
+hdnDISP_NO_3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_3">
+	<summary>
+txtNO_3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_3">
+	<summary>
+chkDEL_3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_3">
+	<summary>
+txtKYOKYU_3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_3">
+	<summary>
+txtKYOKYUNM_3 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_4">
+	<summary>
+hdnDISP_NO_4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_4">
+	<summary>
+txtNO_4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_4">
+	<summary>
+chkDEL_4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_4">
+	<summary>
+txtKYOKYU_4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_4">
+	<summary>
+txtKYOKYUNM_4 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_5">
+	<summary>
+hdnDISP_NO_5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_5">
+	<summary>
+txtNO_5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_5">
+	<summary>
+chkDEL_5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_5">
+	<summary>
+txtKYOKYU_5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_5">
+	<summary>
+txtKYOKYUNM_5 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_6">
+	<summary>
+hdnDISP_NO_6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_6">
+	<summary>
+txtNO_6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_6">
+	<summary>
+chkDEL_6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_6">
+	<summary>
+txtKYOKYU_6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_6">
+	<summary>
+txtKYOKYUNM_6 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_7">
+	<summary>
+hdnDISP_NO_7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_7">
+	<summary>
+txtNO_7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_7">
+	<summary>
+chkDEL_7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_7">
+	<summary>
+txtKYOKYU_7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_7">
+	<summary>
+txtKYOKYUNM_7 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_8">
+	<summary>
+hdnDISP_NO_8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_8">
+	<summary>
+txtNO_8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_8">
+	<summary>
+chkDEL_8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_8">
+	<summary>
+txtKYOKYU_8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_8">
+	<summary>
+txtKYOKYUNM_8 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_9">
+	<summary>
+hdnDISP_NO_9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_9">
+	<summary>
+txtNO_9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_9">
+	<summary>
+chkDEL_9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_9">
+	<summary>
+txtKYOKYU_9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_9">
+	<summary>
+txtKYOKYUNM_9 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_10">
+	<summary>
+hdnDISP_NO_10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_10">
+	<summary>
+txtNO_10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_10">
+	<summary>
+chkDEL_10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_10">
+	<summary>
+txtKYOKYU_10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_10">
+	<summary>
+txtKYOKYUNM_10 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_11">
+	<summary>
+hdnDISP_NO_11 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_11">
+	<summary>
+txtNO_11 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_11">
+	<summary>
+chkDEL_11 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_11">
+	<summary>
+txtKYOKYU_11 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_11">
+	<summary>
+txtKYOKYUNM_11 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_12">
+	<summary>
+hdnDISP_NO_12 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_12">
+	<summary>
+txtNO_12 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_12">
+	<summary>
+chkDEL_12 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_12">
+	<summary>
+txtKYOKYU_12 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_12">
+	<summary>
+txtKYOKYUNM_12 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_13">
+	<summary>
+hdnDISP_NO_13 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_13">
+	<summary>
+txtNO_13 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_13">
+	<summary>
+chkDEL_13 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_13">
+	<summary>
+txtKYOKYU_13 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_13">
+	<summary>
+txtKYOKYUNM_13 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_14">
+	<summary>
+hdnDISP_NO_14 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_14">
+	<summary>
+txtNO_14 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_14">
+	<summary>
+chkDEL_14 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_14">
+	<summary>
+txtKYOKYU_14 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_14">
+	<summary>
+txtKYOKYUNM_14 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_15">
+	<summary>
+hdnDISP_NO_15 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_15">
+	<summary>
+txtNO_15 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_15">
+	<summary>
+chkDEL_15 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_15">
+	<summary>
+txtKYOKYU_15 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_15">
+	<summary>
+txtKYOKYUNM_15 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_16">
+	<summary>
+hdnDISP_NO_16 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_16">
+	<summary>
+txtNO_16 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_16">
+	<summary>
+chkDEL_16 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_16">
+	<summary>
+txtKYOKYU_16 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_16">
+	<summary>
+txtKYOKYUNM_16 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_17">
+	<summary>
+hdnDISP_NO_17 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_17">
+	<summary>
+txtNO_17 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_17">
+	<summary>
+chkDEL_17 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_17">
+	<summary>
+txtKYOKYU_17 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_17">
+	<summary>
+txtKYOKYUNM_17 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_18">
+	<summary>
+hdnDISP_NO_18 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_18">
+	<summary>
+txtNO_18 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_18">
+	<summary>
+chkDEL_18 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_18">
+	<summary>
+txtKYOKYU_18 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_18">
+	<summary>
+txtKYOKYUNM_18 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_19">
+	<summary>
+hdnDISP_NO_19 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_19">
+	<summary>
+txtNO_19 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_19">
+	<summary>
+chkDEL_19 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_19">
+	<summary>
+txtKYOKYU_19 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_19">
+	<summary>
+txtKYOKYUNM_19 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_20">
+	<summary>
+hdnDISP_NO_20 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_20">
+	<summary>
+txtNO_20 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_20">
+	<summary>
+chkDEL_20 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_20">
+	<summary>
+txtKYOKYU_20 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_20">
+	<summary>
+txtKYOKYUNM_20 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_21">
+	<summary>
+hdnDISP_NO_21 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_21">
+	<summary>
+txtNO_21 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_21">
+	<summary>
+chkDEL_21 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_21">
+	<summary>
+txtKYOKYU_21 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_21">
+	<summary>
+txtKYOKYUNM_21 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_22">
+	<summary>
+hdnDISP_NO_22 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_22">
+	<summary>
+txtNO_22 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_22">
+	<summary>
+chkDEL_22 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_22">
+	<summary>
+txtKYOKYU_22 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_22">
+	<summary>
+txtKYOKYUNM_22 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_23">
+	<summary>
+hdnDISP_NO_23 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_23">
+	<summary>
+txtNO_23 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_23">
+	<summary>
+chkDEL_23 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_23">
+	<summary>
+txtKYOKYU_23 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_23">
+	<summary>
+txtKYOKYUNM_23 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_24">
+	<summary>
+hdnDISP_NO_24 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_24">
+	<summary>
+txtNO_24 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_24">
+	<summary>
+chkDEL_24 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_24">
+	<summary>
+txtKYOKYU_24 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_24">
+	<summary>
+txtKYOKYUNM_24 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_25">
+	<summary>
+hdnDISP_NO_25 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_25">
+	<summary>
+txtNO_25 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_25">
+	<summary>
+chkDEL_25 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_25">
+	<summary>
+txtKYOKYU_25 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_25">
+	<summary>
+txtKYOKYUNM_25 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_26">
+	<summary>
+hdnDISP_NO_26 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_26">
+	<summary>
+txtNO_26 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_26">
+	<summary>
+chkDEL_26 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_26">
+	<summary>
+txtKYOKYU_26 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_26">
+	<summary>
+txtKYOKYUNM_26 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_27">
+	<summary>
+hdnDISP_NO_27 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_27">
+	<summary>
+txtNO_27 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_27">
+	<summary>
+chkDEL_27 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_27">
+	<summary>
+txtKYOKYU_27 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_27">
+	<summary>
+txtKYOKYUNM_27 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_28">
+	<summary>
+hdnDISP_NO_28 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_28">
+	<summary>
+txtNO_28 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_28">
+	<summary>
+chkDEL_28 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_28">
+	<summary>
+txtKYOKYU_28 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_28">
+	<summary>
+txtKYOKYUNM_28 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_29">
+	<summary>
+hdnDISP_NO_29 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_29">
+	<summary>
+txtNO_29 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_29">
+	<summary>
+chkDEL_29 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_29">
+	<summary>
+txtKYOKYU_29 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_29">
+	<summary>
+txtKYOKYUNM_29 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.hdnDISP_NO_30">
+	<summary>
+hdnDISP_NO_30 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtNO_30">
+	<summary>
+txtNO_30 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.chkDEL_30">
+	<summary>
+chkDEL_30 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYU_30">
+	<summary>
+txtKYOKYU_30 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:MSKYOJAG00.MSKYOJAG00.txtKYOKYUNM_30">
+	<summary>
+txtKYOKYUNM_30 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+</members>
+</doc>

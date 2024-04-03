@@ -1,0 +1,19 @@
+/* BODY部 ******************* */
+BODY { FONT-SIZE: 11px; BACKGROUND-COLOR: cornsilk ; margin-top:0px }
+
+/* TABLE部 ****************** */
+TH{ background-color:DFA894; FONT-SIZE: 10pt; HEIGHT: 25pt}
+TD{ HEIGHT: 15pt }
+.CODE{ background-color:skyblue; FONT-SIZE: 12pt }			//POPUP用
+.NAME{ background-color:skyblue; FONT-SIZE: 12pt }			//POPUP用
+.LINK{ background-color:skyblue; FONT-SIZE: 11pt }					//ノーマルレコード
+.OTHR{ background-color:skyblue; FONT-SIZE: 10pt }					//
+.LINKCHK{ background-color:GreenYellow; FONT-SIZE: 11pt }			//選択済みレコード
+.OTHRCHK{ background-color:GreenYellow; FONT-SIZE: 10pt }			//
+
+.SSSSSST{ FONT-SIZE: 14pt; BACKGROUND-COLOR: cornsilk }
+.SSSSSSB{ FONT-SIZE: 12pt }
+
+
+
+

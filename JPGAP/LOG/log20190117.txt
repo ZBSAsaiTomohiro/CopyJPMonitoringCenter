@@ -1,0 +1,9 @@
+2019/01/17 18:10:36|ERROR：2行目:System.InvalidCastException: String "aaaa" から型 'Integer' への変換は無効です。 ---> System.FormatException: 入力文字列の形式が正しくありません。
+   場所 Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   場所 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- 内部例外スタック トレースの終わり ---
+   場所 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1021
+2019/01/17 19:45:53|ERROR:KakuninlistOut:3:The workbook already contains a sheet of this name
+2019/01/17 19:46:05|ERROR:KakuninlistOut:3:The workbook already contains a sheet of this name
+2019/01/17 20:07:02|ERROR:KakuninlistOut:3:This Style does not belong to the supplied Workbook Stlyes Source. Are you trying to assign a style from one workbook to the cell of a differnt workbook?

@@ -1,0 +1,311 @@
+2020/12/08 14:59:12:20201208145912705547512\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 14:59:12:20201208145912705547512\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 14:59:12:20201208145912705547512\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2020/12/08 14:59:19:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 14:59:19:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcel3：4 Count：2]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcel3：5 データカウント：2]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcel3：6 自動送信区分:1 FAX:0197413838 メール: CNT:0 SD_PRT:0]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：1]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：3]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：4]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：5 count:1]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：6（報告あり）SYONO：20000002363]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：7]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0 SD_PRT:1]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：1]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：3]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：4]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：5 count:1]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：6（報告あり）SYONO：20000002363]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcelOut：7]
+2020/12/08 14:59:20:20201208145919533424020\32020\3211\3211:[BTFAXJAX00:mExcel3：7]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcel3：4 Count：2]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcel3：5 データカウント：2]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcel3：6 自動送信区分:1 FAX:0197413838 メール: CNT:0 SD_PRT:0]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：1]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：3]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：4]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：5 count:1]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：6（報告あり）SYONO：20000002363]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：7]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0 SD_PRT:1]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：1]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：3]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：4]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：5 count:1]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：6（報告あり）SYONO：20000002363]
+2020/12/08 15:03:46:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcelOut：7]
+2020/12/08 15:03:47:20201208150346579518616\32020\3211\3211:[BTFAXJAX00:mExcel3：7]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcel3：4 Count：1]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0 SD_PRT:0]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcelOut：1]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcelOut：3]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcelOut：4]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcelOut：5 count:1]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcelOut：6（報告あり）SYONO：20000002363]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcelOut：7]
+2020/12/08 15:07:17:20201208150717289562464\32020\3211\3211:[BTFAXJAX00:mExcel3：7]
+2020/12/08 15:07:27:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:07:27:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:07:27:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：1]
+2020/12/08 15:07:27:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：4 Count：1]
+2020/12/08 15:07:27:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2020/12/08 15:07:27:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0 SD_PRT:0]
+2020/12/08 15:07:27:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：1]
+2020/12/08 15:07:27:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：2 送信区分1]
+2020/12/08 15:07:27:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：3]
+2020/12/08 15:07:27:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：4]
+2020/12/08 15:07:27:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：5 count:1]
+2020/12/08 15:07:27:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：6（報告あり）SYONO：20000002363]
+2020/12/08 15:07:27:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：7]
+2020/12/08 15:07:28:20201208150727301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：7]
+2020/12/08 15:09:17:20201208150917774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:09:17:20201208150917774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:09:17:20201208150917774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:09:18:20201208150917774740100\32020\3211\3211:[[System.Exception: ORA-00979: GROUP BYの式ではありません。
+
+   場所 Common.DB.CDB.mExecQuery()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 844]   場所 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   場所 System.Environment.get_StackTrace()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 844
+   場所 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   場所 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   場所 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   場所 System.Web.Services.Protocols.LogicalMethodInfo.Invoke(Object target, Object[] values)
+   場所 System.Web.Services.Protocols.WebServiceHandler.Invoke()
+   場所 System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()
+   場所 System.Web.Services.Protocols.SyncSessionlessHandler.ProcessRequest(HttpContext context)
+   場所 System.Web.Script.Services.ScriptHandlerFactory.HandlerWrapper.ProcessRequest(HttpContext context)
+   場所 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   場所 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   場所 System.Web.HttpApplication.PipelineStepManager.ResumeSteps(Exception error)
+   場所 System.Web.HttpApplication.BeginProcessRequestNotification(HttpContext context, AsyncCallback cb)
+   場所 System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)]
+2020/12/08 15:09:21:20201208150917774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:09:21:20201208150917774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:09:21:20201208150917774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:09:21:20201208150917774740100\32020\3211\3211:[[System.Exception: ORA-00979: GROUP BYの式ではありません。
+
+   場所 Common.DB.CDB.mExecQuery()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 844]   場所 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   場所 System.Environment.get_StackTrace()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 844
+   場所 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   場所 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   場所 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   場所 System.Web.Services.Protocols.LogicalMethodInfo.Invoke(Object target, Object[] values)
+   場所 System.Web.Services.Protocols.WebServiceHandler.Invoke()
+   場所 System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()
+   場所 System.Web.Services.Protocols.SyncSessionlessHandler.ProcessRequest(HttpContext context)
+   場所 System.Web.Script.Services.ScriptHandlerFactory.HandlerWrapper.ProcessRequest(HttpContext context)
+   場所 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   場所 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   場所 System.Web.HttpApplication.PipelineStepManager.ResumeSteps(Exception error)
+   場所 System.Web.HttpApplication.BeginProcessRequestNotification(HttpContext context, AsyncCallback cb)
+   場所 System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)]
+2020/12/08 15:09:24:20201208150917774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:09:24:20201208150917774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:09:24:20201208150917774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:09:24:20201208150917774740100\32020\3211\3211:[[System.Exception: ORA-00979: GROUP BYの式ではありません。
+
+   場所 Common.DB.CDB.mExecQuery()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 844]   場所 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   場所 System.Environment.get_StackTrace()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 844
+   場所 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   場所 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   場所 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   場所 System.Web.Services.Protocols.LogicalMethodInfo.Invoke(Object target, Object[] values)
+   場所 System.Web.Services.Protocols.WebServiceHandler.Invoke()
+   場所 System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()
+   場所 System.Web.Services.Protocols.SyncSessionlessHandler.ProcessRequest(HttpContext context)
+   場所 System.Web.Script.Services.ScriptHandlerFactory.HandlerWrapper.ProcessRequest(HttpContext context)
+   場所 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   場所 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   場所 System.Web.HttpApplication.PipelineStepManager.ResumeSteps(Exception error)
+   場所 System.Web.HttpApplication.BeginProcessRequestNotification(HttpContext context, AsyncCallback cb)
+   場所 System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)]
+2020/12/08 15:09:35:2020120815093514017642\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:09:35:2020120815093514017642\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:09:35:2020120815093514017642\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:09:35:2020120815093514017642\32020\3211\3211:[[System.Exception: ORA-00979: GROUP BYの式ではありません。
+
+   場所 Common.DB.CDB.mExecQuery()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 844]   場所 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   場所 System.Environment.get_StackTrace()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 844
+   場所 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   場所 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   場所 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   場所 System.Web.Services.Protocols.LogicalMethodInfo.Invoke(Object target, Object[] values)
+   場所 System.Web.Services.Protocols.WebServiceHandler.Invoke()
+   場所 System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()
+   場所 System.Web.Services.Protocols.SyncSessionlessHandler.ProcessRequest(HttpContext context)
+   場所 System.Web.Script.Services.ScriptHandlerFactory.HandlerWrapper.ProcessRequest(HttpContext context)
+   場所 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   場所 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   場所 System.Web.HttpApplication.PipelineStepManager.ResumeSteps(Exception error)
+   場所 System.Web.HttpApplication.BeginProcessRequestNotification(HttpContext context, AsyncCallback cb)
+   場所 System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)]
+2020/12/08 15:09:38:2020120815093514017642\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:09:38:2020120815093514017642\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:09:38:2020120815093514017642\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:09:38:2020120815093514017642\32020\3211\3211:[[System.Exception: ORA-00979: GROUP BYの式ではありません。
+
+   場所 Common.DB.CDB.mExecQuery()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 844]   場所 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   場所 System.Environment.get_StackTrace()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 844
+   場所 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   場所 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   場所 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   場所 System.Web.Services.Protocols.LogicalMethodInfo.Invoke(Object target, Object[] values)
+   場所 System.Web.Services.Protocols.WebServiceHandler.Invoke()
+   場所 System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()
+   場所 System.Web.Services.Protocols.SyncSessionlessHandler.ProcessRequest(HttpContext context)
+   場所 System.Web.Script.Services.ScriptHandlerFactory.HandlerWrapper.ProcessRequest(HttpContext context)
+   場所 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   場所 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   場所 System.Web.HttpApplication.PipelineStepManager.ResumeSteps(Exception error)
+   場所 System.Web.HttpApplication.BeginProcessRequestNotification(HttpContext context, AsyncCallback cb)
+   場所 System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)]
+2020/12/08 15:09:41:2020120815093514017642\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:09:41:2020120815093514017642\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:09:41:2020120815093514017642\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:09:41:2020120815093514017642\32020\3211\3211:[[System.Exception: ORA-00979: GROUP BYの式ではありません。
+
+   場所 Common.DB.CDB.mExecQuery()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 844]   場所 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   場所 System.Environment.get_StackTrace()
+   場所 JPGAP.BTFAXJEW00.BTFAXJEW00.mExcel3(String pstrKANSI_CODE, String pstrSESSION, String pstrTAISYOUBI, String pstrKURACD_F, String pstrKURACD_T, String pstrJASCD_F, String pstrJASCD_T, String pstrFAXMAIL, String pstrCreateFilePath, String pstrSEND_JALP_NAME, String pstrSEND_CENT_NAME, String pstrSEND_KBN, Int32 pintDebugSQLNo) 場所 C:\inetpub\wwwroot\JPGAP\BT\BTFAXJEW\BTFAXJEW00\BTFAXJEW00.asmx.vb:行 844
+   場所 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   場所 System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   場所 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   場所 System.Web.Services.Protocols.LogicalMethodInfo.Invoke(Object target, Object[] values)
+   場所 System.Web.Services.Protocols.WebServiceHandler.Invoke()
+   場所 System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()
+   場所 System.Web.Services.Protocols.SyncSessionlessHandler.ProcessRequest(HttpContext context)
+   場所 System.Web.Script.Services.ScriptHandlerFactory.HandlerWrapper.ProcessRequest(HttpContext context)
+   場所 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   場所 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   場所 System.Web.HttpApplication.PipelineStepManager.ResumeSteps(Exception error)
+   場所 System.Web.HttpApplication.BeginProcessRequestNotification(HttpContext context, AsyncCallback cb)
+   場所 System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.UnsafeIISMethods.MgdIndicateCompletion(IntPtr pHandler, RequestNotificationStatus& notificationStatus)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotificationHelper(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)
+   場所 System.Web.Hosting.PipelineRuntime.ProcessRequestNotification(IntPtr rootedObjectsPointer, IntPtr nativeRequestContext, IntPtr moduleData, Int32 flags)]
+2020/12/08 15:16:58:20201208151657705547512\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:16:58:20201208151657705547512\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:16:58:20201208151657705547512\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:17:03:20201208151703533424020\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:17:03:20201208151703533424020\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:17:04:20201208151703533424020\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:17:10:20201208151710579518616\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:17:10:20201208151710579518616\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:17:10:20201208151710579518616\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:18:05:20201208151805289562464\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:18:05:20201208151805289562464\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:18:05:20201208151805289562464\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:18:10:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:18:10:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:18:11:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:18:11:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：4 Count：1]
+2020/12/08 15:18:11:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2020/12/08 15:18:11:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0 SD_PRT:1]
+2020/12/08 15:18:11:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：1]
+2020/12/08 15:18:11:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：2 送信区分2]
+2020/12/08 15:18:11:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：3]
+2020/12/08 15:18:11:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：4]
+2020/12/08 15:18:11:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：5 count:1]
+2020/12/08 15:18:11:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：6（報告あり）SYONO：20000002363]
+2020/12/08 15:18:11:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcelOut：7]
+2020/12/08 15:18:11:20201208151810301948011\32020\3211\3211:[BTFAXJAX00:mExcel3：7]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：4 Count：1]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0 SD_PRT:1]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcelOut：1]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcelOut：2 送信区分2]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcelOut：3]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcelOut：4]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcelOut：5 count:1]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcelOut：6（報告あり）SYONO：20000002363]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcelOut：7]
+2020/12/08 15:28:25:20201208152825774740100\32020\3211\3211:[BTFAXJAX00:mExcel3：7]
+2020/12/08 15:33:54:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:33:54:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:33:54:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:33:55:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcel3：4 Count：1]
+2020/12/08 15:33:55:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2020/12/08 15:33:55:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0 SD_PRT:0]
+2020/12/08 15:33:55:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcelOut：1]
+2020/12/08 15:33:55:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcelOut：2 送信区分2]
+2020/12/08 15:33:55:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcelOut：3]
+2020/12/08 15:33:55:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcelOut：4]
+2020/12/08 15:33:55:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcelOut：5 count:1]
+2020/12/08 15:33:55:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcelOut：6（報告あり）SYONO：20000002363]
+2020/12/08 15:33:55:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcelOut：7]
+2020/12/08 15:33:55:2020120815335414017642\32020\3211\3211:[BTFAXJAX00:mExcel3：7]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcel3：1]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcel3：2]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcel3：3 送信区分：2]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcel3：4 Count：1]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcel3：5 データカウント：1]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcel3：6 自動送信区分:2 FAX: メール:ono-tak@z-bs.co.jp CNT:0 SD_PRT:0]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcelOut：1]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcelOut：2 送信区分2]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcelOut：3]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcelOut：4]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcelOut：5 count:1]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcelOut：6（報告あり）SYONO：20000002363]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcelOut：7]
+2020/12/08 15:34:32:20201208153432760723591\32020\3211\3211:[BTFAXJAX00:mExcel3：7]

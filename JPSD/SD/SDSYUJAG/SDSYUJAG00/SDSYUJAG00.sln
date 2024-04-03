@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SDSYUJAG00", "http://localhost:/JPSD/SD/SDSYUJAG/SDSYUJAG00/SDSYUJAG00.vbproj", "{E333E752-BD36-464D-BF33-BDB6A6CE4DF2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E333E752-BD36-464D-BF33-BDB6A6CE4DF2}.Debug.ActiveCfg = Debug|.NET
+		{E333E752-BD36-464D-BF33-BDB6A6CE4DF2}.Debug.Build.0 = Debug|.NET
+		{E333E752-BD36-464D-BF33-BDB6A6CE4DF2}.Release.ActiveCfg = Release|.NET
+		{E333E752-BD36-464D-BF33-BDB6A6CE4DF2}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

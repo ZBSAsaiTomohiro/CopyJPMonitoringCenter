@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/KEJUKJAW00/Service1" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/KEJUKJAW00/Service1" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/KEJUKJAW00/Service1">
+      <s:element name="mSet_NoRoc">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSERIAL" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSet_NoRocResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSet_NoRocResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSet_Roc">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSERIAL" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSet_RocResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSet_RocResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSet_Kesson">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pintFLG" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFILE_NAME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUPPER_SERIAL" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSet_KessonResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSet_KessonResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mKesson_Del">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pintDelCnt" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDelKeys" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mKesson_DelResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mKesson_DelResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSet_DuplicateKeiho">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSYORI_SERIAL" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSet_DuplicateKeihoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSet_DuplicateKeihoResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSet_AutoTaiou">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSYORI_SERIAL" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSet_AutoTaiouResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSet_AutoTaiouResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="mSet_NoRocSoapIn">
+    <wsdl:part name="parameters" element="tns:mSet_NoRoc" />
+  </wsdl:message>
+  <wsdl:message name="mSet_NoRocSoapOut">
+    <wsdl:part name="parameters" element="tns:mSet_NoRocResponse" />
+  </wsdl:message>
+  <wsdl:message name="mSet_RocSoapIn">
+    <wsdl:part name="parameters" element="tns:mSet_Roc" />
+  </wsdl:message>
+  <wsdl:message name="mSet_RocSoapOut">
+    <wsdl:part name="parameters" element="tns:mSet_RocResponse" />
+  </wsdl:message>
+  <wsdl:message name="mSet_KessonSoapIn">
+    <wsdl:part name="parameters" element="tns:mSet_Kesson" />
+  </wsdl:message>
+  <wsdl:message name="mSet_KessonSoapOut">
+    <wsdl:part name="parameters" element="tns:mSet_KessonResponse" />
+  </wsdl:message>
+  <wsdl:message name="mKesson_DelSoapIn">
+    <wsdl:part name="parameters" element="tns:mKesson_Del" />
+  </wsdl:message>
+  <wsdl:message name="mKesson_DelSoapOut">
+    <wsdl:part name="parameters" element="tns:mKesson_DelResponse" />
+  </wsdl:message>
+  <wsdl:message name="mSet_DuplicateKeihoSoapIn">
+    <wsdl:part name="parameters" element="tns:mSet_DuplicateKeiho" />
+  </wsdl:message>
+  <wsdl:message name="mSet_DuplicateKeihoSoapOut">
+    <wsdl:part name="parameters" element="tns:mSet_DuplicateKeihoResponse" />
+  </wsdl:message>
+  <wsdl:message name="mSet_AutoTaiouSoapIn">
+    <wsdl:part name="parameters" element="tns:mSet_AutoTaiou" />
+  </wsdl:message>
+  <wsdl:message name="mSet_AutoTaiouSoapOut">
+    <wsdl:part name="parameters" element="tns:mSet_AutoTaiouResponse" />
+  </wsdl:message>
+  <wsdl:portType name="KEJUKJAW00Soap">
+    <wsdl:operation name="mSet_NoRoc">
+      <wsdl:input message="tns:mSet_NoRocSoapIn" />
+      <wsdl:output message="tns:mSet_NoRocSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSet_Roc">
+      <wsdl:input message="tns:mSet_RocSoapIn" />
+      <wsdl:output message="tns:mSet_RocSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSet_Kesson">
+      <wsdl:input message="tns:mSet_KessonSoapIn" />
+      <wsdl:output message="tns:mSet_KessonSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mKesson_Del">
+      <wsdl:input message="tns:mKesson_DelSoapIn" />
+      <wsdl:output message="tns:mKesson_DelSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSet_DuplicateKeiho">
+      <wsdl:input message="tns:mSet_DuplicateKeihoSoapIn" />
+      <wsdl:output message="tns:mSet_DuplicateKeihoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSet_AutoTaiou">
+      <wsdl:input message="tns:mSet_AutoTaiouSoapIn" />
+      <wsdl:output message="tns:mSet_AutoTaiouSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="KEJUKJAW00Soap" type="tns:KEJUKJAW00Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mSet_NoRoc">
+      <soap:operation soapAction="http://tempuri.org/KEJUKJAW00/Service1/mSet_NoRoc" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSet_Roc">
+      <soap:operation soapAction="http://tempuri.org/KEJUKJAW00/Service1/mSet_Roc" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSet_Kesson">
+      <soap:operation soapAction="http://tempuri.org/KEJUKJAW00/Service1/mSet_Kesson" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mKesson_Del">
+      <soap:operation soapAction="http://tempuri.org/KEJUKJAW00/Service1/mKesson_Del" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSet_DuplicateKeiho">
+      <soap:operation soapAction="http://tempuri.org/KEJUKJAW00/Service1/mSet_DuplicateKeiho" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSet_AutoTaiou">
+      <soap:operation soapAction="http://tempuri.org/KEJUKJAW00/Service1/mSet_AutoTaiou" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="KEJUKJAW00Soap12" type="tns:KEJUKJAW00Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mSet_NoRoc">
+      <soap12:operation soapAction="http://tempuri.org/KEJUKJAW00/Service1/mSet_NoRoc" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSet_Roc">
+      <soap12:operation soapAction="http://tempuri.org/KEJUKJAW00/Service1/mSet_Roc" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSet_Kesson">
+      <soap12:operation soapAction="http://tempuri.org/KEJUKJAW00/Service1/mSet_Kesson" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mKesson_Del">
+      <soap12:operation soapAction="http://tempuri.org/KEJUKJAW00/Service1/mKesson_Del" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSet_DuplicateKeiho">
+      <soap12:operation soapAction="http://tempuri.org/KEJUKJAW00/Service1/mSet_DuplicateKeiho" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSet_AutoTaiou">
+      <soap12:operation soapAction="http://tempuri.org/KEJUKJAW00/Service1/mSet_AutoTaiou" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="KEJUKJAW00">
+    <wsdl:port name="KEJUKJAW00Soap" binding="tns:KEJUKJAW00Soap">
+      <soap:address location="http://knapsv/JPGAP/KE/KEJUKJAW/KEJUKJAW00/KEJUKJAW00.asmx" />
+    </wsdl:port>
+    <wsdl:port name="KEJUKJAW00Soap12" binding="tns:KEJUKJAW00Soap12">
+      <soap12:address location="http://knapsv/JPGAP/KE/KEJUKJAW/KEJUKJAW00/KEJUKJAW00.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

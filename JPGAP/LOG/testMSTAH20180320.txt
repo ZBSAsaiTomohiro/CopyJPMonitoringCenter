@@ -1,0 +1,7 @@
+2018/03/20 17:46:29:[mExcel pstrKuracd:3200 pstrGroupcd: pstrCentcd:32020,34020,36020]
+2018/03/20 17:46:58:[mExcel pstrKuracd:1000 pstrGroupcd: pstrCentcd:32020,34020,36020]
+2018/03/20 17:47:09:[mExcel pstrKuracd:2000 pstrGroupcd: pstrCentcd:32020,34020,36020]
+2018/03/20 17:47:18:[mExcel pstrKuracd: pstrGroupcd: pstrCentcd:32020,34020,36020]
+2018/03/20 17:47:38:[mExcel pstrKuracd:1000 pstrGroupcd: pstrCentcd:32020,34020,36020]
+2018/03/20 17:47:49:[mExcel pstrKuracd:1000 pstrGroupcd: pstrCentcd:32020,34020,36020]
+2018/03/20 17:49:19:[mExcel pstrKuracd: pstrGroupcd: pstrCentcd:32020,34020,36020]

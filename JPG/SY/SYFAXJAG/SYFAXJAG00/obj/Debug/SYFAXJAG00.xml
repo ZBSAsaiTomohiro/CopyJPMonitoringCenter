@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SYFAXJAG00
+</name>
+</assembly>
+<members>
+<member name="P:SYFAXJAG00.My.MyWebExtension.Application">
+	<summary>
+ 現在のアプリケーションについての情報を返します。
+ </summary>
+</member><member name="P:SYFAXJAG00.My.MyWebExtension.Computer">
+	<summary>
+ ホスト コンピューターに関する情報を返します。
+ </summary>
+</member><member name="P:SYFAXJAG00.My.MyWebExtension.User">
+	<summary>
+ 現在の Web ユーザーに関する情報を返します。
+ </summary>
+</member><member name="P:SYFAXJAG00.My.MyWebExtension.Request">
+	<summary>
+ Request オブジェクトを返します。
+ </summary>
+</member><member name="P:SYFAXJAG00.My.MyWebExtension.Response">
+	<summary>
+ Response オブジェクトを返します。
+ </summary>
+</member><member name="P:SYFAXJAG00.My.MyWebExtension.Log">
+	<summary>
+ Asp ログ オブジェクトを返します。
+ </summary>
+</member><member name="P:SYFAXJAG00.My.MyWebExtension.WebServices">
+	<summary>
+ このプロジェクトに追加された WebServices へのアクセスを提供します。
+ </summary>
+</member><member name="T:SYFAXJAG00.My.MyWebExtension">
+	<summary>
+ Web プロジェクトの My Namespace で使用できるプロパティを定義するためのモジュール
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SYFAXJAG00.SYFAXJAG00.Form1">
+	<summary>
+Form1 コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:SYFAXJAG00.SYFAXJAG00.btnExit">
+	<summary>
+btnExit コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member><member name="F:SYFAXJAG00.SYFAXJAG00.Message">
+	<summary>
+Message コントロール。
+</summary>
+	<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+</members>
+</doc>

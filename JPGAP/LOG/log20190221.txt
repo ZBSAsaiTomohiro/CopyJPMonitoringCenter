@@ -1,0 +1,57 @@
+2019/02/21 9:21:15|ERROR：9285行目:販売事業者コード・名称が登録されていません。5520:1035606:344100020
+2019/02/21 14:24:50|ha5210101Ym
+2019/02/21 14:26:47|ha5210101Ym
+2019/02/21 18:01:11|mReadkisofile：スタート：20190221180111
+2019/02/21 18:01:11|ERROR：3行目:System.ObjectDisposedException: 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'OracleConnection' です。
+   場所 Oracle.DataAccess.Client.OracleConnection.Open()
+   場所 Common.DB.CDB.mOpen() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 463
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER, CDB cdb) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 571
+2019/02/21 18:03:29|mReadkisofile：スタート：20190221180329
+2019/02/21 18:03:29|ERROR：3行目:System.ObjectDisposedException: 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'OracleConnection' です。
+   場所 Oracle.DataAccess.Client.OracleConnection.Open()
+   場所 Common.DB.CDB.mOpen() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 463
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER, CDB cdb) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 571
+2019/02/21 18:07:12|mReadkisofile：スタート：20190221180712
+2019/02/21 18:09:26|mReadkisofile：スタート：20190221180926
+2019/02/21 18:13:13|mReadkisofile：スタート：20190221181313
+2019/02/21 18:15:01|mReadkisofile：スタート：20190221181501
+2019/02/21 18:16:36|mReadkisofile：スタート：20190221181636
+2019/02/21 18:19:10|mReadkisofile：スタート：20190221181910
+2019/02/21 18:21:26|mReadkisofile：スタート：20190221182126
+2019/02/21 18:23:50|mReadkisofile：スタート：20190221182350
+2019/02/21 18:23:50|System.InvalidOperationException: オブジェクトの現在の状態に問題があるため、操作は有効ではありません。
+   場所 Oracle.DataAccess.Client.OracleTransaction.Rollback()
+   場所 Common.DB.CDB.mRollback() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 199
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER, CDB& cdb) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1309
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.mReadkisofile(String pstrFilePath, String pstrNendo, String pstrUser) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 496
+2019/02/21 18:27:14|mReadkisofile：スタート：20190221182714
+2019/02/21 18:27:14|ERROR：3行目:System.ObjectDisposedException: 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'OracleConnection' です。
+   場所 Oracle.DataAccess.Client.OracleConnection.Open()
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   場所 Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   場所 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   場所 Common.DB.CDB.mExecQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 290
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER, CDB& cdb) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 645
+2019/02/21 18:27:14|System.InvalidOperationException: オブジェクトの現在の状態に問題があるため、操作は有効ではありません。
+   場所 Oracle.DataAccess.Client.OracleTransaction.Rollback()
+   場所 Common.DB.CDB.mRollback() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 199
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.mReadkisofile(String pstrFilePath, String pstrNendo, String pstrUser) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 518
+2019/02/21 18:30:29|mReadkisofile：スタート：20190221183029
+2019/02/21 18:32:25|mReadkisofile：エンド：20190221183225
+2019/02/21 18:36:42|mReadkisofile：スタート：20190221183642
+2019/02/21 18:38:55|mReadkisofile：エンド　：20190221183855
+2019/02/21 18:45:22|mReadkisofile：スタート：20190221184522
+2019/02/21 18:47:34|mReadkisofile：エンド　：20190221184734
+2019/02/21 18:50:05|mReadkisofile：スタート：20190221185005
+2019/02/21 18:52:17|mReadkisofile：エンド　：20190221185217
+2019/02/21 18:53:28|mReadkisofile：スタート：20190221185328
+2019/02/21 18:55:40|mReadkisofile：エンド　：20190221185540
+2019/02/21 18:57:00|mReadkisofile：スタート：20190221185700
+2019/02/21 18:59:13|mReadkisofile：エンド　：20190221185913
+2019/02/21 19:00:42|mReadkisofile：スタート：20190221190042
+2019/02/21 19:02:54|mReadkisofile：エンド　：20190221190254
+2019/02/21 19:12:04|mReadkisofile：スタート：20190221191204
+2019/02/21 19:18:49|mReadkisofile：エンド　：20190221191849

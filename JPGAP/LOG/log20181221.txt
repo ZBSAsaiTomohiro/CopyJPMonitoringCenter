@@ -1,0 +1,31 @@
+2018/12/21 16:00:20|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:LTOS_UPD_DATE
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 404
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1318
+2018/12/21 16:00:20|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:LTOS_UPD_DATE
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 404
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1318
+2018/12/21 16:00:21|System.ArgumentException: パラメータ・バインディングが無効です
+パラメーター名:LTOS_UPD_DATE
+   場所 Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 404
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocesskiso(String pstrNENDO, String pstrKURACD, String pstrACBCD, String pstrUSER_CD, String pstrJUSYONM, String pstrDAIHYO_NAME, String pstrADDR1, String pstrADDR2, String pstrADDR3, String pstrRENTEL, String pstrKESSEN, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrBUNRUICD, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1318
+2018/12/21 16:03:38|OK
+2018/12/21 16:03:38|OK
+2018/12/21 16:03:38|OK
+2018/12/21 16:17:25|ERROR:3行目:System.Exception: ORA-00957: 列名が重複しています。
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocessLTOS(String pstrNENDO, String pstrKENCD, String pstrACBCD, String pstrUSER_CD, String pstrDAIHYO_NAME, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1671
+2018/12/21 16:21:28|ERROR:3行目:System.Exception: ORA-00957: 列名が重複しています。
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocessLTOS(String pstrNENDO, String pstrKENCD, String pstrACBCD, String pstrUSER_CD, String pstrDAIHYO_NAME, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1671
+2018/12/21 16:31:26|LTOS法人14あああああああああああああああああああああああああああああああ
+2018/12/21 16:32:20|ERROR：3行目:System.Exception: ORA-00957: 列名が重複しています。
+
+   場所 Common.DB.CDB.mExecNonQuery() 場所 C:\監視あんしん\共通部品\common\CODATABC00\CDB.vb:行 420
+   場所 JPGAP.SBMEIJAW00.SBMEIJAW00.FncDBprocessLTOS(String pstrNENDO, String pstrKENCD, String pstrACBCD, String pstrUSER_CD, String pstrDAIHYO_NAME, String pstrKYOKTKBN, String pstrHOKBN, String pstrYOTOKBN, String pstrUSER) 場所 C:\inetpub\wwwroot\JPGAP\SB\SBMEIJAW\SBMEIJAW00\SBMEIJAW00.asmx.vb:行 1667

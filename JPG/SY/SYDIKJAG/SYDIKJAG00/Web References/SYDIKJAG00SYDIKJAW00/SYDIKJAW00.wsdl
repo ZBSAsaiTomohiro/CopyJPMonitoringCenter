@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://tempuri.org/SYDIKJAW00/SYDIKJAW00" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/SYDIKJAW00/SYDIKJAW00" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/SYDIKJAW00/SYDIKJAW00">
+      <s:element name="mSet">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKANSCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDAIKOKANSCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSetResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSetResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </types>
+  <message name="mSetSoapIn">
+    <part name="parameters" element="s0:mSet" />
+  </message>
+  <message name="mSetSoapOut">
+    <part name="parameters" element="s0:mSetResponse" />
+  </message>
+  <portType name="SYDIKJAW00Soap">
+    <operation name="mSet">
+      <input message="s0:mSetSoapIn" />
+      <output message="s0:mSetSoapOut" />
+    </operation>
+  </portType>
+  <binding name="SYDIKJAW00Soap" type="s0:SYDIKJAW00Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="mSet">
+      <soap:operation soapAction="http://tempuri.org/SYDIKJAW00/SYDIKJAW00/mSet" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="SYDIKJAW00">
+    <port name="SYDIKJAW00Soap" binding="s0:SYDIKJAW00Soap">
+      <soap:address location="http://knapsv/JPGAP/SY/SYDIKJAW/SYDIKJAW00/SYDIKJAW00.asmx" />
+    </port>
+  </service>
+</definitions>

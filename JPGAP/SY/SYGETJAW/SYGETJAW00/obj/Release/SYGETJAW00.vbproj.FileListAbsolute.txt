@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\JPGAP\SY\SYGETJAW\SYGETJAW00\bin\SYGETJAW00.dll
+C:\inetpub\wwwroot\JPGAP\SY\SYGETJAW\SYGETJAW00\bin\SYGETJAW00.xml
+C:\inetpub\wwwroot\JPGAP\SY\SYGETJAW\SYGETJAW00\obj\Release\SYGETJAW00.SYGETJAW00.resources
+C:\inetpub\wwwroot\JPGAP\SY\SYGETJAW\SYGETJAW00\obj\Release\SYGETJAW00.dll
+C:\inetpub\wwwroot\JPGAP\SY\SYGETJAW\SYGETJAW00\obj\Release\SYGETJAW00.xml
+C:\inetpub\wwwroot\JPGAP\SY\SYGETJAW\SYGETJAW00\bin\SYGETJAW00.dll.config
+C:\inetpub\wwwroot\JPGAP\SY\SYGETJAW\SYGETJAW00\obj\Release\SYGETJAW00.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\JPGAP\SY\SYGETJAW\SYGETJAW00\obj\Release\SYGETJAW00.vbproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\JPGAP\SY\SYGETJAW\SYGETJAW00\obj\Release\SYGETJAW00.vbprojResolveAssemblyReference.cache

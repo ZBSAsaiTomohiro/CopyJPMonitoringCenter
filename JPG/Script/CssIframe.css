@@ -1,0 +1,29 @@
+/* BODY部 ******************* */
+BODY {FONT-SIZE: 11px; BACKGROUND-COLOR: cornsilk ; margin-top:0px }
+
+/* TABLE部 ****************** */
+--TR{ background-color:skyblue }
+TH{ background-color:DFA894; FONT-SIZE: 10pt; HEIGHT: 25pt}
+TD{ HEIGHT: 15pt }
+
+.CODE{ background-color:skyblue; FONT-SIZE: 12pt }			//POPUP用
+.NAME{ background-color:skyblue; FONT-SIZE: 12pt }			//POPUP用
+
+
+.SMALTH{ background-color:DFA894; FONT-SIZE: 10pt; HEIGHT: 15pt}
+
+.SPAC{ background-color:DFA894;  FONT-SIZE: 11px; HEIGHT: 5pt }		//行間の区切りに色をつける
+.LINK{ background-color:skyblue; FONT-SIZE: 11pt }					//ノーマルレコード
+.OTHR{ background-color:skyblue; FONT-SIZE: 10pt }					//
+.LINKCHK{ background-color:GreenYellow; FONT-SIZE: 11pt }			//選択済みレコード
+.OTHRCHK{ background-color:GreenYellow; FONT-SIZE: 10pt }			//
+
+
+
+
+.T{ FONT-SIZE: 14pt; BACKGROUND-COLOR: cornsilk }
+.B{ FONT-SIZE: 12pt }
+
+
+
+

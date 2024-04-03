@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/KETAIJAW00/Service1" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/KETAIJAW00/Service1" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/KETAIJAW00/Service1">
+      <s:element name="mSet_Taiou2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSeniPG" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSERIAL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKANSICD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSYONO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrNCUHATYMD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrNCUHATTIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHATYMD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHATTIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKENSIN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKEIHOSU" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRYURYO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMETASYU" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUNYO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJUYMD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJUTIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrNUM_DIGIT" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMCD1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMCD2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMCD3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMCD4" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM4" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMCD5" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM5" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMCD6" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKMNM6" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKENNM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJACD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJANM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHANJICD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHANJINM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBNM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSER_CD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJUSYONM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJUSYOKN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJUTEL1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJUTEL2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKTELNO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrADDR" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrNCU_SET" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTIZUNO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHANBAI_KBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKYOKTKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMET_KATA" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMET_MAKER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBONB1_KKG" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBONB1_HON" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBONB1_YOBI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBONB2_KKG" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBONB2_HON" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBONB2_YOBI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBONB3_KKG" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBONB3_HON" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBONB3_YOBI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBONB4_KKG" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBONB4_HON" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBONB4_YOBI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrZENKAI_HAISO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrZENKAI_HAI_S" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKONKAI_HAISO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKONKAI_HAI_S" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJIKAI_HAISO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrZENKAI_KENSIN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrZENKAI_KEN_S" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrZENKAI_KEN_SIYO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKONKAI_KENSIN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKONKAI_KEN_S" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKONKAI_KEN_SIYO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrZENKAI_HASEI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrZENKAI_HAS_S" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKONKAI_HASEI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKONKAI_HAS_S" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrG_ZAIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrICHI_SIYO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrYOSOKU_ICHI_SIYO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS1_HINMEI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS1_DAISU" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS1_SEIFL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS2_HINMEI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS2_DAISU" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS2_SEIFL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS3_HINMEI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS3_DAISU" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS3_SEIFL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS4_HINMEI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS4_DAISU" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS4_SEIFL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS5_HINMEI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS5_DAISU" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS5_SEIFL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHATKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTAIOKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTMSKB" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTKTANCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTAITCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTAIO_ST_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTAIO_ST_TIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSYOYMD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSYOTIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTAIO_SYO_TIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAXKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAXKURAKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAXRUISEKIKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTELRCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTFKICD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFUK_MEMO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO4" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO5" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_MEMO6" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrMITOKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTKIGCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTSADCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGENIN_KIJI" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSDCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSIJIYMD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSIJITIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSIJI_BIKO1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSIJI_BIKO2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSTD_JASCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSTD_JANA" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSTD_JASNA" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_CODE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_NA" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_TEL_1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_TEL_2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_TEL_3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_FAX" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_BIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_EDT_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_TIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_1_CODE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_1_NA" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_1_TEL1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_1_TEL2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_1_TEL3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_1_FAX" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_1_BIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_1_EDT_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_1_TIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_2_CODE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_2_NA" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_2_TEL1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_2_TEL2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_2_TEL3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_2_FAX" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_2_BIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_2_EDT_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_2_TIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_3_CODE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_3_NA" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_3_TEL1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_3_TEL2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_3_TEL3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_3_FAX" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_3_BIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_3_EDT_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrREN_3_TIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTEL_BIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAX_TITLE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAX_REN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSTD_CD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSTD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSTD_KYOTEN_CD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSTD_KYOTEN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSTD_TEL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrADD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrEDT_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTIME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBOMB_TYPE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS_STOP" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS_DELE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrGAS_RESTART" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKAITU_DAY" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrBIKOU" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAX_TITLE_CD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDialKbns" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDialNumbers" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDialAites" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDialResult" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDialDates" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDialTimes" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDialStates" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSDSKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrAUTOTAIOU" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKANSHI_BIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL2_BIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL2_UPD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL3_BIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL3_UPD_DATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTUSIN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFAXSPOTKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrTELAB" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDAI3RENDORENTEL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDAIHYO_NAME" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHOKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrYOTOKBN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrHANBCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKINRENCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSHUGOU" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrJMNAME" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSet_Taiou2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSet_Taiou2Result" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSet_NoRoc">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrSERIAL" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSERNAME" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mSet_NoRocResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mSet_NoRocResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mUpd_SHAMAS">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrKURACD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrACBCD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUSER_CD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL2_BIKO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL3" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrRENTEL3_BIKO" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mUpd_SHAMASResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mUpd_SHAMASResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="mSet_Taiou2SoapIn">
+    <wsdl:part name="parameters" element="tns:mSet_Taiou2" />
+  </wsdl:message>
+  <wsdl:message name="mSet_Taiou2SoapOut">
+    <wsdl:part name="parameters" element="tns:mSet_Taiou2Response" />
+  </wsdl:message>
+  <wsdl:message name="mSet_NoRocSoapIn">
+    <wsdl:part name="parameters" element="tns:mSet_NoRoc" />
+  </wsdl:message>
+  <wsdl:message name="mSet_NoRocSoapOut">
+    <wsdl:part name="parameters" element="tns:mSet_NoRocResponse" />
+  </wsdl:message>
+  <wsdl:message name="mUpd_SHAMASSoapIn">
+    <wsdl:part name="parameters" element="tns:mUpd_SHAMAS" />
+  </wsdl:message>
+  <wsdl:message name="mUpd_SHAMASSoapOut">
+    <wsdl:part name="parameters" element="tns:mUpd_SHAMASResponse" />
+  </wsdl:message>
+  <wsdl:portType name="KETAIJAW00Soap">
+    <wsdl:operation name="mSet_Taiou2">
+      <wsdl:input message="tns:mSet_Taiou2SoapIn" />
+      <wsdl:output message="tns:mSet_Taiou2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mSet_NoRoc">
+      <wsdl:input message="tns:mSet_NoRocSoapIn" />
+      <wsdl:output message="tns:mSet_NoRocSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mUpd_SHAMAS">
+      <wsdl:input message="tns:mUpd_SHAMASSoapIn" />
+      <wsdl:output message="tns:mUpd_SHAMASSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="KETAIJAW00Soap" type="tns:KETAIJAW00Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mSet_Taiou2">
+      <soap:operation soapAction="http://tempuri.org/KETAIJAW00/Service1/mSet_Taiou2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSet_NoRoc">
+      <soap:operation soapAction="http://tempuri.org/KETAIJAW00/Service1/mSet_NoRoc" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mUpd_SHAMAS">
+      <soap:operation soapAction="http://tempuri.org/KETAIJAW00/Service1/mUpd_SHAMAS" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="KETAIJAW00Soap12" type="tns:KETAIJAW00Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mSet_Taiou2">
+      <soap12:operation soapAction="http://tempuri.org/KETAIJAW00/Service1/mSet_Taiou2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mSet_NoRoc">
+      <soap12:operation soapAction="http://tempuri.org/KETAIJAW00/Service1/mSet_NoRoc" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mUpd_SHAMAS">
+      <soap12:operation soapAction="http://tempuri.org/KETAIJAW00/Service1/mUpd_SHAMAS" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="KETAIJAW00">
+    <wsdl:port name="KETAIJAW00Soap" binding="tns:KETAIJAW00Soap">
+      <soap:address location="http://knapsv/JPGAP/KE/KETAIJAW/KETAIJAW00/KETAIJAW00.asmx" />
+    </wsdl:port>
+    <wsdl:port name="KETAIJAW00Soap12" binding="tns:KETAIJAW00Soap12">
+      <soap12:address location="http://knapsv/JPGAP/KE/KETAIJAW/KETAIJAW00/KETAIJAW00.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

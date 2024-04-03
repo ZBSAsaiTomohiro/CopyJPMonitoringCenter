@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/SBMEIJAW00/Service1" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/SBMEIJAW00/Service1" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/SBMEIJAW00/Service1">
+      <s:element name="mChkkisofile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFilePath" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDATAshu" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mChkkisofileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mChkkisofileResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mChkkisofileCSV">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFilePath" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDATAshu" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mChkkisofileCSVResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mChkkisofileCSVResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mChkLTOSfile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFilePath" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDATAshu" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mChkLTOSfileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mChkLTOSfileResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mChkLTOSfileCSV">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFilePath" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrDATAshu" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mChkLTOSfileCSVResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mChkLTOSfileCSVResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mReadkisofile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFilePath" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrNendo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUser" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mReadkisofileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mReadkisofileResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mReadkisofileCSV">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFilePath" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrNendo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUser" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mReadkisofileCSVResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mReadkisofileCSVResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mReadLTOSfile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFilePath" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrNendo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUser" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mReadLTOSfileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mReadLTOSfileResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mReadLTOSfileCSV">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pstrFilePath" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrNendo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pstrUser" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mReadLTOSfileCSVResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mReadLTOSfileCSVResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="mChkkisofileSoapIn">
+    <wsdl:part name="parameters" element="tns:mChkkisofile" />
+  </wsdl:message>
+  <wsdl:message name="mChkkisofileSoapOut">
+    <wsdl:part name="parameters" element="tns:mChkkisofileResponse" />
+  </wsdl:message>
+  <wsdl:message name="mChkkisofileCSVSoapIn">
+    <wsdl:part name="parameters" element="tns:mChkkisofileCSV" />
+  </wsdl:message>
+  <wsdl:message name="mChkkisofileCSVSoapOut">
+    <wsdl:part name="parameters" element="tns:mChkkisofileCSVResponse" />
+  </wsdl:message>
+  <wsdl:message name="mChkLTOSfileSoapIn">
+    <wsdl:part name="parameters" element="tns:mChkLTOSfile" />
+  </wsdl:message>
+  <wsdl:message name="mChkLTOSfileSoapOut">
+    <wsdl:part name="parameters" element="tns:mChkLTOSfileResponse" />
+  </wsdl:message>
+  <wsdl:message name="mChkLTOSfileCSVSoapIn">
+    <wsdl:part name="parameters" element="tns:mChkLTOSfileCSV" />
+  </wsdl:message>
+  <wsdl:message name="mChkLTOSfileCSVSoapOut">
+    <wsdl:part name="parameters" element="tns:mChkLTOSfileCSVResponse" />
+  </wsdl:message>
+  <wsdl:message name="mReadkisofileSoapIn">
+    <wsdl:part name="parameters" element="tns:mReadkisofile" />
+  </wsdl:message>
+  <wsdl:message name="mReadkisofileSoapOut">
+    <wsdl:part name="parameters" element="tns:mReadkisofileResponse" />
+  </wsdl:message>
+  <wsdl:message name="mReadkisofileCSVSoapIn">
+    <wsdl:part name="parameters" element="tns:mReadkisofileCSV" />
+  </wsdl:message>
+  <wsdl:message name="mReadkisofileCSVSoapOut">
+    <wsdl:part name="parameters" element="tns:mReadkisofileCSVResponse" />
+  </wsdl:message>
+  <wsdl:message name="mReadLTOSfileSoapIn">
+    <wsdl:part name="parameters" element="tns:mReadLTOSfile" />
+  </wsdl:message>
+  <wsdl:message name="mReadLTOSfileSoapOut">
+    <wsdl:part name="parameters" element="tns:mReadLTOSfileResponse" />
+  </wsdl:message>
+  <wsdl:message name="mReadLTOSfileCSVSoapIn">
+    <wsdl:part name="parameters" element="tns:mReadLTOSfileCSV" />
+  </wsdl:message>
+  <wsdl:message name="mReadLTOSfileCSVSoapOut">
+    <wsdl:part name="parameters" element="tns:mReadLTOSfileCSVResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SBMEIJAW00Soap">
+    <wsdl:operation name="mChkkisofile">
+      <wsdl:input message="tns:mChkkisofileSoapIn" />
+      <wsdl:output message="tns:mChkkisofileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mChkkisofileCSV">
+      <wsdl:input message="tns:mChkkisofileCSVSoapIn" />
+      <wsdl:output message="tns:mChkkisofileCSVSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mChkLTOSfile">
+      <wsdl:input message="tns:mChkLTOSfileSoapIn" />
+      <wsdl:output message="tns:mChkLTOSfileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mChkLTOSfileCSV">
+      <wsdl:input message="tns:mChkLTOSfileCSVSoapIn" />
+      <wsdl:output message="tns:mChkLTOSfileCSVSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mReadkisofile">
+      <wsdl:input message="tns:mReadkisofileSoapIn" />
+      <wsdl:output message="tns:mReadkisofileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mReadkisofileCSV">
+      <wsdl:input message="tns:mReadkisofileCSVSoapIn" />
+      <wsdl:output message="tns:mReadkisofileCSVSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mReadLTOSfile">
+      <wsdl:input message="tns:mReadLTOSfileSoapIn" />
+      <wsdl:output message="tns:mReadLTOSfileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mReadLTOSfileCSV">
+      <wsdl:input message="tns:mReadLTOSfileCSVSoapIn" />
+      <wsdl:output message="tns:mReadLTOSfileCSVSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SBMEIJAW00Soap" type="tns:SBMEIJAW00Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mChkkisofile">
+      <soap:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mChkkisofile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mChkkisofileCSV">
+      <soap:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mChkkisofileCSV" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mChkLTOSfile">
+      <soap:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mChkLTOSfile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mChkLTOSfileCSV">
+      <soap:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mChkLTOSfileCSV" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mReadkisofile">
+      <soap:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mReadkisofile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mReadkisofileCSV">
+      <soap:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mReadkisofileCSV" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mReadLTOSfile">
+      <soap:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mReadLTOSfile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mReadLTOSfileCSV">
+      <soap:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mReadLTOSfileCSV" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SBMEIJAW00Soap12" type="tns:SBMEIJAW00Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="mChkkisofile">
+      <soap12:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mChkkisofile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mChkkisofileCSV">
+      <soap12:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mChkkisofileCSV" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mChkLTOSfile">
+      <soap12:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mChkLTOSfile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mChkLTOSfileCSV">
+      <soap12:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mChkLTOSfileCSV" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mReadkisofile">
+      <soap12:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mReadkisofile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mReadkisofileCSV">
+      <soap12:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mReadkisofileCSV" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mReadLTOSfile">
+      <soap12:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mReadLTOSfile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mReadLTOSfileCSV">
+      <soap12:operation soapAction="http://tempuri.org/SBMEIJAW00/Service1/mReadLTOSfileCSV" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SBMEIJAW00">
+    <wsdl:port name="SBMEIJAW00Soap" binding="tns:SBMEIJAW00Soap">
+      <soap:address location="http://knapsv/JPGAP/SB/SBMEIJAW/SBMEIJAW00/SBMEIJAW00.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SBMEIJAW00Soap12" binding="tns:SBMEIJAW00Soap12">
+      <soap12:address location="http://knapsv/JPGAP/SB/SBMEIJAW/SBMEIJAW00/SBMEIJAW00.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
